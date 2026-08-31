@@ -1,0 +1,3562 @@
+﻿1
+00:00:10,984 --> 00:00:20,069
+<font color="#06cdf8">jmg subs</font>
+
+2
+00:01:56,228 --> 00:01:58,147
+<font face="Comic Sans MS" color="#ffff80"><b>Lights out!</b></font>
+
+3
+00:02:20,753 --> 00:02:23,130
+<font face="Comic Sans MS" color="#ffff80"><b><i>--struggle which followed
+the death of Lenin...</i></b></font>
+
+4
+00:02:23,297 --> 00:02:25,549
+<font face="Comic Sans MS" color="#ffff80"><b><i>...Joseph Stalin prevailed.</i></b></font>
+
+5
+00:02:25,716 --> 00:02:30,429
+<font face="Comic Sans MS" color="#ffff80"><b><i>Stalin was the new face
+of an old idea: Marxism.</i></b></font>
+
+6
+00:02:30,596 --> 00:02:33,974
+<font face="Comic Sans MS" color="#ffff80"><b><i>While the Bolsheviks firmly established
+their authority at home...</i></b></font>
+
+7
+00:02:34,683 --> 00:02:37,978
+<font face="Comic Sans MS" color="#ffff80"><b><i>...the Comintern fomented revolution
+throughout the world.</i></b></font>
+
+8
+00:02:38,562 --> 00:02:40,814
+<font face="Comic Sans MS" color="#ffff80"><b><i>Communism was on the march.</i></b></font>
+
+9
+00:02:40,981 --> 00:02:43,233
+<font face="Comic Sans MS" color="#ffff80"><b><i>Stalin was in the Kremlin.</i></b></font>
+
+10
+00:02:43,400 --> 00:02:45,152
+<font face="Comic Sans MS" color="#ffff80"><b><i>But what of the common people?</i></b></font>
+
+11
+00:02:45,319 --> 00:02:46,987
+<font face="Comic Sans MS" color="#ffff80"><b><i>What of the proletariat?</i></b></font>
+
+12
+00:02:47,154 --> 00:02:50,324
+<font face="Comic Sans MS" color="#ffff80"><b><i>Those who fought to win a new world?</i></b></font>
+
+13
+00:02:51,492 --> 00:02:53,410
+<font face="Comic Sans MS" color="#ffff80"><b><i>If we look at the history....</i></b></font>
+
+14
+00:02:57,706 --> 00:02:59,333
+<font face="Comic Sans MS" color="#ffff80"><b>They're frying someone, Pop.</b></font>
+
+15
+00:02:59,500 --> 00:03:01,460
+<font face="Comic Sans MS" color="#ffff80"><b>You're on the Hades Express, mister.</b></font>
+
+16
+00:03:01,627 --> 00:03:03,045
+<font face="Comic Sans MS" color="#ffff80"><b>Quiet.</b></font>
+
+17
+00:03:03,212 --> 00:03:05,672
+<font face="Comic Sans MS" color="#ffff80"><b>Death is nothing to celebrate.</b></font>
+
+18
+00:03:05,839 --> 00:03:09,009
+<font face="Comic Sans MS" color="#ffff80"><b>-Don't matter who it is.
+-He just died.</b></font>
+
+19
+00:03:09,176 --> 00:03:10,844
+<font face="Comic Sans MS" color="#ffff80"><b>His name was Wayne Fisher.</b></font>
+
+20
+00:03:11,011 --> 00:03:15,265
+<font face="Comic Sans MS" color="#ffff80"><b>He was 32 years old,
+and he killed a lady with a hammer.</b></font>
+
+21
+00:03:16,100 --> 00:03:18,727
+<font face="Comic Sans MS" color="#ffff80"><b>He had a rib eye for his last meal.</b></font>
+
+22
+00:03:18,894 --> 00:03:21,688
+<font face="Comic Sans MS" color="#ffff80"><b>He's been on death row
+at Dewbend for three years.</b></font>
+
+23
+00:03:23,190 --> 00:03:27,111
+<font face="Comic Sans MS" color="#ffff80"><b>-And his last words were, "Go to hell."
+-How do you know that?</b></font>
+
+24
+00:03:27,277 --> 00:03:28,362
+<font face="Comic Sans MS" color="#ffff80"><b>It's just in my head.</b></font>
+
+25
+00:03:29,655 --> 00:03:32,074
+<font face="Comic Sans MS" color="#ffff80"><b>All right. It's past your bedtime,
+children.</b></font>
+
+26
+00:03:32,241 --> 00:03:34,284
+<font face="Comic Sans MS" color="#ffff80"><b>Go brush your teeth
+and go to bed, please.</b></font>
+
+27
+00:03:34,451 --> 00:03:37,955
+<font face="Comic Sans MS" color="#ffff80"><b><i>And history always repeats, my friends.</i></b></font>
+
+28
+00:03:38,122 --> 00:03:41,375
+<font face="Comic Sans MS" color="#ffff80"><b><i>The ghosts of their past
+will soon become our present...</i></b></font>
+
+29
+00:03:41,542 --> 00:03:44,169
+<font face="Comic Sans MS" color="#ffff80"><b><i>...if we do not confront them head-on.</i></b></font>
+
+30
+00:03:53,429 --> 00:03:56,932
+<font face="Comic Sans MS" color="#ffff80"><b>Elise, I thought I told you
+to put all these toys away.</b></font>
+
+31
+00:03:57,558 --> 00:03:59,726
+<font face="Comic Sans MS" color="#ffff80"><b>You're not listening to me.</b></font>
+
+32
+00:03:59,893 --> 00:04:01,937
+<font face="Comic Sans MS" color="#ffff80"><b>It wasn't me who made this mess.</b></font>
+
+33
+00:04:02,104 --> 00:04:03,480
+<font face="Comic Sans MS" color="#ffff80"><b>Then who was it?</b></font>
+
+34
+00:04:07,317 --> 00:04:09,987
+<font face="Comic Sans MS" color="#ffff80"><b>Christian, shut the door, please.</b></font>
+
+35
+00:04:15,325 --> 00:04:16,577
+<font face="Comic Sans MS" color="#ffff80"><b>You can tell me.</b></font>
+
+36
+00:04:20,164 --> 00:04:21,498
+<font face="Comic Sans MS" color="#ffff80"><b>It was the little boy.</b></font>
+
+37
+00:04:21,665 --> 00:04:25,169
+<font face="Comic Sans MS" color="#ffff80"><b>He lived here a long time ago,
+and he loves playing with our toys.</b></font>
+
+38
+00:04:25,335 --> 00:04:28,005
+<font face="Comic Sans MS" color="#ffff80"><b>-I swear.
+-I believe you.</b></font>
+
+39
+00:04:28,172 --> 00:04:29,256
+<font face="Comic Sans MS" color="#ffff80"><b>I do.</b></font>
+
+40
+00:04:30,299 --> 00:04:34,136
+<font face="Comic Sans MS" color="#ffff80"><b>You know,
+you've been blessed with a gift.</b></font>
+
+41
+00:04:34,845 --> 00:04:35,888
+<font face="Comic Sans MS" color="#ffff80"><b>You're special.</b></font>
+
+42
+00:04:36,472 --> 00:04:39,099
+<font face="Comic Sans MS" color="#ffff80"><b>Some people are afraid
+of special people.</b></font>
+
+43
+00:04:40,559 --> 00:04:42,686
+<font face="Comic Sans MS" color="#ffff80"><b>Your daddy, he's one of them.</b></font>
+
+44
+00:04:43,979 --> 00:04:46,815
+<font face="Comic Sans MS" color="#ffff80"><b>He doesn't understand your gift.</b></font>
+
+45
+00:04:47,816 --> 00:04:49,985
+<font face="Comic Sans MS" color="#ffff80"><b>You just keep it between us
+from now on, okay?</b></font>
+
+46
+00:04:51,695 --> 00:04:53,197
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+47
+00:04:57,201 --> 00:04:58,911
+<font face="Comic Sans MS" color="#ffff80"><b>It's time for bed.</b></font>
+
+48
+00:05:03,832 --> 00:05:06,376
+<font face="Comic Sans MS" color="#ffff80"><b>-Good night.
+-Don't turn off the light, Mom.</b></font>
+
+49
+00:05:10,297 --> 00:05:12,758
+<font face="Comic Sans MS" color="#ffff80"><b>I'm gonna be right out there, honey.</b></font>
+
+50
+00:05:12,925 --> 00:05:15,594
+<font face="Comic Sans MS" color="#ffff80"><b>And if you ever get scared,
+what do you do?</b></font>
+
+51
+00:05:16,929 --> 00:05:18,055
+<font face="Comic Sans MS" color="#ffff80"><b>That's right.</b></font>
+
+52
+00:05:18,222 --> 00:05:22,392
+<font face="Comic Sans MS" color="#ffff80"><b>I gave you this, so that if you ever
+get scared, you can go:</b></font>
+
+53
+00:05:24,686 --> 00:05:27,397
+<font face="Comic Sans MS" color="#ffff80"><b>Wherever I am, I'll come running.
+But you gotta save it...</b></font>
+
+54
+00:05:27,564 --> 00:05:30,734
+<font face="Comic Sans MS" color="#ffff80"><b>-...for when you really need me, okay?
+-Okay.</b></font>
+
+55
+00:05:33,320 --> 00:05:34,988
+<font face="Comic Sans MS" color="#ffff80"><b>I love you both so much.</b></font>
+
+56
+00:05:35,155 --> 00:05:37,783
+<font face="Comic Sans MS" color="#ffff80"><b>-Love you too, Mommy.
+-Love you, Mommy.</b></font>
+
+57
+00:05:46,542 --> 00:05:49,128
+<font face="Comic Sans MS" color="#ffff80"><b><i>We see an actual atomic bombing run.</i></b></font>
+
+58
+00:05:49,294 --> 00:05:52,714
+<font face="Comic Sans MS" color="#ffff80"><b><i>Heading for the target is </i>Bockscar,
+<i>code name for the ship.</i></b></font>
+
+59
+00:05:52,881 --> 00:05:53,924
+<font face="Comic Sans MS" color="#ffff80"><b><i>The radio navigator--</i></b></font>
+
+60
+00:05:55,426 --> 00:05:56,635
+<font face="Comic Sans MS" color="#ffff80"><b>Hey.</b></font>
+
+61
+00:05:56,802 --> 00:05:58,095
+<font face="Comic Sans MS" color="#ffff80"><b>What?</b></font>
+
+62
+00:05:58,262 --> 00:06:00,347
+<font face="Comic Sans MS" color="#ffff80"><b>You asleep yet?</b></font>
+
+63
+00:06:00,514 --> 00:06:02,099
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+64
+00:06:04,143 --> 00:06:08,063
+<font face="Comic Sans MS" color="#ffff80"><b>Do you ever think about the people
+who go to the electric chair?</b></font>
+
+65
+00:06:09,690 --> 00:06:12,109
+<font face="Comic Sans MS" color="#ffff80"><b>Sometimes.</b></font>
+
+66
+00:06:14,403 --> 00:06:18,740
+<font face="Comic Sans MS" color="#ffff80"><b>Do you wonder where they go
+after it's done?</b></font>
+
+67
+00:06:18,907 --> 00:06:20,367
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+68
+00:06:20,868 --> 00:06:23,454
+<font face="Comic Sans MS" color="#ffff80"><b>I know where they go.</b></font>
+
+69
+00:06:23,620 --> 00:06:25,289
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, yeah?</b></font>
+
+70
+00:06:25,456 --> 00:06:26,957
+<font face="Comic Sans MS" color="#ffff80"><b>Where?</b></font>
+
+71
+00:06:29,793 --> 00:06:33,255
+<font face="Comic Sans MS" color="#ffff80"><b>They go into the dark.</b></font>
+
+72
+00:06:50,230 --> 00:06:52,065
+<font face="Comic Sans MS" color="#ffff80"><b>Christian?</b></font>
+
+73
+00:07:33,107 --> 00:07:34,983
+<font face="Comic Sans MS" color="#ffff80"><b>What are you doing?</b></font>
+
+74
+00:08:03,220 --> 00:08:04,930
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+75
+00:08:22,072 --> 00:08:24,616
+<font face="Comic Sans MS" color="#ffff80"><b>You made all the mess, didn't you?</b></font>
+
+76
+00:08:26,910 --> 00:08:28,245
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+77
+00:08:33,292 --> 00:08:35,502
+<font face="Comic Sans MS" color="#ffff80"><b>Where's my whistle?</b></font>
+
+78
+00:08:37,171 --> 00:08:38,756
+<font face="Comic Sans MS" color="#ffff80"><b>The boy is in the closet.</b></font>
+
+79
+00:08:40,299 --> 00:08:42,176
+<font face="Comic Sans MS" color="#ffff80"><b>It's okay.</b></font>
+
+80
+00:08:42,342 --> 00:08:43,677
+<font face="Comic Sans MS" color="#ffff80"><b>We won't hurt you.</b></font>
+
+81
+00:08:45,387 --> 00:08:46,597
+<font face="Comic Sans MS" color="#ffff80"><b>Come on out.</b></font>
+
+82
+00:08:46,764 --> 00:08:49,016
+<font face="Comic Sans MS" color="#ffff80"><b>Stop it, Elise.</b></font>
+
+83
+00:08:50,934 --> 00:08:52,186
+<font face="Comic Sans MS" color="#ffff80"><b>Come on out.</b></font>
+
+84
+00:08:54,271 --> 00:08:55,981
+<font face="Comic Sans MS" color="#ffff80"><b>I'm not in the closet.</b></font>
+
+85
+00:09:04,406 --> 00:09:05,866
+<font face="Comic Sans MS" color="#ffff80"><b><i>The people took their revenge.</i></b></font>
+
+86
+00:09:06,909 --> 00:09:08,786
+<font face="Comic Sans MS" color="#ffff80"><b>Gerald. Gerald, no.</b></font>
+
+87
+00:09:10,078 --> 00:09:11,413
+<font face="Comic Sans MS" color="#ffff80"><b>What have you done, Elise?</b></font>
+
+88
+00:09:13,665 --> 00:09:15,793
+<font face="Comic Sans MS" color="#ffff80"><b>-Put your hands on the wall.
+-Leave her alone.</b></font>
+
+89
+00:09:15,959 --> 00:09:17,294
+<font face="Comic Sans MS" color="#ffff80"><b>Quiet, Audrey!</b></font>
+
+90
+00:09:24,968 --> 00:09:26,428
+<font face="Comic Sans MS" color="#ffff80"><b>Did you see a ghost?</b></font>
+
+91
+00:09:26,595 --> 00:09:28,263
+<font face="Comic Sans MS" color="#ffff80"><b>Gerald, stop it.</b></font>
+
+92
+00:09:28,430 --> 00:09:29,932
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+93
+00:09:34,478 --> 00:09:36,772
+<font face="Comic Sans MS" color="#ffff80"><b>I don't want to hurt you, girl.</b></font>
+
+94
+00:09:36,939 --> 00:09:39,942
+<font face="Comic Sans MS" color="#ffff80"><b>Just say no. That's all you have to do.</b></font>
+
+95
+00:09:40,109 --> 00:09:42,319
+<font face="Comic Sans MS" color="#ffff80"><b>I'm just gonna ask you again.</b></font>
+
+96
+00:09:43,153 --> 00:09:45,197
+<font face="Comic Sans MS" color="#ffff80"><b>Did you see a ghost?</b></font>
+
+97
+00:09:45,364 --> 00:09:46,406
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, I did.</b></font>
+
+98
+00:09:47,491 --> 00:09:49,326
+<font face="Comic Sans MS" color="#ffff80"><b>They're all around us in this house.</b></font>
+
+99
+00:09:49,993 --> 00:09:51,870
+<font face="Comic Sans MS" color="#ffff80"><b>They're everywhere.</b></font>
+
+100
+00:09:52,579 --> 00:09:55,082
+<font face="Comic Sans MS" color="#ffff80"><b>You don't have to do this. Please.</b></font>
+
+101
+00:09:55,249 --> 00:09:57,543
+<font face="Comic Sans MS" color="#ffff80"><b>She's just a little girl, Gerald. Please.</b></font>
+
+102
+00:09:57,709 --> 00:10:00,129
+<font face="Comic Sans MS" color="#ffff80"><b>No. No, Daddy.</b></font>
+
+103
+00:10:00,295 --> 00:10:01,422
+<font face="Comic Sans MS" color="#ffff80"><b>No, no.</b></font>
+
+104
+00:10:03,632 --> 00:10:05,467
+<font face="Comic Sans MS" color="#ffff80"><b>No, no, no. Take me. Please take me.</b></font>
+
+105
+00:10:05,634 --> 00:10:08,679
+<font face="Comic Sans MS" color="#ffff80"><b>-Help me.
+-Please, please, please. Gerald, stop!</b></font>
+
+106
+00:10:08,846 --> 00:10:11,140
+<font face="Comic Sans MS" color="#ffff80"><b>-Please, honey, she's had enough.
+-Don't. Stop.</b></font>
+
+107
+00:10:11,306 --> 00:10:12,683
+<font face="Comic Sans MS" color="#ffff80"><b>Please don't. No.</b></font>
+
+108
+00:10:12,850 --> 00:10:15,978
+<font face="Comic Sans MS" color="#ffff80"><b>Don't tell me how to punish her.
+I punish people for a living.</b></font>
+
+109
+00:10:16,145 --> 00:10:17,312
+<font face="Comic Sans MS" color="#ffff80"><b>Please!</b></font>
+
+110
+00:10:17,479 --> 00:10:18,897
+<font face="Comic Sans MS" color="#ffff80"><b>Please, not in there.</b></font>
+
+111
+00:10:19,064 --> 00:10:21,191
+<font face="Comic Sans MS" color="#ffff80"><b>No, no, no.</b></font>
+
+112
+00:10:22,109 --> 00:10:23,986
+<font face="Comic Sans MS" color="#ffff80"><b>No, Daddy!</b></font>
+
+113
+00:10:24,153 --> 00:10:26,822
+<font face="Comic Sans MS" color="#ffff80"><b>No. Daddy, please,
+I don't wanna go in there!</b></font>
+
+114
+00:10:26,989 --> 00:10:29,032
+<font face="Comic Sans MS" color="#ffff80"><b>No, not in there.</b></font>
+
+115
+00:10:29,199 --> 00:10:31,660
+<font face="Comic Sans MS" color="#ffff80"><b>No, Daddy, please, not in there!</b></font>
+
+116
+00:10:31,827 --> 00:10:34,288
+<font face="Comic Sans MS" color="#ffff80"><b>Daddy, let me out! Daddy, please!</b></font>
+
+117
+00:10:34,455 --> 00:10:36,039
+<font face="Comic Sans MS" color="#ffff80"><b>You can either follow my rules...</b></font>
+
+118
+00:10:36,206 --> 00:10:39,418
+<font face="Comic Sans MS" color="#ffff80"><b>...and sleep under my roof or you can
+break them and sleep under my floor.</b></font>
+
+119
+00:10:39,585 --> 00:10:41,003
+<font face="Comic Sans MS" color="#ffff80"><b>Don't put me in here, Daddy.</b></font>
+
+120
+00:10:41,170 --> 00:10:42,379
+<font face="Comic Sans MS" color="#ffff80"><b>Daddy, please.</b></font>
+
+121
+00:10:42,546 --> 00:10:45,841
+<font face="Comic Sans MS" color="#ffff80"><b>Daddy, come back.
+I don't wanna be in here alone.</b></font>
+
+122
+00:10:46,008 --> 00:10:48,218
+<font face="Comic Sans MS" color="#ffff80"><b>Daddy, please!</b></font>
+
+123
+00:12:11,760 --> 00:12:15,013
+<font face="Comic Sans MS" color="#ffff80"><b>Are you scared of the dark?</b></font>
+
+124
+00:12:15,431 --> 00:12:18,517
+<font face="Comic Sans MS" color="#ffff80"><b>Who is that? Who's there?</b></font>
+
+125
+00:12:23,814 --> 00:12:25,524
+<font face="Comic Sans MS" color="#ffff80"><b>Don't be afraid.</b></font>
+
+126
+00:12:25,691 --> 00:12:28,152
+<font face="Comic Sans MS" color="#ffff80"><b>I can make it light.</b></font>
+
+127
+00:12:51,425 --> 00:12:52,468
+<font face="Comic Sans MS" color="#ffff80"><b>Who is that?</b></font>
+
+128
+00:12:53,594 --> 00:12:55,262
+<font face="Comic Sans MS" color="#ffff80"><b>Why are you down here?</b></font>
+
+129
+00:12:55,429 --> 00:12:57,598
+<font face="Comic Sans MS" color="#ffff80"><b>My daddy put me down here.</b></font>
+
+130
+00:12:57,765 --> 00:13:01,393
+<font face="Comic Sans MS" color="#ffff80"><b>Your daddy doesn't treat you right.</b></font>
+
+131
+00:13:01,560 --> 00:13:03,145
+<font face="Comic Sans MS" color="#ffff80"><b>Open this door.</b></font>
+
+132
+00:13:03,312 --> 00:13:05,731
+<font face="Comic Sans MS" color="#ffff80"><b>There'll be lots of light.</b></font>
+
+133
+00:13:06,774 --> 00:13:09,109
+<font face="Comic Sans MS" color="#ffff80"><b>Go on. Open it.</b></font>
+
+134
+00:13:09,276 --> 00:13:12,738
+<font face="Comic Sans MS" color="#ffff80"><b>There's a key hanging up right there.</b></font>
+
+135
+00:13:13,322 --> 00:13:15,699
+<font face="Comic Sans MS" color="#ffff80"><b>Take your time. I can wait.</b></font>
+
+136
+00:13:15,866 --> 00:13:19,536
+<font face="Comic Sans MS" color="#ffff80"><b>You're the only one
+that can open the door.</b></font>
+
+137
+00:13:20,579 --> 00:13:22,998
+<font face="Comic Sans MS" color="#ffff80"><b>You are more powerful than you know.</b></font>
+
+138
+00:13:23,165 --> 00:13:26,960
+<font face="Comic Sans MS" color="#ffff80"><b>I want you to help me open all the doors.</b></font>
+
+139
+00:14:42,369 --> 00:14:46,290
+<font face="Comic Sans MS" color="#ffff80"><b><i>Don't forget what Bill the turtle just did,
+everyone...</i></b></font>
+
+140
+00:14:46,457 --> 00:14:49,626
+<font face="Comic Sans MS" color="#ffff80"><b><i>...because we might have to do
+the same thing.</i></b></font>
+
+141
+00:14:49,793 --> 00:14:52,296
+<font face="Comic Sans MS" color="#ffff80"><b><i>That's what this is all about, my friends.</i></b></font>
+
+142
+00:14:52,463 --> 00:14:54,131
+<font face="Comic Sans MS" color="#ffff80"><b><i>Duck and cover.</i></b></font>
+
+143
+00:14:54,673 --> 00:14:56,633
+<font face="Comic Sans MS" color="#ffff80"><b><i>This is an official civil defence film...</i></b></font>
+
+144
+00:14:56,800 --> 00:14:59,136
+<font face="Comic Sans MS" color="#ffff80"><b><i>...produced in cooperation
+with the Federal Civil--</i></b></font>
+
+145
+00:15:06,018 --> 00:15:07,478
+<font face="Comic Sans MS" color="#ffff80"><b>Elise?</b></font>
+
+146
+00:15:14,067 --> 00:15:15,527
+<font face="Comic Sans MS" color="#ffff80"><b><i>--for the ultimate--</i></b></font>
+
+147
+00:15:28,791 --> 00:15:30,584
+<font face="Comic Sans MS" color="#ffff80"><b>Elise?</b></font>
+
+148
+00:15:44,681 --> 00:15:45,808
+<font face="Comic Sans MS" color="#ffff80"><b>Audrey?</b></font>
+
+149
+00:15:48,268 --> 00:15:49,937
+<font face="Comic Sans MS" color="#ffff80"><b>Audrey.</b></font>
+
+150
+00:15:51,563 --> 00:15:53,232
+<font face="Comic Sans MS" color="#ffff80"><b>Audrey!</b></font>
+
+151
+00:15:53,398 --> 00:15:55,818
+<font face="Comic Sans MS" color="#ffff80"><b>No, no, Audrey. Audrey, no.</b></font>
+
+152
+00:15:55,984 --> 00:15:58,946
+<font face="Comic Sans MS" color="#ffff80"><b>No. No. No.</b></font>
+
+153
+00:16:01,448 --> 00:16:02,741
+<font face="Comic Sans MS" color="#ffff80"><b>No, Audrey!</b></font>
+
+154
+00:16:02,908 --> 00:16:04,660
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry.</b></font>
+
+155
+00:16:05,911 --> 00:16:07,412
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+156
+00:16:07,579 --> 00:16:09,248
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+157
+00:17:04,887 --> 00:17:06,513
+<font face="Comic Sans MS" color="#ffff80"><b>Good morning.</b></font>
+
+158
+00:17:06,680 --> 00:17:09,099
+<font face="Comic Sans MS" color="#ffff80"><b>The dreams are coming back, Warren.</b></font>
+
+159
+00:17:10,309 --> 00:17:12,770
+<font face="Comic Sans MS" color="#ffff80"><b>Just won't go away, will it?</b></font>
+
+160
+00:17:12,936 --> 00:17:16,315
+<font face="Comic Sans MS" color="#ffff80"><b>How would you like breakfast in bed?</b></font>
+
+161
+00:17:16,899 --> 00:17:18,901
+<font face="Comic Sans MS" color="#ffff80"><b>I thought so.</b></font>
+
+162
+00:17:19,067 --> 00:17:23,530
+<font face="Comic Sans MS" color="#ffff80"><b>-You're getting old, Warren. We both are.
+-I've been studying last week's footage...</b></font>
+
+163
+00:17:23,697 --> 00:17:25,365
+<font face="Comic Sans MS" color="#ffff80"><b>...from the church.
+We missed something.</b></font>
+
+164
+00:17:25,532 --> 00:17:27,159
+<font face="Comic Sans MS" color="#ffff80"><b>There is movement in the frame.</b></font>
+
+165
+00:17:29,203 --> 00:17:30,704
+<font face="Comic Sans MS" color="#ffff80"><b>-Look.
+-It's a piece of lint.</b></font>
+
+166
+00:17:31,163 --> 00:17:34,833
+<font face="Comic Sans MS" color="#ffff80"><b>-Lint doesn't walk across the room.
+-Behold.</b></font>
+
+167
+00:17:35,542 --> 00:17:38,295
+<font face="Comic Sans MS" color="#ffff80"><b>The reason I was up all night.</b></font>
+
+168
+00:17:40,089 --> 00:17:41,590
+<font face="Comic Sans MS" color="#ffff80"><b>The lights.</b></font>
+
+169
+00:17:42,800 --> 00:17:45,761
+<font face="Comic Sans MS" color="#ffff80"><b>That's right, my friends.
+It's voice activated.</b></font>
+
+170
+00:17:45,928 --> 00:17:49,389
+<font face="Comic Sans MS" color="#ffff80"><b>No more dealing with pesky switches,
+having to find them in the dark...</b></font>
+
+171
+00:17:49,556 --> 00:17:51,600
+<font face="Comic Sans MS" color="#ffff80"><b>...straining fingers as you switch them.</b></font>
+
+172
+00:17:51,767 --> 00:17:53,977
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, that was a real problem before,
+you know.</b></font>
+
+173
+00:17:54,144 --> 00:17:56,438
+<font face="Comic Sans MS" color="#ffff80"><b>Toil in the darkness of sarcasm,
+my friend.</b></font>
+
+174
+00:17:56,605 --> 00:18:01,193
+<font face="Comic Sans MS" color="#ffff80"><b>I prefer to work in the lights.</b></font>
+
+175
+00:18:05,364 --> 00:18:07,116
+<font face="Comic Sans MS" color="#ffff80"><b>The lights?</b></font>
+
+176
+00:18:07,699 --> 00:18:09,660
+<font face="Comic Sans MS" color="#ffff80"><b>Lights!</b></font>
+
+177
+00:18:13,497 --> 00:18:14,540
+<font face="Comic Sans MS" color="#ffff80"><b>Bad acoustics.</b></font>
+
+178
+00:18:14,706 --> 00:18:19,002
+<font face="Comic Sans MS" color="#ffff80"><b>Natural light's better
+for the environment anyway. VoilГ .</b></font>
+
+179
+00:18:19,169 --> 00:18:21,422
+<font face="Comic Sans MS" color="#ffff80"><b>I love that you boys are staying
+in the house.</b></font>
+
+180
+00:18:21,588 --> 00:18:25,342
+<font face="Comic Sans MS" color="#ffff80"><b>But please don't try to fix anything else
+that isn't broken.</b></font>
+
+181
+00:18:29,721 --> 00:18:31,598
+<font face="Comic Sans MS" color="#ffff80"><b>Spectral Sightings.</b></font>
+
+182
+00:18:32,766 --> 00:18:34,017
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, she is.</b></font>
+
+183
+00:18:34,184 --> 00:18:35,644
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+184
+00:18:36,603 --> 00:18:39,815
+<font face="Comic Sans MS" color="#ffff80"><b>-This is Elise.
+<i>-Hey there. My name is Ted Garza.</i></b></font>
+
+185
+00:18:39,982 --> 00:18:41,942
+<font face="Comic Sans MS" color="#ffff80"><b>Nice to meet you, Mr Garza.</b></font>
+
+186
+00:18:42,109 --> 00:18:44,653
+<font face="Comic Sans MS" color="#ffff80"><b><i>Yeah. I'm having some problems.</i></b></font>
+
+187
+00:18:44,820 --> 00:18:46,947
+<font face="Comic Sans MS" color="#ffff80"><b><i>Things are happening in my house...</i></b></font>
+
+188
+00:18:47,114 --> 00:18:49,908
+<font face="Comic Sans MS" color="#ffff80"><b><i>...and they say
+that you know about this stuff.</i></b></font>
+
+189
+00:18:50,075 --> 00:18:51,493
+<font face="Comic Sans MS" color="#ffff80"><b>I know some things.</b></font>
+
+190
+00:18:51,660 --> 00:18:55,122
+<font face="Comic Sans MS" color="#ffff80"><b><i>Yeah, well, I was wondering
+if you could take a look.</i></b></font>
+
+191
+00:18:55,289 --> 00:18:59,877
+<font face="Comic Sans MS" color="#ffff80"><b><i>I need-- I need help is the thing, see.</i></b></font>
+
+192
+00:19:00,043 --> 00:19:01,545
+<font face="Comic Sans MS" color="#ffff80"><b>May I ask where you live?</b></font>
+
+193
+00:19:01,712 --> 00:19:06,300
+<font face="Comic Sans MS" color="#ffff80"><b><i>I live at 414 Appletree Road...</i></b></font>
+
+194
+00:19:07,259 --> 00:19:09,386
+<font face="Comic Sans MS" color="#ffff80"><b><i>...Five Keys, New Mexico.</i></b></font>
+
+195
+00:19:19,188 --> 00:19:21,106
+<font face="Comic Sans MS" color="#ffff80"><b>Mr Garza...</b></font>
+
+196
+00:19:21,648 --> 00:19:24,818
+<font face="Comic Sans MS" color="#ffff80"><b>...I wish I could help you,
+but I really can't.</b></font>
+
+197
+00:19:24,985 --> 00:19:26,737
+<font face="Comic Sans MS" color="#ffff80"><b>I'm so sorry.</b></font>
+
+198
+00:19:26,904 --> 00:19:30,073
+<font face="Comic Sans MS" color="#ffff80"><b>I thank you very much
+for thinking of me.</b></font>
+
+199
+00:19:55,724 --> 00:19:58,435
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry to drag you boys out of bed.</b></font>
+
+200
+00:19:58,977 --> 00:20:02,189
+<font face="Comic Sans MS" color="#ffff80"><b>That man who called today about a job...</b></font>
+
+201
+00:20:05,317 --> 00:20:09,238
+<font face="Comic Sans MS" color="#ffff80"><b>...he told me he lives in the house
+that I grew up in.</b></font>
+
+202
+00:20:10,697 --> 00:20:14,284
+<font face="Comic Sans MS" color="#ffff80"><b>I call it a house because it wasn't a--
+A home.</b></font>
+
+203
+00:20:20,457 --> 00:20:24,545
+<font face="Comic Sans MS" color="#ffff80"><b>I don't have memories from that place.
+I have scars.</b></font>
+
+204
+00:20:26,630 --> 00:20:30,926
+<font face="Comic Sans MS" color="#ffff80"><b>This gift I have
+that you boys are so in awe of...</b></font>
+
+205
+00:20:32,553 --> 00:20:35,305
+<font face="Comic Sans MS" color="#ffff80"><b>...my father tried to beat it out of me.</b></font>
+
+206
+00:20:37,474 --> 00:20:38,934
+<font face="Comic Sans MS" color="#ffff80"><b>And...</b></font>
+
+207
+00:20:39,476 --> 00:20:40,644
+<font face="Comic Sans MS" color="#ffff80"><b>...my mother...</b></font>
+
+208
+00:20:41,520 --> 00:20:43,730
+<font face="Comic Sans MS" color="#ffff80"><b>...she was killed in that house.</b></font>
+
+209
+00:20:43,897 --> 00:20:47,901
+<font face="Comic Sans MS" color="#ffff80"><b>She was murdered by something
+that I brought into this world.</b></font>
+
+210
+00:20:48,527 --> 00:20:51,780
+<font face="Comic Sans MS" color="#ffff80"><b>This demon wants to use my abilities...</b></font>
+
+211
+00:20:51,947 --> 00:20:54,366
+<font face="Comic Sans MS" color="#ffff80"><b>...and it will hurt the ones I love
+to get to me.</b></font>
+
+212
+00:20:54,533 --> 00:20:57,035
+<font face="Comic Sans MS" color="#ffff80"><b>That's why I never want to go
+into The Further...</b></font>
+
+213
+00:20:57,202 --> 00:20:59,288
+<font face="Comic Sans MS" color="#ffff80"><b>...like I did for Quinn.</b></font>
+
+214
+00:20:59,455 --> 00:21:03,208
+<font face="Comic Sans MS" color="#ffff80"><b>I have spent my life fighting
+these things...</b></font>
+
+215
+00:21:03,375 --> 00:21:07,129
+<font face="Comic Sans MS" color="#ffff80"><b>...because I can never forget the look
+on my mother's face when she died.</b></font>
+
+216
+00:21:09,089 --> 00:21:10,799
+<font face="Comic Sans MS" color="#ffff80"><b>So...</b></font>
+
+217
+00:21:12,134 --> 00:21:14,470
+<font face="Comic Sans MS" color="#ffff80"><b>...I have to help this man...</b></font>
+
+218
+00:21:15,679 --> 00:21:18,599
+<font face="Comic Sans MS" color="#ffff80"><b>...because I know what he's up against.</b></font>
+
+219
+00:21:20,017 --> 00:21:23,312
+<font face="Comic Sans MS" color="#ffff80"><b>We'll pack up the truck tonight.
+We'll get an early start tomorrow.</b></font>
+
+220
+00:21:23,479 --> 00:21:25,230
+<font face="Comic Sans MS" color="#ffff80"><b>Not this time.</b></font>
+
+221
+00:21:26,064 --> 00:21:28,609
+<font face="Comic Sans MS" color="#ffff80"><b>This one, I have to do...</b></font>
+
+222
+00:21:29,443 --> 00:21:30,986
+<font face="Comic Sans MS" color="#ffff80"><b>...alone.</b></font>
+
+223
+00:22:15,697 --> 00:22:19,701
+<font face="Comic Sans MS" color="#ffff80"><b>We have to come with you now.
+This cost us 700 bucks.</b></font>
+
+224
+00:22:19,868 --> 00:22:22,830
+<font face="Comic Sans MS" color="#ffff80"><b>Plus 200 for the logo paint job.</b></font>
+
+225
+00:24:03,388 --> 00:24:05,182
+<font face="Comic Sans MS" color="#ffff80"><b>Before we go inside...</b></font>
+
+226
+00:24:05,349 --> 00:24:07,726
+<font face="Comic Sans MS" color="#ffff80"><b>...I brought some clothes for you boys.</b></font>
+
+227
+00:24:09,436 --> 00:24:13,565
+<font face="Comic Sans MS" color="#ffff80"><b>Some of it belonged to Jack,
+and it's very important to me.</b></font>
+
+228
+00:24:16,360 --> 00:24:18,445
+<font face="Comic Sans MS" color="#ffff80"><b>I bet I can guess who you are.</b></font>
+
+229
+00:24:18,612 --> 00:24:20,823
+<font face="Comic Sans MS" color="#ffff80"><b>There's no need. I'm Elise.</b></font>
+
+230
+00:24:21,406 --> 00:24:23,117
+<font face="Comic Sans MS" color="#ffff80"><b>-Hi.
+-And this is Specs and Tucker...</b></font>
+
+231
+00:24:23,283 --> 00:24:24,618
+<font face="Comic Sans MS" color="#ffff80"><b>...my associates.</b></font>
+
+232
+00:24:24,785 --> 00:24:26,620
+<font face="Comic Sans MS" color="#ffff80"><b>She's psychic.</b></font>
+
+233
+00:24:26,787 --> 00:24:28,914
+<font face="Comic Sans MS" color="#ffff80"><b>We're sidekick.</b></font>
+
+234
+00:24:29,373 --> 00:24:30,833
+<font face="Comic Sans MS" color="#ffff80"><b>Where's that?</b></font>
+
+235
+00:24:30,999 --> 00:24:34,002
+<font face="Comic Sans MS" color="#ffff80"><b>She's psychic. We're sidekick.</b></font>
+
+236
+00:24:35,546 --> 00:24:39,049
+<font face="Comic Sans MS" color="#ffff80"><b>-Sorry, I'm-- I'm not understanding.
+-Yeah, never mind.</b></font>
+
+237
+00:24:40,217 --> 00:24:42,094
+<font face="Comic Sans MS" color="#ffff80"><b>You wanna come in? Here.</b></font>
+
+238
+00:24:42,261 --> 00:24:44,930
+<font face="Comic Sans MS" color="#ffff80"><b>Come on. I'm supposed
+to invite you in. Come on.</b></font>
+
+239
+00:24:45,597 --> 00:24:47,182
+<font face="Comic Sans MS" color="#ffff80"><b>Hello.</b></font>
+
+240
+00:24:56,942 --> 00:24:58,235
+<font face="Comic Sans MS" color="#ffff80"><b><i>--aggression.</i></b></font>
+
+241
+00:24:58,402 --> 00:25:01,405
+<font face="Comic Sans MS" color="#ffff80"><b><i>And history always repeats, my friends.</i></b></font>
+
+242
+00:25:01,572 --> 00:25:04,908
+<font face="Comic Sans MS" color="#ffff80"><b><i>The ghosts of their past
+will soon become our present...</i></b></font>
+
+243
+00:25:05,075 --> 00:25:06,702
+<font face="Comic Sans MS" color="#ffff80"><b><i>...if we do not confront them--</i></b></font>
+
+244
+00:25:06,869 --> 00:25:08,912
+<font face="Comic Sans MS" color="#ffff80"><b>You still have so much of our old stuff.</b></font>
+
+245
+00:25:09,079 --> 00:25:11,039
+<font face="Comic Sans MS" color="#ffff80"><b>It was all here.</b></font>
+
+246
+00:25:12,249 --> 00:25:14,460
+<font face="Comic Sans MS" color="#ffff80"><b>Pretty good stuff, you know?</b></font>
+
+247
+00:25:14,626 --> 00:25:16,712
+<font face="Comic Sans MS" color="#ffff80"><b>I didn't see any reason to get rid of it.</b></font>
+
+248
+00:25:17,379 --> 00:25:19,423
+<font face="Comic Sans MS" color="#ffff80"><b>There's stories.</b></font>
+
+249
+00:25:20,591 --> 00:25:22,009
+<font face="Comic Sans MS" color="#ffff80"><b>About your family.</b></font>
+
+250
+00:25:22,176 --> 00:25:24,803
+<font face="Comic Sans MS" color="#ffff80"><b>I never listened to them
+when they said that...</b></font>
+
+251
+00:25:24,970 --> 00:25:27,306
+<font face="Comic Sans MS" color="#ffff80"><b>...this wasn't a place that I should live.</b></font>
+
+252
+00:25:27,473 --> 00:25:30,434
+<font face="Comic Sans MS" color="#ffff80"><b>You know, I looked at it,
+and I just saw a little house.</b></font>
+
+253
+00:25:31,310 --> 00:25:34,855
+<font face="Comic Sans MS" color="#ffff80"><b>I said, "Screw the stories,"
+and I bought it.</b></font>
+
+254
+00:25:38,901 --> 00:25:40,694
+<font face="Comic Sans MS" color="#ffff80"><b>Now I believe the stories.</b></font>
+
+255
+00:25:46,492 --> 00:25:48,285
+<font face="Comic Sans MS" color="#ffff80"><b>You getting anything?</b></font>
+
+256
+00:25:49,036 --> 00:25:52,664
+<font face="Comic Sans MS" color="#ffff80"><b>There are so many spirits,
+it's hard to tell the good from the evil.</b></font>
+
+257
+00:25:52,831 --> 00:25:55,667
+<font face="Comic Sans MS" color="#ffff80"><b>A lot of people died in that prison.</b></font>
+
+258
+00:25:55,834 --> 00:25:57,628
+<font face="Comic Sans MS" color="#ffff80"><b>When did these occurrences start?</b></font>
+
+259
+00:25:57,795 --> 00:26:00,172
+<font face="Comic Sans MS" color="#ffff80"><b>Soon after I moved in.</b></font>
+
+260
+00:26:03,425 --> 00:26:05,511
+<font face="Comic Sans MS" color="#ffff80"><b>First, it was...</b></font>
+
+261
+00:26:05,677 --> 00:26:07,763
+<font face="Comic Sans MS" color="#ffff80"><b>...the little things, you know?</b></font>
+
+262
+00:26:08,222 --> 00:26:09,598
+<font face="Comic Sans MS" color="#ffff80"><b>Things that....</b></font>
+
+263
+00:26:13,393 --> 00:26:16,188
+<font face="Comic Sans MS" color="#ffff80"><b><i>You've been blessed with a gift.</i></b></font>
+
+264
+00:26:32,913 --> 00:26:34,957
+<font face="Comic Sans MS" color="#ffff80"><b><i>You're special.</i></b></font>
+
+265
+00:26:35,374 --> 00:26:38,377
+<font face="Comic Sans MS" color="#ffff80"><b><i>You just keep it between us
+from now on, okay?</i></b></font>
+
+266
+00:26:39,253 --> 00:26:42,005
+<font face="Comic Sans MS" color="#ffff80"><b><i>No. No!</i></b></font>
+
+267
+00:26:44,633 --> 00:26:45,968
+<font face="Comic Sans MS" color="#ffff80"><b>You okay?</b></font>
+
+268
+00:26:49,471 --> 00:26:51,974
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, I'm-- I'm fine.</b></font>
+
+269
+00:26:52,891 --> 00:26:55,060
+<font face="Comic Sans MS" color="#ffff80"><b>These experiences you're having--</b></font>
+
+270
+00:26:55,227 --> 00:26:56,937
+<font face="Comic Sans MS" color="#ffff80"><b>Where do they mainly occur?</b></font>
+
+271
+00:26:58,897 --> 00:27:01,233
+<font face="Comic Sans MS" color="#ffff80"><b>Mostly in one room.</b></font>
+
+272
+00:27:02,776 --> 00:27:04,611
+<font face="Comic Sans MS" color="#ffff80"><b>I keep it locked now.</b></font>
+
+273
+00:27:04,778 --> 00:27:07,573
+<font face="Comic Sans MS" color="#ffff80"><b>I haven't opened it in three months.</b></font>
+
+274
+00:27:12,578 --> 00:27:14,413
+<font face="Comic Sans MS" color="#ffff80"><b>I'll take that one.</b></font>
+
+275
+00:27:14,872 --> 00:27:16,748
+<font face="Comic Sans MS" color="#ffff80"><b>You wanna give me a hand?</b></font>
+
+276
+00:27:18,333 --> 00:27:19,918
+<font face="Comic Sans MS" color="#ffff80"><b>That's good.</b></font>
+
+277
+00:27:22,087 --> 00:27:23,839
+<font face="Comic Sans MS" color="#ffff80"><b>A little bit more.</b></font>
+
+278
+00:27:51,700 --> 00:27:53,327
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry.</b></font>
+
+279
+00:27:53,494 --> 00:27:55,412
+<font face="Comic Sans MS" color="#ffff80"><b>Can't go in there.</b></font>
+
+280
+00:28:06,590 --> 00:28:08,634
+<font face="Comic Sans MS" color="#ffff80"><b>When it first started...</b></font>
+
+281
+00:28:09,510 --> 00:28:13,222
+<font face="Comic Sans MS" color="#ffff80"><b>...I could hear somebody
+just walking back and forth.</b></font>
+
+282
+00:28:13,680 --> 00:28:17,059
+<font face="Comic Sans MS" color="#ffff80"><b>Someone was talking to themselves.</b></font>
+
+283
+00:28:27,903 --> 00:28:30,739
+<font face="Comic Sans MS" color="#ffff80"><b>You think you're going crazy,
+and then you...</b></font>
+
+284
+00:28:30,906 --> 00:28:33,200
+<font face="Comic Sans MS" color="#ffff80"><b>...you actually hear it.</b></font>
+
+285
+00:28:35,661 --> 00:28:37,454
+<font face="Comic Sans MS" color="#ffff80"><b>And you know you're not.</b></font>
+
+286
+00:28:37,913 --> 00:28:40,749
+<font face="Comic Sans MS" color="#ffff80"><b>Finally, one day, I walked in...</b></font>
+
+287
+00:28:40,916 --> 00:28:43,043
+<font face="Comic Sans MS" color="#ffff80"><b>...and I screamed at it:</b></font>
+
+288
+00:28:43,502 --> 00:28:45,295
+<font face="Comic Sans MS" color="#ffff80"><b>"You stop."</b></font>
+
+289
+00:28:47,131 --> 00:28:49,216
+<font face="Comic Sans MS" color="#ffff80"><b>"You stop.</b></font>
+
+290
+00:28:50,551 --> 00:28:51,718
+<font face="Comic Sans MS" color="#ffff80"><b>Please stop."</b></font>
+
+291
+00:28:53,846 --> 00:28:56,390
+<font face="Comic Sans MS" color="#ffff80"><b>My whole life savings is in this place.</b></font>
+
+292
+00:28:56,557 --> 00:28:58,142
+<font face="Comic Sans MS" color="#ffff80"><b>You gotta help me.</b></font>
+
+293
+00:28:58,308 --> 00:28:59,977
+<font face="Comic Sans MS" color="#ffff80"><b>You gotta help me, please.</b></font>
+
+294
+00:29:00,727 --> 00:29:02,813
+<font face="Comic Sans MS" color="#ffff80"><b>That's what we do.</b></font>
+
+295
+00:29:06,525 --> 00:29:10,154
+<font face="Comic Sans MS" color="#ffff80"><b>The camera is so we can see
+what she sees from out in the truck.</b></font>
+
+296
+00:29:11,321 --> 00:29:14,074
+<font face="Comic Sans MS" color="#ffff80"><b>We call it the "Winneba-ghost."</b></font>
+
+297
+00:29:19,163 --> 00:29:22,040
+<font face="Comic Sans MS" color="#ffff80"><b>I think I'm gonna go there now.</b></font>
+
+298
+00:29:33,218 --> 00:29:35,512
+<font face="Comic Sans MS" color="#ffff80"><b>You really are gonna stay here
+all alone?</b></font>
+
+299
+00:29:35,679 --> 00:29:41,226
+<font face="Comic Sans MS" color="#ffff80"><b>My presence tends to draw the spirits
+out of their dark, little corners.</b></font>
+
+300
+00:29:43,270 --> 00:29:45,439
+<font face="Comic Sans MS" color="#ffff80"><b>You need to take this.</b></font>
+
+301
+00:29:47,107 --> 00:29:48,734
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+
+302
+00:29:50,027 --> 00:29:51,153
+<font face="Comic Sans MS" color="#ffff80"><b>Good night.</b></font>
+
+303
+00:30:13,175 --> 00:30:15,094
+<font face="Comic Sans MS" color="#ffff80"><b>Can you hear us, Elise?</b></font>
+
+304
+00:30:16,637 --> 00:30:20,641
+<font face="Comic Sans MS" color="#ffff80"><b>Yes. Try not to drown out
+the other voices.</b></font>
+
+305
+00:30:21,308 --> 00:30:23,227
+<font face="Comic Sans MS" color="#ffff80"><b><i>We got you. We gone.</i></b></font>
+
+306
+00:30:24,978 --> 00:30:26,146
+<font face="Comic Sans MS" color="#ffff80"><b>Here you go.</b></font>
+
+307
+00:30:27,439 --> 00:30:29,441
+<font face="Comic Sans MS" color="#ffff80"><b>-What's this?
+-Lights.</b></font>
+
+308
+00:30:30,901 --> 00:30:32,277
+<font face="Comic Sans MS" color="#ffff80"><b>Thanks.</b></font>
+
+309
+00:31:52,566 --> 00:31:55,068
+<font face="Comic Sans MS" color="#ffff80"><b>I thought you were gone forever.</b></font>
+
+310
+00:31:57,613 --> 00:31:59,323
+<font face="Comic Sans MS" color="#ffff80"><b><i>My mother got this for my brother...</i></b></font>
+
+311
+00:31:59,490 --> 00:32:02,785
+<font face="Comic Sans MS" color="#ffff80"><b>...and he lost it
+when he was 6 years old.</b></font>
+
+312
+00:32:12,419 --> 00:32:14,213
+<font face="Comic Sans MS" color="#ffff80"><b>Safe now.</b></font>
+
+313
+00:34:31,975 --> 00:34:33,268
+<font face="Comic Sans MS" color="#ffff80"><b>-Stop.
+-What?</b></font>
+
+314
+00:34:33,435 --> 00:34:34,770
+<font face="Comic Sans MS" color="#ffff80"><b>Go back, to the left.</b></font>
+
+315
+00:34:38,273 --> 00:34:40,567
+<font face="Comic Sans MS" color="#ffff80"><b>-What?
+-Yeah, nothing.</b></font>
+
+316
+00:34:40,734 --> 00:34:42,736
+<font face="Comic Sans MS" color="#ffff80"><b>Thought I saw some feet.</b></font>
+
+317
+00:34:42,903 --> 00:34:44,071
+<font face="Comic Sans MS" color="#ffff80"><b>Feet?</b></font>
+
+318
+00:35:09,513 --> 00:35:12,558
+<font face="Comic Sans MS" color="#ffff80"><b>Elise, there's someone
+right in front of you.</b></font>
+
+319
+00:35:14,476 --> 00:35:16,103
+<font face="Comic Sans MS" color="#ffff80"><b><i>Looks like a woman.</i></b></font>
+
+320
+00:35:16,270 --> 00:35:17,813
+<font face="Comic Sans MS" color="#ffff80"><b>I don't see anything.</b></font>
+
+321
+00:35:18,814 --> 00:35:21,608
+<font face="Comic Sans MS" color="#ffff80"><b><i>Elise, be careful.</i></b></font>
+
+322
+00:35:27,573 --> 00:35:29,867
+<font face="Comic Sans MS" color="#ffff80"><b>I don't see what you're seeing.</b></font>
+
+323
+00:35:32,077 --> 00:35:35,414
+<font face="Comic Sans MS" color="#ffff80"><b><i>You're going to touch it.</i></b></font>
+
+324
+00:35:36,582 --> 00:35:37,583
+<font face="Comic Sans MS" color="#ffff80"><b>Be careful.</b></font>
+
+325
+00:35:41,962 --> 00:35:43,172
+<font face="Comic Sans MS" color="#ffff80"><b>Help her.</b></font>
+
+326
+00:35:47,801 --> 00:35:50,846
+<font face="Comic Sans MS" color="#ffff80"><b>Elise? Elise? What happened?</b></font>
+
+327
+00:35:52,097 --> 00:35:53,599
+<font face="Comic Sans MS" color="#ffff80"><b>The whistle.</b></font>
+
+328
+00:35:53,766 --> 00:35:55,809
+<font face="Comic Sans MS" color="#ffff80"><b>It took the whistle.</b></font>
+
+329
+00:35:55,976 --> 00:35:58,312
+<font face="Comic Sans MS" color="#ffff80"><b>What were you doing in there?</b></font>
+
+330
+00:35:58,479 --> 00:36:01,148
+<font face="Comic Sans MS" color="#ffff80"><b>Thought you were gonna stay
+in the bedroom.</b></font>
+
+331
+00:36:01,315 --> 00:36:03,150
+<font face="Comic Sans MS" color="#ffff80"><b>Something led me down there.</b></font>
+
+332
+00:36:03,317 --> 00:36:05,152
+<font face="Comic Sans MS" color="#ffff80"><b>The spirit of a woman.</b></font>
+
+333
+00:36:05,569 --> 00:36:09,656
+<font face="Comic Sans MS" color="#ffff80"><b>I don't know why she said, "Help her,"
+but it's a ghost I have seen before...</b></font>
+
+334
+00:36:10,157 --> 00:36:11,784
+<font face="Comic Sans MS" color="#ffff80"><b>...in this house.</b></font>
+
+335
+00:36:13,494 --> 00:36:16,330
+<font face="Comic Sans MS" color="#ffff80"><b>When I was 16 years old.</b></font>
+
+336
+00:36:38,519 --> 00:36:40,354
+<font face="Comic Sans MS" color="#ffff80"><b>Did you hear that?</b></font>
+
+337
+00:36:40,521 --> 00:36:41,688
+<font face="Comic Sans MS" color="#ffff80"><b>Hear what?</b></font>
+
+338
+00:36:41,855 --> 00:36:44,483
+<font face="Comic Sans MS" color="#ffff80"><b>There's someone in the laundry room.</b></font>
+
+339
+00:36:44,650 --> 00:36:46,151
+<font face="Comic Sans MS" color="#ffff80"><b>No, there isn't.</b></font>
+
+340
+00:36:46,902 --> 00:36:48,362
+<font face="Comic Sans MS" color="#ffff80"><b>I heard it.</b></font>
+
+341
+00:36:48,529 --> 00:36:49,863
+<font face="Comic Sans MS" color="#ffff80"><b>I'm gonna go look.</b></font>
+
+342
+00:36:50,030 --> 00:36:52,616
+<font face="Comic Sans MS" color="#ffff80"><b>No. Don't, Elise.</b></font>
+
+343
+00:36:58,831 --> 00:37:00,374
+<font face="Comic Sans MS" color="#ffff80"><b>Hello.</b></font>
+
+344
+00:37:02,167 --> 00:37:04,086
+<font face="Comic Sans MS" color="#ffff80"><b>I live here with my brother, Christian.</b></font>
+
+345
+00:37:04,253 --> 00:37:06,755
+<font face="Comic Sans MS" color="#ffff80"><b>-What's your name?
+-Stop it.</b></font>
+
+346
+00:37:07,172 --> 00:37:08,799
+<font face="Comic Sans MS" color="#ffff80"><b>You're making it up.</b></font>
+
+347
+00:37:09,800 --> 00:37:13,137
+<font face="Comic Sans MS" color="#ffff80"><b>Come out and see my brother.
+He doesn't believe that you're here.</b></font>
+
+348
+00:37:13,303 --> 00:37:14,805
+<font face="Comic Sans MS" color="#ffff80"><b>Christian!</b></font>
+
+349
+00:37:21,395 --> 00:37:23,147
+<font face="Comic Sans MS" color="#ffff80"><b>What are you doing, girl?</b></font>
+
+350
+00:37:23,564 --> 00:37:25,858
+<font face="Comic Sans MS" color="#ffff80"><b>There's someone in the laundry.</b></font>
+
+351
+00:37:36,368 --> 00:37:37,578
+<font face="Comic Sans MS" color="#ffff80"><b>There's no one in here.</b></font>
+
+352
+00:37:41,248 --> 00:37:42,875
+<font face="Comic Sans MS" color="#ffff80"><b>You're doing it again.</b></font>
+
+353
+00:37:45,753 --> 00:37:49,548
+<font face="Comic Sans MS" color="#ffff80"><b>You can't punish me for this.
+I never wanted it. I never asked for it.</b></font>
+
+354
+00:37:52,050 --> 00:37:54,094
+<font face="Comic Sans MS" color="#ffff80"><b>If there's one thing...</b></font>
+
+355
+00:37:54,720 --> 00:37:57,723
+<font face="Comic Sans MS" color="#ffff80"><b>...you've been doing
+your whole life, Elise...</b></font>
+
+356
+00:37:57,890 --> 00:37:59,141
+<font face="Comic Sans MS" color="#ffff80"><b>...it's ask for it.</b></font>
+
+357
+00:38:10,736 --> 00:38:13,697
+<font face="Comic Sans MS" color="#ffff80"><b>I won't let you hurt me anymore.</b></font>
+
+358
+00:38:17,910 --> 00:38:19,036
+<font face="Comic Sans MS" color="#ffff80"><b>Please!</b></font>
+
+359
+00:38:19,703 --> 00:38:21,538
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+360
+00:38:22,748 --> 00:38:24,208
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+361
+00:38:27,544 --> 00:38:29,171
+<font face="Comic Sans MS" color="#ffff80"><b>Elise, don't go!</b></font>
+
+362
+00:38:31,381 --> 00:38:34,843
+<font face="Comic Sans MS" color="#ffff80"><b>Leave her be. Leave her be.</b></font>
+
+363
+00:38:35,511 --> 00:38:39,932
+<font face="Comic Sans MS" color="#ffff80"><b>She needs to learn that nobody else
+can possibly love someone like her.</b></font>
+
+364
+00:38:48,690 --> 00:38:51,485
+<font face="Comic Sans MS" color="#ffff80"><b>I haven't been back here since.</b></font>
+
+365
+00:38:58,242 --> 00:39:00,828
+<font face="Comic Sans MS" color="#ffff80"><b>I think that's all for tonight.</b></font>
+
+366
+00:39:00,994 --> 00:39:02,871
+<font face="Comic Sans MS" color="#ffff80"><b>We'll pick it up tomorrow.</b></font>
+
+367
+00:39:07,334 --> 00:39:10,337
+<font face="Comic Sans MS" color="#ffff80"><b>Christian and I came here a lot as kids.</b></font>
+
+368
+00:39:10,796 --> 00:39:12,673
+<font face="Comic Sans MS" color="#ffff80"><b>Do I look okay?</b></font>
+
+369
+00:39:12,840 --> 00:39:14,550
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, of course.</b></font>
+
+370
+00:39:25,102 --> 00:39:26,603
+<font face="Comic Sans MS" color="#ffff80"><b>All right.</b></font>
+
+371
+00:39:37,030 --> 00:39:38,282
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry. I--</b></font>
+
+372
+00:39:38,449 --> 00:39:40,993
+<font face="Comic Sans MS" color="#ffff80"><b>You just look so much
+like someone I know very well.</b></font>
+
+373
+00:39:41,160 --> 00:39:42,786
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, really?</b></font>
+
+374
+00:39:43,704 --> 00:39:44,746
+<font face="Comic Sans MS" color="#ffff80"><b>I'm Elise.</b></font>
+
+375
+00:39:44,913 --> 00:39:46,039
+<font face="Comic Sans MS" color="#ffff80"><b>Melissa.</b></font>
+
+376
+00:39:46,206 --> 00:39:47,374
+<font face="Comic Sans MS" color="#ffff80"><b>Imogen.</b></font>
+
+377
+00:39:47,541 --> 00:39:50,252
+<font face="Comic Sans MS" color="#ffff80"><b>-And you're sisters.
+-Yes, we are.</b></font>
+
+378
+00:39:50,419 --> 00:39:52,045
+<font face="Comic Sans MS" color="#ffff80"><b>Tucker.</b></font>
+
+379
+00:39:52,212 --> 00:39:53,756
+<font face="Comic Sans MS" color="#ffff80"><b>Specs.</b></font>
+
+380
+00:39:54,423 --> 00:39:56,300
+<font face="Comic Sans MS" color="#ffff80"><b>I'm Specs. Or Steven.</b></font>
+
+381
+00:39:56,467 --> 00:39:57,718
+<font face="Comic Sans MS" color="#ffff80"><b>Whatever. Your choice.</b></font>
+
+382
+00:39:57,885 --> 00:40:00,053
+<font face="Comic Sans MS" color="#ffff80"><b>She's psychic, and we're sidekick.</b></font>
+
+383
+00:40:00,721 --> 00:40:01,972
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry?</b></font>
+
+384
+00:40:03,182 --> 00:40:04,641
+<font face="Comic Sans MS" color="#ffff80"><b>Forget it.</b></font>
+
+385
+00:40:04,808 --> 00:40:07,603
+<font face="Comic Sans MS" color="#ffff80"><b>-So are you guys visiting the area?
+-Tough to talk about.</b></font>
+
+386
+00:40:07,770 --> 00:40:10,647
+<font face="Comic Sans MS" color="#ffff80"><b>Actually, it's pretty <i>confidencial.</i></b></font>
+
+387
+00:40:10,814 --> 00:40:13,609
+<font face="Comic Sans MS" color="#ffff80"><b>It's a poltergeist infestation
+involving Ted Garza.</b></font>
+
+388
+00:40:13,776 --> 00:40:16,320
+<font face="Comic Sans MS" color="#ffff80"><b>Do you know him?
+He lives, like, down the road or--?</b></font>
+
+389
+00:40:16,487 --> 00:40:18,947
+<font face="Comic Sans MS" color="#ffff80"><b>Ghosts and ghouls.</b></font>
+
+390
+00:40:19,114 --> 00:40:21,283
+<font face="Comic Sans MS" color="#ffff80"><b>What he's trying to say
+is we're ghost hunters.</b></font>
+
+391
+00:40:21,450 --> 00:40:23,160
+<font face="Comic Sans MS" color="#ffff80"><b>The three of us.</b></font>
+
+392
+00:40:23,327 --> 00:40:24,870
+<font face="Comic Sans MS" color="#ffff80"><b>Kind of like cops.</b></font>
+
+393
+00:40:25,037 --> 00:40:27,039
+<font face="Comic Sans MS" color="#ffff80"><b>Only we don't arrest humans.</b></font>
+
+394
+00:40:28,749 --> 00:40:30,793
+<font face="Comic Sans MS" color="#ffff80"><b>I'm funny too. A lot of the time.</b></font>
+
+395
+00:40:30,959 --> 00:40:33,003
+<font face="Comic Sans MS" color="#ffff80"><b>-I can also be funny. What?
+-Okay. Okay.</b></font>
+
+396
+00:40:33,170 --> 00:40:35,339
+<font face="Comic Sans MS" color="#ffff80"><b>-I think that that's enough, boys.
+-Oh, yeah?</b></font>
+
+397
+00:40:36,840 --> 00:40:40,260
+<font face="Comic Sans MS" color="#ffff80"><b>I used to live in this town
+a long time ago.</b></font>
+
+398
+00:40:40,427 --> 00:40:42,638
+<font face="Comic Sans MS" color="#ffff80"><b>Well, good for you. You got out.</b></font>
+
+399
+00:40:44,181 --> 00:40:46,683
+<font face="Comic Sans MS" color="#ffff80"><b>I'm really making a fool out of myself.
+We're making--</b></font>
+
+400
+00:40:46,850 --> 00:40:48,352
+<font face="Comic Sans MS" color="#ffff80"><b>No, you're not.</b></font>
+
+401
+00:40:48,519 --> 00:40:51,146
+<font face="Comic Sans MS" color="#ffff80"><b>It's really nice to meet you.</b></font>
+
+402
+00:40:51,313 --> 00:40:54,024
+<font face="Comic Sans MS" color="#ffff80"><b>-Ernie, how's it hanging?
+-Dad, over here.</b></font>
+
+403
+00:40:54,858 --> 00:40:56,777
+<font face="Comic Sans MS" color="#ffff80"><b>-How are you?
+-Hot enough for you?</b></font>
+
+404
+00:41:07,704 --> 00:41:08,997
+<font face="Comic Sans MS" color="#ffff80"><b>Hello, Christian.</b></font>
+
+405
+00:41:10,624 --> 00:41:12,126
+<font face="Comic Sans MS" color="#ffff80"><b>Have I aged that much?</b></font>
+
+406
+00:41:16,547 --> 00:41:19,133
+<font face="Comic Sans MS" color="#ffff80"><b>Well, aren't you gonna say anything?</b></font>
+
+407
+00:41:19,299 --> 00:41:20,843
+<font face="Comic Sans MS" color="#ffff80"><b>I have nothing to say to you.</b></font>
+
+408
+00:41:21,009 --> 00:41:22,386
+<font face="Comic Sans MS" color="#ffff80"><b>Girls, come on. Let's go.</b></font>
+
+409
+00:41:22,553 --> 00:41:23,846
+<font face="Comic Sans MS" color="#ffff80"><b>-Come on.
+-We just got here.</b></font>
+
+410
+00:41:24,012 --> 00:41:25,931
+<font face="Comic Sans MS" color="#ffff80"><b>Hear me out.</b></font>
+
+411
+00:41:26,098 --> 00:41:28,934
+<font face="Comic Sans MS" color="#ffff80"><b>I'm-- I'm still your sister, and--</b></font>
+
+412
+00:41:29,101 --> 00:41:31,937
+<font face="Comic Sans MS" color="#ffff80"><b>That only means something if I choose it
+to mean something...</b></font>
+
+413
+00:41:32,104 --> 00:41:34,773
+<font face="Comic Sans MS" color="#ffff80"><b>-...and I choose it not to.
+-Please, Christian.</b></font>
+
+414
+00:41:34,940 --> 00:41:38,152
+<font face="Comic Sans MS" color="#ffff80"><b>I just want you to hear my piece.
+I didn't know how this was gonna go.</b></font>
+
+415
+00:41:38,318 --> 00:41:41,113
+<font face="Comic Sans MS" color="#ffff80"><b>-I thought you could see the future.
+-Is this your sister?</b></font>
+
+416
+00:41:41,280 --> 00:41:43,740
+<font face="Comic Sans MS" color="#ffff80"><b>-No, it isn't! Come on.
+-Yes, yes, I am his sister.</b></font>
+
+417
+00:41:43,907 --> 00:41:45,284
+<font face="Comic Sans MS" color="#ffff80"><b>Listen to me. You listen.</b></font>
+
+418
+00:41:45,451 --> 00:41:49,663
+<font face="Comic Sans MS" color="#ffff80"><b>Now, when we were children,
+you terrified me.</b></font>
+
+419
+00:41:49,830 --> 00:41:52,499
+<font face="Comic Sans MS" color="#ffff80"><b>You scared the life out of me...</b></font>
+
+420
+00:41:52,666 --> 00:41:55,502
+<font face="Comic Sans MS" color="#ffff80"><b>...with stories about a monster
+behind a red door...</b></font>
+
+421
+00:41:55,669 --> 00:41:58,589
+<font face="Comic Sans MS" color="#ffff80"><b>...and then you opened the door
+and you left.</b></font>
+
+422
+00:41:58,756 --> 00:42:00,340
+<font face="Comic Sans MS" color="#ffff80"><b>You left me.</b></font>
+
+423
+00:42:00,507 --> 00:42:03,719
+<font face="Comic Sans MS" color="#ffff80"><b>You abandoned me to a real monster,
+our father.</b></font>
+
+424
+00:42:04,678 --> 00:42:09,266
+<font face="Comic Sans MS" color="#ffff80"><b>Look, I wish you no harm,
+but you stay away from us, Elise.</b></font>
+
+425
+00:42:09,433 --> 00:42:11,143
+<font face="Comic Sans MS" color="#ffff80"><b>You stay away.</b></font>
+
+426
+00:42:12,311 --> 00:42:13,812
+<font face="Comic Sans MS" color="#ffff80"><b>Christian.</b></font>
+
+427
+00:42:20,986 --> 00:42:22,488
+<font face="Comic Sans MS" color="#ffff80"><b>Christian!</b></font>
+
+428
+00:42:22,654 --> 00:42:24,656
+<font face="Comic Sans MS" color="#ffff80"><b>Christian!</b></font>
+
+429
+00:42:32,080 --> 00:42:34,374
+<font face="Comic Sans MS" color="#ffff80"><b>I was stupid to come back here.</b></font>
+
+430
+00:42:34,541 --> 00:42:36,543
+<font face="Comic Sans MS" color="#ffff80"><b>No, you weren't. You're helping people.</b></font>
+
+431
+00:42:36,710 --> 00:42:38,545
+<font face="Comic Sans MS" color="#ffff80"><b>That's what you do, remember?</b></font>
+
+432
+00:42:38,712 --> 00:42:40,422
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+433
+00:42:40,589 --> 00:42:42,341
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry.</b></font>
+
+434
+00:42:42,508 --> 00:42:45,052
+<font face="Comic Sans MS" color="#ffff80"><b>He can be unreasonable sometimes.</b></font>
+
+435
+00:42:45,469 --> 00:42:48,806
+<font face="Comic Sans MS" color="#ffff80"><b>Knowing what he grew up with,
+that's perfectly understandable.</b></font>
+
+436
+00:42:48,972 --> 00:42:51,308
+<font face="Comic Sans MS" color="#ffff80"><b>He's never told us anything
+about his childhood.</b></font>
+
+437
+00:42:51,934 --> 00:42:53,519
+<font face="Comic Sans MS" color="#ffff80"><b>I've never even seen a picture.</b></font>
+
+438
+00:42:53,685 --> 00:42:56,688
+<font face="Comic Sans MS" color="#ffff80"><b>He never told us anything about you.</b></font>
+
+439
+00:42:57,564 --> 00:43:01,985
+<font face="Comic Sans MS" color="#ffff80"><b>I left him alone, and I shouldn't have.</b></font>
+
+440
+00:43:02,152 --> 00:43:04,988
+<font face="Comic Sans MS" color="#ffff80"><b>He is a great dad, you know?</b></font>
+
+441
+00:43:05,155 --> 00:43:06,865
+<font face="Comic Sans MS" color="#ffff80"><b>I love him a lot.</b></font>
+
+442
+00:43:07,032 --> 00:43:10,202
+<font face="Comic Sans MS" color="#ffff80"><b>You have no idea how happy
+that makes me, honey.</b></font>
+
+443
+00:43:14,581 --> 00:43:16,708
+<font face="Comic Sans MS" color="#ffff80"><b>-Tucker?
+-Share with me. Yes?</b></font>
+
+444
+00:43:16,875 --> 00:43:19,002
+<font face="Comic Sans MS" color="#ffff80"><b>Do you have the still frames
+that we printed?</b></font>
+
+445
+00:43:19,169 --> 00:43:20,963
+<font face="Comic Sans MS" color="#ffff80"><b>-Yes, I do.
+-Bring them here.</b></font>
+
+446
+00:43:21,130 --> 00:43:24,299
+<font face="Comic Sans MS" color="#ffff80"><b>-Eaten by the female, that's why I don't--
+-Tucker?</b></font>
+
+447
+00:43:24,466 --> 00:43:26,301
+<font face="Comic Sans MS" color="#ffff80"><b>-Tucker, I need you.
+-Yes.</b></font>
+
+448
+00:43:26,802 --> 00:43:28,303
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+449
+00:43:35,519 --> 00:43:36,979
+<font face="Comic Sans MS" color="#ffff80"><b>Here you go.</b></font>
+
+450
+00:43:37,146 --> 00:43:40,274
+<font face="Comic Sans MS" color="#ffff80"><b>Here. You give this to your dad...</b></font>
+
+451
+00:43:40,441 --> 00:43:43,777
+<font face="Comic Sans MS" color="#ffff80"><b>...and you tell him it was taken
+yesterday in our old bedroom.</b></font>
+
+452
+00:43:43,944 --> 00:43:47,030
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, I think he will be
+very surprised to see it.</b></font>
+
+453
+00:43:48,907 --> 00:43:51,493
+<font face="Comic Sans MS" color="#ffff80"><b>I'm so happy to meet you.</b></font>
+
+454
+00:43:55,873 --> 00:43:57,291
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+455
+00:44:07,634 --> 00:44:09,052
+<font face="Comic Sans MS" color="#ffff80"><b>Testing. One, two.</b></font>
+
+456
+00:44:09,219 --> 00:44:11,096
+<font face="Comic Sans MS" color="#ffff80"><b>Can you hear me, guys?</b></font>
+
+457
+00:44:12,014 --> 00:44:14,975
+<font face="Comic Sans MS" color="#ffff80"><b>-No.
+-I noticed this last night...</b></font>
+
+458
+00:44:15,726 --> 00:44:17,936
+<font face="Comic Sans MS" color="#ffff80"><b>...but I couldn't quite place it.</b></font>
+
+459
+00:44:18,103 --> 00:44:21,648
+<font face="Comic Sans MS" color="#ffff80"><b>Then Christian reminded me
+that when I was a child...</b></font>
+
+460
+00:44:21,815 --> 00:44:24,318
+<font face="Comic Sans MS" color="#ffff80"><b>...I saw a red door.</b></font>
+
+461
+00:44:24,485 --> 00:44:28,071
+<font face="Comic Sans MS" color="#ffff80"><b>The entity that killed my mother
+came through it.</b></font>
+
+462
+00:44:30,199 --> 00:44:34,203
+<font face="Comic Sans MS" color="#ffff80"><b>I don't get it. A red door is a red door.
+Anyone can see it.</b></font>
+
+463
+00:44:34,369 --> 00:44:36,622
+<font face="Comic Sans MS" color="#ffff80"><b>No, it's not a literal door.
+It's a metaphysical one.</b></font>
+
+464
+00:44:36,789 --> 00:44:40,167
+<font face="Comic Sans MS" color="#ffff80"><b>Remember when I went into The Further
+to find Quinn Brenner?</b></font>
+
+465
+00:44:40,334 --> 00:44:42,461
+<font face="Comic Sans MS" color="#ffff80"><b>I came across a red door.</b></font>
+
+466
+00:44:43,587 --> 00:44:49,218
+<font face="Comic Sans MS" color="#ffff80"><b><i>And I-- I passed through it,
+and it took me deeper into The Further.</i></b></font>
+
+467
+00:44:49,384 --> 00:44:51,887
+<font face="Comic Sans MS" color="#ffff80"><b>If I can find out what it means...</b></font>
+
+468
+00:44:54,014 --> 00:44:57,768
+<font face="Comic Sans MS" color="#ffff80"><b>...I might be able to stop the thing
+that's haunting this house.</b></font>
+
+469
+00:44:57,935 --> 00:45:00,187
+<font face="Comic Sans MS" color="#ffff80"><b>Well, this might help.</b></font>
+
+470
+00:45:07,611 --> 00:45:10,405
+<font face="Comic Sans MS" color="#ffff80"><b>I spoke to you last night.</b></font>
+
+471
+00:45:12,866 --> 00:45:15,786
+<font face="Comic Sans MS" color="#ffff80"><b>Are you there? Can you hear me?</b></font>
+
+472
+00:45:22,292 --> 00:45:24,962
+<font face="Comic Sans MS" color="#ffff80"><b>You took something from me.</b></font>
+
+473
+00:45:25,129 --> 00:45:26,755
+<font face="Comic Sans MS" color="#ffff80"><b>Why?</b></font>
+
+474
+00:45:28,132 --> 00:45:29,967
+<font face="Comic Sans MS" color="#ffff80"><b><i>Why did you say, "Help her"?</i></b></font>
+
+475
+00:45:30,134 --> 00:45:31,468
+<font face="Comic Sans MS" color="#ffff80"><b><i>Help who?</i></b></font>
+
+476
+00:46:08,922 --> 00:46:10,382
+<font face="Comic Sans MS" color="#ffff80"><b>This way.</b></font>
+
+477
+00:48:07,291 --> 00:48:09,001
+<font face="Comic Sans MS" color="#ffff80"><b>Is that you?</b></font>
+
+478
+00:48:11,879 --> 00:48:14,631
+<font face="Comic Sans MS" color="#ffff80"><b>Whistle once for yes, twice for no.</b></font>
+
+479
+00:48:14,798 --> 00:48:17,885
+<font face="Comic Sans MS" color="#ffff80"><b>Are you the woman I saw last night?</b></font>
+
+480
+00:48:23,098 --> 00:48:25,893
+<font face="Comic Sans MS" color="#ffff80"><b>Is there an entity in this house...</b></font>
+
+481
+00:48:26,059 --> 00:48:28,937
+<font face="Comic Sans MS" color="#ffff80"><b>...that is trying to hurt Ted Garza?</b></font>
+
+482
+00:48:33,317 --> 00:48:35,652
+<font face="Comic Sans MS" color="#ffff80"><b>Are you that entity?</b></font>
+
+483
+00:48:42,159 --> 00:48:45,120
+<font face="Comic Sans MS" color="#ffff80"><b>Is there something
+you're trying to show me?</b></font>
+
+484
+00:48:50,084 --> 00:48:52,586
+<font face="Comic Sans MS" color="#ffff80"><b>Is what you want to show me...</b></font>
+
+485
+00:48:52,753 --> 00:48:55,005
+<font face="Comic Sans MS" color="#ffff80"><b>...behind this wall?</b></font>
+
+486
+00:49:37,005 --> 00:49:38,090
+<font face="Comic Sans MS" color="#ffff80"><b>Keys.</b></font>
+
+487
+00:49:48,308 --> 00:49:51,103
+<font face="Comic Sans MS" color="#ffff80"><b>Freeze, buddy. Freeze.</b></font>
+
+488
+00:49:52,020 --> 00:49:53,480
+<font face="Comic Sans MS" color="#ffff80"><b>On.</b></font>
+
+489
+00:49:53,647 --> 00:49:55,065
+<font face="Comic Sans MS" color="#ffff80"><b>Wait. On.</b></font>
+
+490
+00:50:56,460 --> 00:50:57,878
+<font face="Comic Sans MS" color="#ffff80"><b>Wait.</b></font>
+
+491
+00:51:05,803 --> 00:51:07,471
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+
+492
+00:51:39,628 --> 00:51:41,880
+<font face="Comic Sans MS" color="#ffff80"><b>What is it you wanna show me?</b></font>
+
+493
+00:52:23,839 --> 00:52:25,007
+<font face="Comic Sans MS" color="#ffff80"><b>Help her!</b></font>
+
+494
+00:52:48,238 --> 00:52:50,240
+<font face="Comic Sans MS" color="#ffff80"><b>Help me.</b></font>
+
+495
+00:52:56,538 --> 00:52:58,499
+<font face="Comic Sans MS" color="#ffff80"><b>That's not a ghost.</b></font>
+
+496
+00:52:58,665 --> 00:53:01,001
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.</b></font>
+
+497
+00:53:03,462 --> 00:53:05,547
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.</b></font>
+
+498
+00:53:05,714 --> 00:53:07,216
+<font face="Comic Sans MS" color="#ffff80"><b>I'll break the chain.</b></font>
+
+499
+00:53:07,382 --> 00:53:08,675
+<font face="Comic Sans MS" color="#ffff80"><b>No, you won't.</b></font>
+
+500
+00:53:11,929 --> 00:53:13,263
+<font face="Comic Sans MS" color="#ffff80"><b>Move.</b></font>
+
+501
+00:53:13,889 --> 00:53:14,932
+<font face="Comic Sans MS" color="#ffff80"><b>Get away from her!</b></font>
+
+502
+00:53:15,474 --> 00:53:18,852
+<font face="Comic Sans MS" color="#ffff80"><b>I asked you, help me get rid
+of the ghost.</b></font>
+
+503
+00:53:19,019 --> 00:53:20,813
+<font face="Comic Sans MS" color="#ffff80"><b>Help me get rid of it!</b></font>
+
+504
+00:53:20,979 --> 00:53:22,689
+<font face="Comic Sans MS" color="#ffff80"><b><i>Help me!</i></b></font>
+
+505
+00:53:24,066 --> 00:53:27,194
+<font face="Comic Sans MS" color="#ffff80"><b>Why did you have to come down here?</b></font>
+
+506
+00:53:29,655 --> 00:53:32,991
+<font face="Comic Sans MS" color="#ffff80"><b>-Why?!
+-Your ghost led us down here.</b></font>
+
+507
+00:53:33,158 --> 00:53:35,410
+<font face="Comic Sans MS" color="#ffff80"><b>He's in my head.</b></font>
+
+508
+00:53:37,454 --> 00:53:38,789
+<font face="Comic Sans MS" color="#ffff80"><b>He's in my head.</b></font>
+
+509
+00:53:57,141 --> 00:53:59,309
+<font face="Comic Sans MS" color="#ffff80"><b>Is that your friend?</b></font>
+
+510
+00:54:00,644 --> 00:54:02,771
+<font face="Comic Sans MS" color="#ffff80"><b>That is your friend.</b></font>
+
+511
+00:54:53,739 --> 00:54:56,033
+<font face="Comic Sans MS" color="#ffff80"><b>You there, Specs?</b></font>
+
+512
+00:55:03,207 --> 00:55:04,917
+<font face="Comic Sans MS" color="#ffff80"><b>Specs!</b></font>
+
+513
+00:55:10,964 --> 00:55:12,216
+<font face="Comic Sans MS" color="#ffff80"><b>What?</b></font>
+
+514
+00:56:21,535 --> 00:56:23,829
+<font face="Comic Sans MS" color="#ffff80"><b>Her name is Mara Jennings.</b></font>
+
+515
+00:56:23,996 --> 00:56:26,832
+<font face="Comic Sans MS" color="#ffff80"><b>She's a nurse from a town
+about 10 miles outside of here.</b></font>
+
+516
+00:56:26,999 --> 00:56:29,376
+<font face="Comic Sans MS" color="#ffff80"><b>She's been missing
+for approximately four months.</b></font>
+
+517
+00:56:31,670 --> 00:56:33,130
+<font face="Comic Sans MS" color="#ffff80"><b>Watch your step down.</b></font>
+
+518
+00:56:36,091 --> 00:56:39,803
+<font face="Comic Sans MS" color="#ffff80"><b>-Can you stick around for a few days?
+-Yeah, we'll be here.</b></font>
+
+519
+00:56:39,970 --> 00:56:42,347
+<font face="Comic Sans MS" color="#ffff80"><b>I'm gonna have to get statements
+from all of you.</b></font>
+
+520
+00:56:52,274 --> 00:56:55,819
+<font face="Comic Sans MS" color="#ffff80"><b>There are plenty of demons in this world
+who are very much alive...</b></font>
+
+521
+00:56:56,236 --> 00:56:58,655
+<font face="Comic Sans MS" color="#ffff80"><b>...and you stopped one of them.</b></font>
+
+522
+00:57:01,825 --> 00:57:04,369
+<font face="Comic Sans MS" color="#ffff80"><b>Thanks, Elise.</b></font>
+
+523
+00:57:46,537 --> 00:57:48,288
+<font face="Comic Sans MS" color="#ffff80"><b>Dad, this is crazy.</b></font>
+
+524
+00:57:48,455 --> 00:57:51,083
+<font face="Comic Sans MS" color="#ffff80"><b>This is something I have to do.</b></font>
+
+525
+00:57:59,800 --> 00:58:00,884
+<font face="Comic Sans MS" color="#ffff80"><b><i>I gotta find it.</i></b></font>
+
+526
+00:58:01,427 --> 00:58:04,847
+<font face="Comic Sans MS" color="#ffff80"><b>It's a little whistle, a little silver whistle.</b></font>
+
+527
+00:58:05,013 --> 00:58:08,809
+<font face="Comic Sans MS" color="#ffff80"><b>Look, I deal in the spirit world...</b></font>
+
+528
+00:58:08,976 --> 00:58:13,897
+<font face="Comic Sans MS" color="#ffff80"><b>...and spirits can make people
+do bad things in the real world.</b></font>
+
+529
+00:58:14,064 --> 00:58:17,693
+<font face="Comic Sans MS" color="#ffff80"><b>Some of these people come to me
+for help.</b></font>
+
+530
+00:58:18,610 --> 00:58:20,362
+<font face="Comic Sans MS" color="#ffff80"><b>But to you, that's weird.</b></font>
+
+531
+00:58:20,529 --> 00:58:23,365
+<font face="Comic Sans MS" color="#ffff80"><b>To me, it's a day job.</b></font>
+
+532
+00:58:26,743 --> 00:58:28,579
+<font face="Comic Sans MS" color="#ffff80"><b>This one was different though.</b></font>
+
+533
+00:58:30,164 --> 00:58:33,167
+<font face="Comic Sans MS" color="#ffff80"><b>The haunted house was my house.</b></font>
+
+534
+00:58:36,086 --> 00:58:37,755
+<font face="Comic Sans MS" color="#ffff80"><b>It's not in here.</b></font>
+
+535
+00:58:38,881 --> 00:58:40,924
+<font face="Comic Sans MS" color="#ffff80"><b>Hey, I'm gonna check on him.</b></font>
+
+536
+00:58:42,176 --> 00:58:44,428
+<font face="Comic Sans MS" color="#ffff80"><b>Why would Garza invite you up...</b></font>
+
+537
+00:58:44,595 --> 00:58:47,973
+<font face="Comic Sans MS" color="#ffff80"><b>...knowing the risk
+that you might discover Mara?</b></font>
+
+538
+00:58:53,645 --> 00:58:58,108
+<font face="Comic Sans MS" color="#ffff80"><b>These hauntings can be
+terrifying things.</b></font>
+
+539
+00:58:59,485 --> 00:59:02,237
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe the fear of the beyond...</b></font>
+
+540
+00:59:02,404 --> 00:59:05,783
+<font face="Comic Sans MS" color="#ffff80"><b>...overcame the fear of getting caught.</b></font>
+
+541
+00:59:06,325 --> 00:59:08,076
+<font face="Comic Sans MS" color="#ffff80"><b>Or maybe he wanted to get caught.</b></font>
+
+542
+00:59:12,706 --> 00:59:14,291
+<font face="Comic Sans MS" color="#ffff80"><b>What? What is it?</b></font>
+
+543
+00:59:15,667 --> 00:59:17,252
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry.</b></font>
+
+544
+00:59:17,419 --> 00:59:20,130
+<font face="Comic Sans MS" color="#ffff80"><b>I'm seeing things.</b></font>
+
+545
+00:59:20,631 --> 00:59:22,841
+<font face="Comic Sans MS" color="#ffff80"><b>The shock of the whole thing, I suppose.</b></font>
+
+546
+00:59:23,008 --> 00:59:25,052
+<font face="Comic Sans MS" color="#ffff80"><b>Do you need me for anything else?</b></font>
+
+547
+00:59:25,219 --> 00:59:26,553
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+548
+00:59:26,720 --> 00:59:28,222
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+
+549
+00:59:37,397 --> 00:59:39,024
+<font face="Comic Sans MS" color="#ffff80"><b>Melissa?</b></font>
+
+550
+00:59:40,442 --> 00:59:41,735
+<font face="Comic Sans MS" color="#ffff80"><b>Dad?</b></font>
+
+551
+00:59:41,902 --> 00:59:44,905
+<font face="Comic Sans MS" color="#ffff80"><b>Down here, honey. I found the whistle.</b></font>
+
+552
+01:00:08,303 --> 01:00:09,680
+<font face="Comic Sans MS" color="#ffff80"><b>Dad?</b></font>
+
+553
+01:02:37,119 --> 01:02:39,663
+<font face="Comic Sans MS" color="#ffff80"><b>-What are you doing here?
+-You can't find her, can you?</b></font>
+
+554
+01:02:39,830 --> 01:02:42,499
+<font face="Comic Sans MS" color="#ffff80"><b>What happened to her? Where is she?</b></font>
+
+555
+01:02:42,666 --> 01:02:44,752
+<font face="Comic Sans MS" color="#ffff80"><b>-We've looked everywhere.
+-Not everywhere.</b></font>
+
+556
+01:03:02,102 --> 01:03:04,146
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, God, no.</b></font>
+
+557
+01:03:07,858 --> 01:03:09,777
+<font face="Comic Sans MS" color="#ffff80"><b>Imogen, call an ambulance.</b></font>
+
+558
+01:03:09,943 --> 01:03:11,445
+<font face="Comic Sans MS" color="#ffff80"><b>Now!</b></font>
+
+559
+01:03:26,251 --> 01:03:28,879
+<font face="Comic Sans MS" color="#ffff80"><b>How did you know where she was?</b></font>
+
+560
+01:03:30,172 --> 01:03:31,632
+<font face="Comic Sans MS" color="#ffff80"><b>What happened to her?</b></font>
+
+561
+01:03:32,007 --> 01:03:35,052
+<font face="Comic Sans MS" color="#ffff80"><b>There's something evil in that house...</b></font>
+
+562
+01:03:35,219 --> 01:03:37,054
+<font face="Comic Sans MS" color="#ffff80"><b>...and I let it into this world.</b></font>
+
+563
+01:03:37,221 --> 01:03:39,473
+<font face="Comic Sans MS" color="#ffff80"><b>I think it made Ted Garza do
+what he did...</b></font>
+
+564
+01:03:39,640 --> 01:03:42,601
+<font face="Comic Sans MS" color="#ffff80"><b>...and it's taken your sister's spirit,
+and I'm gonna find it...</b></font>
+
+565
+01:03:42,768 --> 01:03:44,645
+<font face="Comic Sans MS" color="#ffff80"><b>...and I'm gonna finish it tonight.</b></font>
+
+566
+01:03:47,272 --> 01:03:48,732
+<font face="Comic Sans MS" color="#ffff80"><b>I can see things too.</b></font>
+
+567
+01:04:00,661 --> 01:04:02,996
+<font face="Comic Sans MS" color="#ffff80"><b>When I was a little girl...</b></font>
+
+568
+01:04:03,497 --> 01:04:06,291
+<font face="Comic Sans MS" color="#ffff80"><b>...I went to sleep
+and floated out of my bedroom...</b></font>
+
+569
+01:04:06,750 --> 01:04:09,253
+<font face="Comic Sans MS" color="#ffff80"><b>...all the way
+to our elderly neighbour's house.</b></font>
+
+570
+01:04:09,420 --> 01:04:13,465
+<font face="Comic Sans MS" color="#ffff80"><b>Then she told me she was leaving
+this world and going on to the next.</b></font>
+
+571
+01:04:13,632 --> 01:04:17,094
+<font face="Comic Sans MS" color="#ffff80"><b>My dad told me
+she had died the night before.</b></font>
+
+572
+01:04:17,261 --> 01:04:19,721
+<font face="Comic Sans MS" color="#ffff80"><b>I told him I already knew.</b></font>
+
+573
+01:04:20,556 --> 01:04:24,518
+<font face="Comic Sans MS" color="#ffff80"><b>-He wasn't too happy to hear that.
+-Imogen, let's go.</b></font>
+
+574
+01:04:24,685 --> 01:04:25,894
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, honey.</b></font>
+
+575
+01:04:26,061 --> 01:04:28,772
+<font face="Comic Sans MS" color="#ffff80"><b>No, I-- I'm staying.</b></font>
+
+576
+01:04:29,231 --> 01:04:31,900
+<font face="Comic Sans MS" color="#ffff80"><b>Just trust me, okay?</b></font>
+
+577
+01:04:34,319 --> 01:04:38,198
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, boys, let's get our things
+and get in the house and get started.</b></font>
+
+578
+01:04:40,284 --> 01:04:41,785
+<font face="Comic Sans MS" color="#ffff80"><b>Son of a--</b></font>
+
+579
+01:04:44,037 --> 01:04:48,000
+<font face="Comic Sans MS" color="#ffff80"><b>I am going to get the attention
+of all the spirits in this house.</b></font>
+
+580
+01:04:48,167 --> 01:04:50,252
+<font face="Comic Sans MS" color="#ffff80"><b>I need things
+that were important to Garza.</b></font>
+
+581
+01:04:50,419 --> 01:04:52,421
+<font face="Comic Sans MS" color="#ffff80"><b>Specs, go upstairs.</b></font>
+
+582
+01:04:52,588 --> 01:04:55,048
+<font face="Comic Sans MS" color="#ffff80"><b>There is a Bible he held
+very dear to him.</b></font>
+
+583
+01:04:55,215 --> 01:04:59,178
+<font face="Comic Sans MS" color="#ffff80"><b>It was a red King James version,
+and I need you to find it.</b></font>
+
+584
+01:04:59,344 --> 01:05:01,221
+<font face="Comic Sans MS" color="#ffff80"><b>-Take Imogen with you.
+-Okay.</b></font>
+
+585
+01:05:01,388 --> 01:05:03,474
+<font face="Comic Sans MS" color="#ffff80"><b>-Do not let her out of your sight.
+-I won't.</b></font>
+
+586
+01:05:03,974 --> 01:05:06,477
+<font face="Comic Sans MS" color="#ffff80"><b>Tucker and I are going down
+to the fallout shelter.</b></font>
+
+587
+01:05:06,643 --> 01:05:09,855
+<font face="Comic Sans MS" color="#ffff80"><b>I get the death chamber,
+he gets Bible camp with a beautiful girl?</b></font>
+
+588
+01:05:10,022 --> 01:05:11,148
+<font face="Comic Sans MS" color="#ffff80"><b>That's not a democracy.</b></font>
+
+589
+01:05:11,315 --> 01:05:14,443
+<font face="Comic Sans MS" color="#ffff80"><b>You're the only one
+I trust to go down there with me.</b></font>
+
+590
+01:05:15,277 --> 01:05:17,571
+<font face="Comic Sans MS" color="#ffff80"><b>Don't patronise me, woman.</b></font>
+
+591
+01:05:18,572 --> 01:05:21,492
+<font face="Comic Sans MS" color="#ffff80"><b>So why do you guys dress like that?</b></font>
+
+592
+01:05:23,535 --> 01:05:26,371
+<font face="Comic Sans MS" color="#ffff80"><b>It was Elise's idea. She dressed us.</b></font>
+
+593
+01:05:27,664 --> 01:05:31,293
+<font face="Comic Sans MS" color="#ffff80"><b>No, my usual style's a lot more
+laid back.</b></font>
+
+594
+01:05:31,460 --> 01:05:32,961
+<font face="Comic Sans MS" color="#ffff80"><b>It's a little....</b></font>
+
+595
+01:05:33,879 --> 01:05:35,589
+<font face="Comic Sans MS" color="#ffff80"><b>-What?
+-Dude.</b></font>
+
+596
+01:05:39,468 --> 01:05:41,595
+<font face="Comic Sans MS" color="#ffff80"><b>This is vintage. No, this is worth a lot.</b></font>
+
+597
+01:05:41,762 --> 01:05:44,515
+<font face="Comic Sans MS" color="#ffff80"><b>I'm serious. We gotta find this thing.</b></font>
+
+598
+01:05:44,681 --> 01:05:46,016
+<font face="Comic Sans MS" color="#ffff80"><b>I'm just saying.</b></font>
+
+599
+01:05:46,183 --> 01:05:47,893
+<font face="Comic Sans MS" color="#ffff80"><b>-Gotta have hobbies.
+-I'm saying.</b></font>
+
+600
+01:05:48,060 --> 01:05:52,064
+<font face="Comic Sans MS" color="#ffff80"><b>Can't all be work. Gotta enjoy yourself,
+go out on a date.</b></font>
+
+601
+01:05:54,942 --> 01:05:57,111
+<font face="Comic Sans MS" color="#ffff80"><b>You gotta do stuff like that.</b></font>
+
+602
+01:05:57,277 --> 01:05:58,779
+<font face="Comic Sans MS" color="#ffff80"><b>There's something here.</b></font>
+
+603
+01:06:00,322 --> 01:06:02,324
+<font face="Comic Sans MS" color="#ffff80"><b>I can feel it.</b></font>
+
+604
+01:06:05,828 --> 01:06:07,704
+<font face="Comic Sans MS" color="#ffff80"><b>She wants me to have it.</b></font>
+
+605
+01:06:10,541 --> 01:06:11,875
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, that should do it.</b></font>
+
+606
+01:06:12,042 --> 01:06:14,211
+<font face="Comic Sans MS" color="#ffff80"><b>-Step aside.
+-Yes, sir.</b></font>
+
+607
+01:06:58,505 --> 01:07:00,549
+<font face="Comic Sans MS" color="#ffff80"><b>It's time to sleep.</b></font>
+
+608
+01:07:13,187 --> 01:07:15,439
+<font face="Comic Sans MS" color="#ffff80"><b>I know this slip.</b></font>
+
+609
+01:07:15,606 --> 01:07:18,275
+<font face="Comic Sans MS" color="#ffff80"><b>-This will help you sleep.
+-Don't make me drink anymore.</b></font>
+
+610
+01:07:18,442 --> 01:07:20,903
+<font face="Comic Sans MS" color="#ffff80"><b>Please, let me go. I beg you.</b></font>
+
+611
+01:07:21,653 --> 01:07:22,821
+<font face="Comic Sans MS" color="#ffff80"><b>There you go.</b></font>
+
+612
+01:07:24,406 --> 01:07:26,450
+<font face="Comic Sans MS" color="#ffff80"><b>Please, let me go.</b></font>
+
+613
+01:07:26,617 --> 01:07:29,203
+<font face="Comic Sans MS" color="#ffff80"><b>I promise I won't tell.</b></font>
+
+614
+01:07:29,369 --> 01:07:31,580
+<font face="Comic Sans MS" color="#ffff80"><b>Please, let me....</b></font>
+
+615
+01:08:03,821 --> 01:08:05,155
+<font face="Comic Sans MS" color="#ffff80"><b>Did you hear that?</b></font>
+
+616
+01:08:05,322 --> 01:08:07,241
+<font face="Comic Sans MS" color="#ffff80"><b>Hear what?</b></font>
+
+617
+01:08:11,912 --> 01:08:14,832
+<font face="Comic Sans MS" color="#ffff80"><b>-My brother doesn't believe you're here.
+-Christian!</b></font>
+
+618
+01:08:17,668 --> 01:08:19,378
+<font face="Comic Sans MS" color="#ffff80"><b>There's someone in the laundry.</b></font>
+
+619
+01:08:30,806 --> 01:08:32,891
+<font face="Comic Sans MS" color="#ffff80"><b>There's no one here.</b></font>
+
+620
+01:08:33,851 --> 01:08:36,645
+<font face="Comic Sans MS" color="#ffff80"><b>You can't punish me for this.
+I never wanted it.</b></font>
+
+621
+01:08:55,497 --> 01:08:56,540
+<font face="Comic Sans MS" color="#ffff80"><b>Goodbye, Anna.</b></font>
+
+622
+01:09:05,424 --> 01:09:07,593
+<font face="Comic Sans MS" color="#ffff80"><b>She wasn't dead.</b></font>
+
+623
+01:09:10,262 --> 01:09:13,515
+<font face="Comic Sans MS" color="#ffff80"><b>My father did the exact same thing
+that Garza did.</b></font>
+
+624
+01:09:14,349 --> 01:09:17,352
+<font face="Comic Sans MS" color="#ffff80"><b>The woman I saw in this house
+all those years ago...</b></font>
+
+625
+01:09:18,187 --> 01:09:20,314
+<font face="Comic Sans MS" color="#ffff80"><b>...she was alive.</b></font>
+
+626
+01:09:23,901 --> 01:09:26,028
+<font face="Comic Sans MS" color="#ffff80"><b>I could have helped her.</b></font>
+
+627
+01:09:27,863 --> 01:09:29,698
+<font face="Comic Sans MS" color="#ffff80"><b>I let him kill her.</b></font>
+
+628
+01:10:33,137 --> 01:10:35,305
+<font face="Comic Sans MS" color="#ffff80"><b>Take this thing off.</b></font>
+
+629
+01:10:36,265 --> 01:10:37,641
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+630
+01:11:03,709 --> 01:11:05,043
+<font face="Comic Sans MS" color="#ffff80"><b>Her death was my fault.</b></font>
+
+631
+01:11:07,004 --> 01:11:10,215
+<font face="Comic Sans MS" color="#ffff80"><b>Until I free her from wherever
+he put her...</b></font>
+
+632
+01:11:10,924 --> 01:11:13,218
+<font face="Comic Sans MS" color="#ffff80"><b>...she's trapped in the dark.</b></font>
+
+633
+01:11:14,428 --> 01:11:16,013
+<font face="Comic Sans MS" color="#ffff80"><b>Lost.</b></font>
+
+634
+01:11:17,181 --> 01:11:18,223
+<font face="Comic Sans MS" color="#ffff80"><b>I'm going in there.</b></font>
+
+635
+01:11:19,391 --> 01:11:20,768
+<font face="Comic Sans MS" color="#ffff80"><b>Stand back.</b></font>
+
+636
+01:11:26,607 --> 01:11:28,442
+<font face="Comic Sans MS" color="#ffff80"><b>Go for it.</b></font>
+
+637
+01:11:28,609 --> 01:11:30,235
+<font face="Comic Sans MS" color="#ffff80"><b>I'm good.</b></font>
+
+638
+01:12:21,703 --> 01:12:23,539
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry, Anna.</b></font>
+
+639
+01:12:26,750 --> 01:12:28,252
+<font face="Comic Sans MS" color="#ffff80"><b>I failed you.</b></font>
+
+640
+01:13:15,924 --> 01:13:18,594
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.</b></font>
+
+641
+01:13:25,726 --> 01:13:26,935
+<font face="Comic Sans MS" color="#ffff80"><b>Where you going?</b></font>
+
+642
+01:13:27,436 --> 01:13:28,771
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+643
+01:13:29,980 --> 01:13:31,106
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+644
+01:13:51,710 --> 01:13:53,212
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+645
+01:13:56,173 --> 01:13:58,842
+<font face="Comic Sans MS" color="#ffff80"><b>You weren't the only one, Anna.</b></font>
+
+646
+01:15:23,218 --> 01:15:25,179
+<font face="Comic Sans MS" color="#ffff80"><b>-Audrey!
+-Elise?</b></font>
+
+647
+01:15:27,473 --> 01:15:29,141
+<font face="Comic Sans MS" color="#ffff80"><b><i>Audrey.</i></b></font>
+
+648
+01:15:30,934 --> 01:15:32,144
+<font face="Comic Sans MS" color="#ffff80"><b><i>Audrey.</i></b></font>
+
+649
+01:15:32,311 --> 01:15:33,896
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+650
+01:15:34,605 --> 01:15:36,398
+<font face="Comic Sans MS" color="#ffff80"><b>Where am I?</b></font>
+
+651
+01:15:36,899 --> 01:15:39,485
+<font face="Comic Sans MS" color="#ffff80"><b>You're in a special place...</b></font>
+
+652
+01:15:40,194 --> 01:15:42,029
+<font face="Comic Sans MS" color="#ffff80"><b>...where the spirits go.</b></font>
+
+653
+01:15:42,196 --> 01:15:44,031
+<font face="Comic Sans MS" color="#ffff80"><b>Who are you?</b></font>
+
+654
+01:15:46,200 --> 01:15:48,994
+<font face="Comic Sans MS" color="#ffff80"><b>I'm-- A friend.</b></font>
+
+655
+01:15:50,162 --> 01:15:51,705
+<font face="Comic Sans MS" color="#ffff80"><b>I don't wanna be here.</b></font>
+
+656
+01:15:51,872 --> 01:15:53,832
+<font face="Comic Sans MS" color="#ffff80"><b>I don't wanna go where the spirits go.</b></font>
+
+657
+01:15:59,254 --> 01:16:00,339
+<font face="Comic Sans MS" color="#ffff80"><b>Elise...</b></font>
+
+658
+01:16:01,590 --> 01:16:04,176
+<font face="Comic Sans MS" color="#ffff80"><b>...no matter what your daddy says...</b></font>
+
+659
+01:16:04,343 --> 01:16:07,679
+<font face="Comic Sans MS" color="#ffff80"><b>...you have to go on doing what you do.</b></font>
+
+660
+01:16:08,347 --> 01:16:11,934
+<font face="Comic Sans MS" color="#ffff80"><b>Never be afraid of your ability.</b></font>
+
+661
+01:16:16,814 --> 01:16:19,858
+<font face="Comic Sans MS" color="#ffff80"><b>Daddy doesn't mean it
+when he yells at me.</b></font>
+
+662
+01:16:20,859 --> 01:16:21,985
+<font face="Comic Sans MS" color="#ffff80"><b>He's scared...</b></font>
+
+663
+01:16:23,237 --> 01:16:25,739
+<font face="Comic Sans MS" color="#ffff80"><b>...of the man with the keys.</b></font>
+
+664
+01:16:25,906 --> 01:16:28,575
+<font face="Comic Sans MS" color="#ffff80"><b>He's the one controlling it all.</b></font>
+
+665
+01:16:28,742 --> 01:16:31,495
+<font face="Comic Sans MS" color="#ffff80"><b>He's the one who opens all the doors.</b></font>
+
+666
+01:16:34,998 --> 01:16:39,044
+<font face="Comic Sans MS" color="#ffff80"><b>-He opens all the red doors?
+-Yes.</b></font>
+
+667
+01:16:39,211 --> 01:16:42,256
+<font face="Comic Sans MS" color="#ffff80"><b>The man with the keys said
+I'm more powerful than I know.</b></font>
+
+668
+01:16:42,423 --> 01:16:44,967
+<font face="Comic Sans MS" color="#ffff80"><b>He says he wants me
+to help him open every door.</b></font>
+
+669
+01:16:45,134 --> 01:16:47,636
+<font face="Comic Sans MS" color="#ffff80"><b>He says he'll do anything it takes
+to get me.</b></font>
+
+670
+01:16:50,305 --> 01:16:52,141
+<font face="Comic Sans MS" color="#ffff80"><b>He's standing right behind you.</b></font>
+
+671
+01:16:53,934 --> 01:16:55,185
+<font face="Comic Sans MS" color="#ffff80"><b><i>No!</i></b></font>
+
+672
+01:16:55,352 --> 01:16:58,147
+<font face="Comic Sans MS" color="#ffff80"><b>Leave this place!</b></font>
+
+673
+01:17:04,319 --> 01:17:07,114
+<font face="Comic Sans MS" color="#ffff80"><b>Elise, wake up.</b></font>
+
+674
+01:17:08,490 --> 01:17:09,658
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+675
+01:17:11,452 --> 01:17:13,245
+<font face="Comic Sans MS" color="#ffff80"><b>Specs!</b></font>
+
+676
+01:17:13,829 --> 01:17:15,122
+<font face="Comic Sans MS" color="#ffff80"><b>I need help!</b></font>
+
+677
+01:17:16,457 --> 01:17:18,959
+<font face="Comic Sans MS" color="#ffff80"><b>Here, here. Careful with her head.</b></font>
+
+678
+01:17:20,794 --> 01:17:22,713
+<font face="Comic Sans MS" color="#ffff80"><b>-She's on the other side.
+-Somebody has to go in.</b></font>
+
+679
+01:17:22,880 --> 01:17:25,716
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, who's gonna do that?
+I can't do that. Can you do that?</b></font>
+
+680
+01:17:25,883 --> 01:17:27,259
+<font face="Comic Sans MS" color="#ffff80"><b>-I didn't say--
+-I can do it.</b></font>
+
+681
+01:17:30,387 --> 01:17:31,638
+<font face="Comic Sans MS" color="#ffff80"><b>I can help her.</b></font>
+
+682
+01:17:31,805 --> 01:17:35,392
+<font face="Comic Sans MS" color="#ffff80"><b>I've never actually hypnotised
+anybody before.</b></font>
+
+683
+01:17:35,559 --> 01:17:37,352
+<font face="Comic Sans MS" color="#ffff80"><b>I've never been hypnotised.</b></font>
+
+684
+01:17:37,519 --> 01:17:40,022
+<font face="Comic Sans MS" color="#ffff80"><b>Well, then you won't know
+what I'm doing wrong, right?</b></font>
+
+685
+01:17:46,069 --> 01:17:47,446
+<font face="Comic Sans MS" color="#ffff80"><b>Okay.</b></font>
+
+686
+01:17:48,363 --> 01:17:52,159
+<font face="Comic Sans MS" color="#ffff80"><b>The exercise, it's a little--
+I'm gonna-- I'll put my finger there.</b></font>
+
+687
+01:17:52,326 --> 01:17:53,744
+<font face="Comic Sans MS" color="#ffff80"><b>E.T.</b></font>
+
+688
+01:17:55,162 --> 01:17:56,789
+<font face="Comic Sans MS" color="#ffff80"><b>Imogen.</b></font>
+
+689
+01:17:56,955 --> 01:17:58,248
+<font face="Comic Sans MS" color="#ffff80"><b>That's pretty cool.</b></font>
+
+690
+01:17:58,791 --> 01:18:00,626
+<font face="Comic Sans MS" color="#ffff80"><b>Just look here.</b></font>
+
+691
+01:18:01,418 --> 01:18:03,796
+<font face="Comic Sans MS" color="#ffff80"><b>And concentrate on it and just relax.</b></font>
+
+692
+01:18:04,630 --> 01:18:08,550
+<font face="Comic Sans MS" color="#ffff80"><b>Imagine that your body is made of water
+and you're in the ocean.</b></font>
+
+693
+01:18:08,717 --> 01:18:10,385
+<font face="Comic Sans MS" color="#ffff80"><b>That doesn't make sense.</b></font>
+
+694
+01:18:11,095 --> 01:18:12,888
+<font face="Comic Sans MS" color="#ffff80"><b>-What?
+-She's made of water...</b></font>
+
+695
+01:18:13,055 --> 01:18:16,350
+<font face="Comic Sans MS" color="#ffff80"><b>...and she's in the ocean.
+Therefore, she is the ocean.</b></font>
+
+696
+01:18:16,892 --> 01:18:18,852
+<font face="Comic Sans MS" color="#ffff80"><b>Would you like to do this?</b></font>
+
+697
+01:18:23,607 --> 01:18:26,193
+<font face="Comic Sans MS" color="#ffff80"><b>-Thank you.
+-I'll still be here.</b></font>
+
+698
+01:18:26,360 --> 01:18:28,445
+<font face="Comic Sans MS" color="#ffff80"><b>-Don't touch the subject.
+-I'm not.</b></font>
+
+699
+01:18:28,612 --> 01:18:30,322
+<font face="Comic Sans MS" color="#ffff80"><b>Move away.</b></font>
+
+700
+01:18:47,714 --> 01:18:49,049
+<font face="Comic Sans MS" color="#ffff80"><b>Close your eyes.</b></font>
+
+701
+01:18:50,092 --> 01:18:53,011
+<font face="Comic Sans MS" color="#ffff80"><b>Listen to the ticking.</b></font>
+
+702
+01:18:53,178 --> 01:18:55,097
+<font face="Comic Sans MS" color="#ffff80"><b>Focus on it.</b></font>
+
+703
+01:18:55,597 --> 01:18:58,225
+<font face="Comic Sans MS" color="#ffff80"><b>I'm going to count back from five.</b></font>
+
+704
+01:18:58,642 --> 01:19:03,480
+<font face="Comic Sans MS" color="#ffff80"><b>By the time I reach one,
+you will be hypnotised.</b></font>
+
+705
+01:19:04,022 --> 01:19:06,567
+<font face="Comic Sans MS" color="#ffff80"><b>Five, four...</b></font>
+
+706
+01:19:07,568 --> 01:19:12,156
+<font face="Comic Sans MS" color="#ffff80"><b>...three, two, one.</b></font>
+
+707
+01:19:12,322 --> 01:19:14,908
+<font face="Comic Sans MS" color="#ffff80"><b>Nod if you can hear me.</b></font>
+
+708
+01:19:19,705 --> 01:19:23,125
+<font face="Comic Sans MS" color="#ffff80"><b>When I say "now,"
+you will open your eyes...</b></font>
+
+709
+01:19:23,292 --> 01:19:27,004
+<font face="Comic Sans MS" color="#ffff80"><b>...and you will be on the other side.</b></font>
+
+710
+01:19:30,716 --> 01:19:32,551
+<font face="Comic Sans MS" color="#ffff80"><b><i>Now.</i></b></font>
+
+711
+01:19:55,407 --> 01:19:57,868
+<font face="Comic Sans MS" color="#ffff80"><b>Wanna go there.</b></font>
+
+712
+01:20:19,723 --> 01:20:21,433
+<font face="Comic Sans MS" color="#ffff80"><b>I'll help you.</b></font>
+
+713
+01:21:04,435 --> 01:21:06,437
+<font face="Comic Sans MS" color="#ffff80"><b>Red door.</b></font>
+
+714
+01:21:07,729 --> 01:21:09,106
+<font face="Comic Sans MS" color="#ffff80"><b>Red door.</b></font>
+
+715
+01:21:09,273 --> 01:21:11,859
+<font face="Comic Sans MS" color="#ffff80"><b>That's the red door
+Elise was talking about.</b></font>
+
+716
+01:21:12,776 --> 01:21:15,154
+<font face="Comic Sans MS" color="#ffff80"><b>This is the place.</b></font>
+
+717
+01:21:42,848 --> 01:21:44,183
+<font face="Comic Sans MS" color="#ffff80"><b>I can't go in there.</b></font>
+
+718
+01:21:44,349 --> 01:21:46,602
+<font face="Comic Sans MS" color="#ffff80"><b>If he finds me, he'll--</b></font>
+
+719
+01:21:47,269 --> 01:21:49,438
+<font face="Comic Sans MS" color="#ffff80"><b>He'll take me again.</b></font>
+
+720
+01:21:49,605 --> 01:21:52,816
+<font face="Comic Sans MS" color="#ffff80"><b>Trust me. You'll find
+what you're looking for in there.</b></font>
+
+721
+01:21:56,361 --> 01:21:57,780
+<font face="Comic Sans MS" color="#ffff80"><b><i>I admit it!</i></b></font>
+
+722
+01:21:57,946 --> 01:21:59,531
+<font face="Comic Sans MS" color="#ffff80"><b><i>Shut up!</i></b></font>
+
+723
+01:22:00,824 --> 01:22:02,576
+<font face="Comic Sans MS" color="#ffff80"><b><i>That's right!</i></b></font>
+
+724
+01:22:03,660 --> 01:22:05,245
+<font face="Comic Sans MS" color="#ffff80"><b>Elise?</b></font>
+
+725
+01:22:07,289 --> 01:22:09,583
+<font face="Comic Sans MS" color="#ffff80"><b><i>The key is missing.</i></b></font>
+
+726
+01:22:10,334 --> 01:22:13,629
+<font face="Comic Sans MS" color="#ffff80"><b><i>You're all gonna get it again!</i></b></font>
+
+727
+01:22:33,315 --> 01:22:36,568
+<font face="Comic Sans MS" color="#ffff80"><b><i>Do you ever think about the people
+who go to the electric chair?</i></b></font>
+
+728
+01:22:37,653 --> 01:22:38,987
+<font face="Comic Sans MS" color="#ffff80"><b><i>Sometimes.</i></b></font>
+
+729
+01:22:39,154 --> 01:22:41,740
+<font face="Comic Sans MS" color="#ffff80"><b><i>Do you wonder where they go?</i></b></font>
+
+730
+01:22:46,495 --> 01:22:48,622
+<font face="Comic Sans MS" color="#ffff80"><b><i>Your turn now.</i></b></font>
+
+731
+01:23:21,572 --> 01:23:23,323
+<font face="Comic Sans MS" color="#ffff80"><b><i>Look out!</i></b></font>
+
+732
+01:23:59,067 --> 01:24:02,905
+<font face="Comic Sans MS" color="#ffff80"><b><i>--always repeats, my friends.
+The ghosts of their past--</i></b></font>
+
+733
+01:24:05,908 --> 01:24:08,535
+<font face="Comic Sans MS" color="#ffff80"><b><i>--if we do not confront them head-on.</i></b></font>
+
+734
+01:24:26,095 --> 01:24:30,724
+<font face="Comic Sans MS" color="#ffff80"><b><i>If there's one thing you've been doing
+your whole life, Elise, it's ask for it.</i></b></font>
+
+735
+01:24:30,891 --> 01:24:33,769
+<font face="Comic Sans MS" color="#ffff80"><b>No! No, Daddy!</b></font>
+
+736
+01:24:33,936 --> 01:24:36,772
+<font face="Comic Sans MS" color="#ffff80"><b><i>They're all around us in this house.</i></b></font>
+
+737
+01:24:36,939 --> 01:24:38,273
+<font face="Comic Sans MS" color="#ffff80"><b><i>Everywhere.</i></b></font>
+
+738
+01:24:41,485 --> 01:24:44,655
+<font face="Comic Sans MS" color="#ffff80"><b><i>She needs to learn nobody else
+can possibly love someone like her.</i></b></font>
+
+739
+01:24:44,822 --> 01:24:47,116
+<font face="Comic Sans MS" color="#ffff80"><b>Stop, Daddy, stop.</b></font>
+
+740
+01:24:48,158 --> 01:24:50,994
+<font face="Comic Sans MS" color="#ffff80"><b><i>-No, Daddy, please.
+</i>-Please, stop. No.</b></font>
+
+741
+01:24:51,161 --> 01:24:52,830
+<font face="Comic Sans MS" color="#ffff80"><b>-Stop.
+<i>-No. No.</i></b></font>
+
+742
+01:24:52,996 --> 01:24:55,082
+<font face="Comic Sans MS" color="#ffff80"><b><i>No, Daddy!</i></b></font>
+
+743
+01:24:56,125 --> 01:24:57,501
+<font face="Comic Sans MS" color="#ffff80"><b><i>Some people are afraid
+of special people.</i></b></font>
+
+744
+01:24:57,668 --> 01:24:59,920
+<font face="Comic Sans MS" color="#ffff80"><b><i>Your daddy is one of them.</i></b></font>
+
+745
+01:25:03,757 --> 01:25:06,260
+<font face="Comic Sans MS" color="#ffff80"><b><i>I won't let you hurt me anymore.</i></b></font>
+
+746
+01:25:18,230 --> 01:25:19,982
+<font face="Comic Sans MS" color="#ffff80"><b><i>Did you see a ghost?</i></b></font>
+
+747
+01:25:20,149 --> 01:25:22,401
+<font face="Comic Sans MS" color="#ffff80"><b><i>Just say no. That's all you have to do.</i></b></font>
+
+748
+01:25:22,568 --> 01:25:25,988
+<font face="Comic Sans MS" color="#ffff80"><b><i>You can't punish me for this.
+I never wanted it. I never asked for it.</i></b></font>
+
+749
+01:25:28,866 --> 01:25:30,284
+<font face="Comic Sans MS" color="#ffff80"><b>You killed your mother.</b></font>
+
+750
+01:25:45,257 --> 01:25:46,675
+<font face="Comic Sans MS" color="#ffff80"><b>Elise.</b></font>
+
+751
+01:25:49,136 --> 01:25:50,429
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+752
+01:25:54,433 --> 01:25:56,143
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+753
+01:25:57,811 --> 01:26:00,606
+<font face="Comic Sans MS" color="#ffff80"><b><i>He's in my head. He's in my head.</i></b></font>
+
+754
+01:26:00,981 --> 01:26:03,692
+<font face="Comic Sans MS" color="#ffff80"><b><i>My father did the exact same thing
+as Garza.</i></b></font>
+
+755
+01:26:05,569 --> 01:26:09,573
+<font face="Comic Sans MS" color="#ffff80"><b>My father was your puppet.</b></font>
+
+756
+01:26:10,699 --> 01:26:15,204
+<font face="Comic Sans MS" color="#ffff80"><b>I am not gonna feed you
+with hatred anymore, demon.</b></font>
+
+757
+01:26:15,370 --> 01:26:16,705
+<font face="Comic Sans MS" color="#ffff80"><b>You can fucking starve.</b></font>
+
+758
+01:26:19,124 --> 01:26:20,375
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+759
+01:26:20,876 --> 01:26:22,252
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+760
+01:26:26,381 --> 01:26:30,302
+<font face="Comic Sans MS" color="#ffff80"><b>Leave her alone!
+You wanna take somebody, take me.</b></font>
+
+761
+01:26:51,031 --> 01:26:52,616
+<font face="Comic Sans MS" color="#ffff80"><b>Let them go.</b></font>
+
+762
+01:26:54,827 --> 01:26:55,994
+<font face="Comic Sans MS" color="#ffff80"><b><i>See now?</i></b></font>
+
+763
+01:27:07,005 --> 01:27:08,674
+<font face="Comic Sans MS" color="#ffff80"><b>Honey? Honey?</b></font>
+
+764
+01:27:08,841 --> 01:27:11,135
+<font face="Comic Sans MS" color="#ffff80"><b>Nurse! Nurse, get in here!</b></font>
+
+765
+01:27:12,344 --> 01:27:13,929
+<font face="Comic Sans MS" color="#ffff80"><b>Melissa!</b></font>
+
+766
+01:27:24,815 --> 01:27:26,567
+<font face="Comic Sans MS" color="#ffff80"><b>One, two, three, four.</b></font>
+
+767
+01:27:37,744 --> 01:27:39,538
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry.</b></font>
+
+768
+01:27:45,794 --> 01:27:46,920
+<font face="Comic Sans MS" color="#ffff80"><b>No! No!</b></font>
+
+769
+01:27:48,380 --> 01:27:49,673
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+770
+01:27:49,840 --> 01:27:52,885
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+771
+01:28:12,780 --> 01:28:14,281
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+772
+01:29:05,290 --> 01:29:07,167
+<font face="Comic Sans MS" color="#ffff80"><b>Hands off my little girl.</b></font>
+
+773
+01:29:43,745 --> 01:29:45,539
+<font face="Comic Sans MS" color="#ffff80"><b>No, no, no.</b></font>
+
+774
+01:29:45,706 --> 01:29:47,458
+<font face="Comic Sans MS" color="#ffff80"><b>Elise!</b></font>
+
+775
+01:29:47,624 --> 01:29:49,376
+<font face="Comic Sans MS" color="#ffff80"><b>She's hurt.</b></font>
+
+776
+01:30:29,708 --> 01:30:32,002
+<font face="Comic Sans MS" color="#ffff80"><b>Return to your body. Go.</b></font>
+
+777
+01:30:40,094 --> 01:30:41,553
+<font face="Comic Sans MS" color="#ffff80"><b>Baby.</b></font>
+
+778
+01:30:42,221 --> 01:30:43,847
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, Dad.</b></font>
+
+779
+01:30:44,014 --> 01:30:46,433
+<font face="Comic Sans MS" color="#ffff80"><b>Elise, she saved me.</b></font>
+
+780
+01:31:10,207 --> 01:31:12,000
+<font face="Comic Sans MS" color="#ffff80"><b>I don't know the words.</b></font>
+
+781
+01:31:16,296 --> 01:31:18,632
+<font face="Comic Sans MS" color="#ffff80"><b>I already know, my love.</b></font>
+
+782
+01:31:25,681 --> 01:31:27,349
+<font face="Comic Sans MS" color="#ffff80"><b>Keep helping people.</b></font>
+
+783
+01:31:46,910 --> 01:31:48,662
+<font face="Comic Sans MS" color="#ffff80"><b>Go home.</b></font>
+
+784
+01:31:58,255 --> 01:32:00,466
+<font face="Comic Sans MS" color="#ffff80"><b>Imogen, wake up!</b></font>
+
+785
+01:32:01,592 --> 01:32:02,801
+<font face="Comic Sans MS" color="#ffff80"><b>Are you okay?</b></font>
+
+786
+01:32:02,968 --> 01:32:04,219
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah, I think so.</b></font>
+
+787
+01:32:07,014 --> 01:32:10,267
+<font face="Comic Sans MS" color="#ffff80"><b>You can't get rid of me that easy.
+The hospital.</b></font>
+
+788
+01:32:14,271 --> 01:32:16,815
+<font face="Comic Sans MS" color="#ffff80"><b><i>Nurse needed in ICU stat.</i></b></font>
+
+789
+01:32:16,982 --> 01:32:19,651
+<font face="Comic Sans MS" color="#ffff80"><b><i>Nurse needed in ICU stat.</i></b></font>
+
+790
+01:32:22,237 --> 01:32:23,864
+<font face="Comic Sans MS" color="#ffff80"><b>-Hey, sweetheart.
+-Hey.</b></font>
+
+791
+01:32:24,031 --> 01:32:25,157
+<font face="Comic Sans MS" color="#ffff80"><b>Hi.</b></font>
+
+792
+01:32:25,324 --> 01:32:26,867
+<font face="Comic Sans MS" color="#ffff80"><b>I'm okay.</b></font>
+
+793
+01:32:27,034 --> 01:32:29,328
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, my God.</b></font>
+
+794
+01:32:29,787 --> 01:32:31,288
+<font face="Comic Sans MS" color="#ffff80"><b>Hi.</b></font>
+
+795
+01:32:46,887 --> 01:32:48,597
+<font face="Comic Sans MS" color="#ffff80"><b>I believe this is yours.</b></font>
+
+796
+01:32:55,187 --> 01:32:56,814
+<font face="Comic Sans MS" color="#ffff80"><b>You were right, Christian.</b></font>
+
+797
+01:32:56,980 --> 01:32:58,524
+<font face="Comic Sans MS" color="#ffff80"><b>I'm cursed.</b></font>
+
+798
+01:32:58,690 --> 01:33:01,443
+<font face="Comic Sans MS" color="#ffff80"><b>Demons follow me around.</b></font>
+
+799
+01:33:02,569 --> 01:33:07,658
+<font face="Comic Sans MS" color="#ffff80"><b>But I don't want to give them
+what they want for one second longer.</b></font>
+
+800
+01:33:07,825 --> 01:33:10,869
+<font face="Comic Sans MS" color="#ffff80"><b>Fear and pain is what feeds them.</b></font>
+
+801
+01:33:12,121 --> 01:33:14,706
+<font face="Comic Sans MS" color="#ffff80"><b>I'm the one that's been feeding them...</b></font>
+
+802
+01:33:14,873 --> 01:33:17,376
+<font face="Comic Sans MS" color="#ffff80"><b>...shutting you out all these years.</b></font>
+
+803
+01:33:18,252 --> 01:33:19,878
+<font face="Comic Sans MS" color="#ffff80"><b>You forgive me?</b></font>
+
+804
+01:33:20,045 --> 01:33:22,172
+<font face="Comic Sans MS" color="#ffff80"><b>I never should have left you.</b></font>
+
+805
+01:33:29,721 --> 01:33:31,432
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+
+806
+01:33:32,141 --> 01:33:33,725
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+807
+01:33:41,358 --> 01:33:43,026
+<font face="Comic Sans MS" color="#ffff80"><b>Melissa...</b></font>
+
+808
+01:33:43,193 --> 01:33:45,028
+<font face="Comic Sans MS" color="#ffff80"><b>...you gonna eat that?</b></font>
+
+809
+01:33:46,447 --> 01:33:47,906
+<font face="Comic Sans MS" color="#ffff80"><b>Go for it.</b></font>
+
+810
+01:33:51,577 --> 01:33:55,998
+<font face="Comic Sans MS" color="#ffff80"><b>You know, I always thought
+that I was afraid of dying...</b></font>
+
+811
+01:33:57,040 --> 01:33:59,835
+<font face="Comic Sans MS" color="#ffff80"><b>...but now I realise that I wasn't.</b></font>
+
+812
+01:34:00,627 --> 01:34:02,713
+<font face="Comic Sans MS" color="#ffff80"><b>I was afraid of dying...</b></font>
+
+813
+01:34:02,880 --> 01:34:06,133
+<font face="Comic Sans MS" color="#ffff80"><b>...before I truly had a family again.</b></font>
+
+814
+01:34:07,885 --> 01:34:09,595
+<font face="Comic Sans MS" color="#ffff80"><b>Now I do.</b></font>
+
+815
+01:34:10,053 --> 01:34:11,722
+<font face="Comic Sans MS" color="#ffff80"><b>Son of a--</b></font>
+
+816
+01:34:12,389 --> 01:34:13,891
+<font face="Comic Sans MS" color="#ffff80"><b>I told you not to park there.</b></font>
+
+817
+01:34:14,057 --> 01:34:16,894
+<font face="Comic Sans MS" color="#ffff80"><b>-Just saying, I did.
+-Listen to your buddy.</b></font>
+
+818
+01:34:17,728 --> 01:34:20,230
+<font face="Comic Sans MS" color="#ffff80"><b>He gets the girl, I get the ticket?</b></font>
+
+819
+01:34:21,565 --> 01:34:23,025
+<font face="Comic Sans MS" color="#ffff80"><b>I'm riding shotgun.</b></font>
+
+820
+01:34:23,192 --> 01:34:26,069
+<font face="Comic Sans MS" color="#ffff80"><b>We'll have to come back here
+to deal with that ticket.</b></font>
+
+821
+01:35:10,572 --> 01:35:12,241
+<font face="Comic Sans MS" color="#ffff80"><b>Dalton.</b></font>
+
+822
+01:35:12,908 --> 01:35:15,994
+<font face="Comic Sans MS" color="#ffff80"><b>Today was just so horrible.
+I'm scared nothing's gonna change.</b></font>
+
+823
+01:35:16,161 --> 01:35:17,496
+<font face="Comic Sans MS" color="#ffff80"><b>It will.</b></font>
+
+824
+01:35:18,080 --> 01:35:19,790
+<font face="Comic Sans MS" color="#ffff80"><b>I promise you.</b></font>
+
+825
+01:35:20,249 --> 01:35:22,376
+<font face="Comic Sans MS" color="#ffff80"><b><i>Just gotta give it time.</i></b></font>
+
+826
+01:35:42,896 --> 01:35:45,065
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, Dalton.</b></font>
+
+827
+01:35:59,538 --> 01:36:00,581
+<font face="Comic Sans MS" color="#ffff80"><b>Hello.</b></font>
+
+828
+01:36:00,747 --> 01:36:04,418
+<font face="Comic Sans MS" color="#ffff80"><b><i>I'm so sorry for calling so late.
+My name is Lorraine.</i></b></font>
+
+829
+01:36:04,585 --> 01:36:08,756
+<font face="Comic Sans MS" color="#ffff80"><b><i>You helped my family a long time ago
+when my son was just a boy.</i></b></font>
+
+830
+01:36:08,922 --> 01:36:11,842
+<font face="Comic Sans MS" color="#ffff80"><b><i>And now the same thing is happening
+to my grandson.</i></b></font>
+
+831
+01:36:12,009 --> 01:36:13,594
+<font face="Comic Sans MS" color="#ffff80"><b>Dalton.</b></font>
+
+832
+01:36:14,011 --> 01:36:15,387
+<font face="Comic Sans MS" color="#ffff80"><b><i>How did you know his name?</i></b></font>
+
+833
+01:36:16,430 --> 01:36:18,432
+<font face="Comic Sans MS" color="#ffff80"><b>It's what I do.</b></font>
+
+834
+01:36:20,434 --> 01:36:22,728
+<font face="Comic Sans MS" color="#ffff80"><b>Tell Josh I'll be there in the morning.</b></font>
+
+835
+01:36:22,895 --> 01:36:24,646
+<font face="Comic Sans MS" color="#ffff80"><b><i>Thank you.</i></b></font>
+
+836
+01:36:24,813 --> 01:36:27,566
+<font face="Comic Sans MS" color="#ffff80"><b>-Good night.
+<i>-Good night.</i></b></font>
+

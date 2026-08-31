@@ -1,0 +1,2439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BaconSite</title>
+<link rel="icon" href="data:,">
+
+<style>
+
+*{box-sizing:border-box}
+
+:root{
+--primary-color:#ff3b3b;
+--primary-light:#ff6b6b;
+--secondary-color:#00bfff;
+--secondary-light:#4dcfff;
+--bg-dark:#050505;
+--bg-darker:#1a0000;
+--bg-panel:#0b0b0b;
+--bg-card:#1a1a1a;
+--bg-card-alt:#2a2a2a;
+--text-color:#ffffff;
+--muted-color:#888888;
+--accent:#ff6b00;
+}
+
+body{
+margin:0;
+font-family:Segoe UI,Arial;
+background:linear-gradient(135deg,var(--bg-dark),var(--bg-darker));
+color:var(--text-color, #ffffff);
+}
+
+header{
+background:var(--bg-panel);
+padding:25px;
+text-align:center;
+border-bottom:3px solid var(--primary-color);
+box-shadow:0 0 20px rgba(255,59,59,.4);
+}
+
+header h1{
+margin:0;
+color:var(--primary-color);
+letter-spacing:2px;
+font-size:2.5rem;
+text-transform:uppercase;
+font-weight:900;
+display:flex;
+align-items:center;
+justify-content:center;
+gap:12px;
+}
+
+.brand-logo{
+max-height:42px;
+max-width:220px;
+object-fit:contain;
+filter:drop-shadow(0 3px 8px rgba(0,0,0,0.18));
+vertical-align:middle;
+}
+
+.brand-word{
+vertical-align:middle;
+}
+
+nav{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:10px;
+background:var(--bg-panel);
+padding:15px;
+}
+
+nav button{
+background:var(--bg-card);
+border:1px solid var(--primary-color);
+color:var(--text-color);
+padding:12px 18px;
+border-radius:8px;
+cursor:pointer;
+font-weight:600;
+font-size:1rem;
+transition:all 0.2s ease;
+}
+
+nav button:hover{
+background:var(--primary-color);
+color:black;
+transform:scale(1.05);
+}
+
+.cloak-bar{
+background:rgba(255,255,255,0.04);
+border:2px solid rgba(255,255,255,0.08);
+border-radius:14px;
+margin:18px auto 0;
+max-width:1200px;
+padding:14px 16px;
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.cloak-toolbar{
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+justify-content:center;
+align-items:center;
+}
+
+.cloak-pill{
+background:rgba(255,255,255,0.04);
+border:1px solid rgba(255,255,255,0.12);
+color:var(--text-color);
+padding:10px 16px;
+border-radius:999px;
+cursor:pointer;
+font-weight:700;
+transition:all 0.2s ease;
+}
+
+.cloak-pill.active,.cloak-pill:hover{
+background:var(--primary-color);
+color:#000;
+border-color:var(--primary-color);
+transform:translateY(-1px);
+}
+
+.cloak-status{
+text-align:center;
+font-size:0.84rem;
+letter-spacing:0.05em;
+color:var(--muted-color);
+text-transform:uppercase;
+margin-top:8px;
+}
+
+.cloak-preview{
+position:fixed;
+inset:0;
+background:var(--cloak-bg, #f6f7fb);
+display:none;
+justify-content:center;
+align-items:flex-start;
+padding:22px;
+z-index:1200;
+}
+
+body.is-cloaked .cloak-preview{
+display:flex;
+}
+
+body.is-cloaked header,
+body.is-cloaked nav,
+body.is-cloaked .tab-content,
+body.is-cloaked .theme-button,
+body.is-cloaked .theme-panel{
+  opacity:1;
+  filter:none;
+  pointer-events:auto;
+}
+
+.cloak-window{
+width:min(1180px, 100%);
+background:var(--cloak-panel, #ffffff);
+border:1px solid rgba(0,0,0,0.06);
+border-radius:20px;
+box-shadow:0 30px 80px rgba(0,0,0,0.18);
+overflow:hidden;
+}
+
+.cloak-topbar{
+height:72px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+padding:0 24px;
+background:var(--cloak-header, #ffffff);
+border-bottom:1px solid rgba(0,0,0,0.06);
+}
+
+.cloak-brand{
+font-weight:800;
+font-size:1.2rem;
+color:var(--cloak-text, #202124);
+letter-spacing:-0.02em;
+}
+
+.cloak-search{
+flex:1;
+max-width:640px;
+margin:0 24px;
+padding:12px 18px;
+border-radius:999px;
+background:var(--cloak-search, #f1f3f4);
+color:var(--cloak-muted, #5f6368);
+font-size:0.95rem;
+}
+
+.cloak-actions{
+width:90px;
+height:36px;
+border-radius:18px;
+background:var(--cloak-accent, #1a73e8);
+color:white;
+font-weight:700;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.cloak-shell{
+padding:18px 28px 28px;
+background:var(--cloak-bg, #f6f7fb);
+}
+
+.cloak-hero{
+background:linear-gradient(135deg,var(--cloak-accent, #1a73e8), var(--cloak-accent-2, #4d9bff));
+color:white;
+border-radius:18px;
+padding:28px 30px;
+margin-bottom:18px;
+min-height:180px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+}
+
+.cloak-hero h2{
+margin:0 0 8px;
+font-size:clamp(2rem, 4vw, 3.2rem);
+}
+
+.cloak-hero p{
+margin:0;
+font-size:1rem;
+opacity:0.9;
+}
+
+.cloak-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+gap:18px;
+}
+
+.cloak-card{
+background:var(--cloak-panel, white);
+border-radius:16px;
+padding:18px 16px;
+border:1px solid rgba(0,0,0,0.06);
+box-shadow:0 8px 20px rgba(0,0,0,0.04);
+}
+
+.cloak-card .badge{
+font-size:0.72rem;
+font-weight:700;
+text-transform:uppercase;
+letter-spacing:0.06em;
+color:var(--cloak-accent, #1a73e8);
+margin-bottom:10px;
+display:block;
+}
+
+.cloak-card strong{
+font-size:1.25rem;
+color:var(--cloak-text, #202124);
+}
+
+.cloak-card span{
+color:var(--cloak-muted, #5f6368);
+font-size:0.9rem;
+display:block;
+margin-top:8px;
+}
+
+.tab-content{
+display:none;
+padding:30px 20px;
+max-width:100%;
+margin:auto;
+}
+
+.tab-content.active{display:block}
+
+.tab-content h2{
+font-size:2.2rem;
+margin:20px 0 30px 0;
+color:var(--primary-color);
+text-align:center;
+font-weight:900;
+text-transform:uppercase;
+letter-spacing:1px;
+}
+
+.button-container{
+display:flex;
+flex-wrap:wrap;
+gap:15px;
+justify-content:center;
+align-items:center;
+min-height:200px;
+}
+
+.link-btn{
+background:linear-gradient(135deg,#1a1a1a,#2a0000);
+border:2px solid var(--primary-color);
+color:white;
+padding:20px 40px;
+border-radius:12px;
+cursor:pointer;
+font-weight:700;
+font-size:1.2rem;
+text-decoration:none;
+display:inline-block;
+transition:all 0.3s ease;
+box-shadow:0 0 20px rgba(255,59,59,0.1);
+letter-spacing:1px;
+min-width:220px;
+text-align:center;
+}
+
+.link-btn:hover{
+background:linear-gradient(135deg,var(--primary-color),var(--primary-light));
+color:black;
+transform:translateY(-3px);
+box-shadow:0 10px 30px rgba(255,59,59,0.4);
+border-color:var(--primary-light);
+}
+
+.link-btn-kahoot{
+background:linear-gradient(135deg,#1a1a1a,#2a0000);
+border:2px solid #ff6b00;
+box-shadow:0 0 20px rgba(255,107,0,0.1);
+}
+
+.link-btn-kahoot:hover{
+background:linear-gradient(135deg,#ff6b00,#cc5500);
+border-color:#ff944d;
+box-shadow:0 10px 30px rgba(255,107,0,0.4);
+}
+
+.link-btn-games{
+background:linear-gradient(135deg,#1a1a1a,#001a2a);
+border:2px solid #00bfff;
+box-shadow:0 0 20px rgba(0,191,255,0.1);
+}
+
+.link-btn-games:hover{
+background:linear-gradient(135deg,#00bfff,#0099cc);
+border-color:#4dcfff;
+box-shadow:0 10px 30px rgba(0,191,255,0.4);
+}
+
+.link-btn .icon{
+font-size:1.5rem;
+display:block;
+margin-bottom:5px;
+}
+
+.link-btn .label{
+display:block;
+}
+
+.content-list{
+text-align:left;
+max-width:600px;
+margin:0 auto;
+background:var(--bg-panel);
+padding:20px;
+border-radius:12px;
+border:2px solid var(--primary-color);
+}
+
+.list-item{
+padding:12px 15px;
+margin:8px 0;
+background:var(--bg-card);
+border-left:4px solid var(--primary-color);
+border-radius:4px;
+transition:all 0.2s ease;
+}
+
+.list-item:hover{
+background:#2a2a2a;
+transform:translateX(5px);
+box-shadow:0 4px 12px rgba(255,59,59,0.2);
+}
+
+.show-title{
+font-size:1.3rem;
+font-weight:700;
+color:var(--accent);
+padding:15px 0 10px 0;
+border-bottom:2px solid var(--accent);
+margin-bottom:15px;
+}
+
+.season-group{
+margin-bottom:20px;
+}
+
+.season-header{
+font-size:1.1rem;
+font-weight:600;
+color:var(--secondary-color);
+padding:10px 0 8px 15px;
+border-left:3px solid var(--secondary-color);
+}
+
+.content-grid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
+gap:20px;
+margin-top:20px;
+max-width:1400px;
+margin-left:auto;
+margin-right:auto;
+padding:0 20px;
+}
+
+@media (max-width: 768px) {
+.content-grid{
+grid-template-columns:repeat(auto-fill,minmax(140px,1fr));
+gap:15px;
+}
+}
+
+@media (max-width: 480px) {
+.content-grid{
+grid-template-columns:repeat(auto-fill,minmax(120px,1fr));
+gap:10px;
+}
+}
+
+.movie-card{
+background:linear-gradient(135deg,var(--bg-card),rgba(42,0,0,0.9));
+border:2px solid var(--primary-color);
+border-radius:12px;
+overflow:hidden;
+cursor:pointer;
+transition:all 0.3s ease;
+box-shadow:0 4px 15px rgba(255,59,59,0.2);
+display:flex;
+flex-direction:column;
+}
+
+.movie-card:hover{
+transform:translateY(-8px);
+box-shadow:0 12px 25px rgba(255,59,59,0.4);
+border-color:var(--primary-light);
+}
+
+.movie-cover{
+width:100%;
+height:280px;
+display:flex;
+align-items:flex-end;
+justify-content:flex-start;
+padding:15px;
+box-sizing:border-box;
+background:linear-gradient(180deg,rgba(42,0,0,0.3),rgba(255,59,59,0.8));
+border-bottom:2px solid var(--primary-color);
+position:relative;
+font-size:2rem;
+font-weight:700;
+color:white;
+text-shadow:2px 2px 4px rgba(0,0,0,0.8);
+}
+
+.movie-poster{
+width:100%;
+height:280px;
+object-fit:cover;
+border-bottom:2px solid var(--primary-color);
+display:block;
+}
+
+.movie-title{
+padding:8px;
+font-weight:700;
+font-size:0.85rem;
+color:var(--primary-color);
+text-align:center;
+flex-grow:1;
+display:flex;
+align-items:center;
+justify-content:center;
+line-height:1.2;
+}
+
+.tv-card{
+background:linear-gradient(135deg,var(--bg-card),var(--bg-darker));
+border:2px solid var(--secondary-color);
+border-radius:12px;
+overflow:hidden;
+cursor:pointer;
+transition:all 0.3s ease;
+box-shadow:0 4px 15px rgba(0,191,255,0.2);
+display:flex;
+flex-direction:column;
+}
+
+.tv-card:hover{
+transform:translateY(-8px);
+box-shadow:0 12px 25px rgba(0,191,255,0.4);
+border-color:var(--secondary-light);
+}
+
+.tv-cover{
+width:100%;
+height:240px;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:4rem;
+background:linear-gradient(135deg,var(--secondary-light),var(--bg-dark));
+border-bottom:2px solid var(--secondary-color);
+}
+
+.tv-title{
+padding:12px;
+font-weight:700;
+font-size:0.9rem;
+color:var(--secondary-color);
+text-align:center;
+flex-grow:1;
+display:flex;
+align-items:center;
+justify-content:center;
+line-height:1.3;
+}
+
+.modal{
+display:none;
+position:fixed;
+z-index:1000;
+left:0;
+top:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.95);
+animation:fadeIn 0.3s ease;
+}
+
+.modal.fullscreen-active{
+background:#000;
+}
+
+@keyframes fadeIn{
+from{opacity:0}
+to{opacity:1}
+}
+
+.modal-content{
+position:relative;
+max-width:90%;
+max-height:90%;
+margin:5% auto;
+background:#0a0a0a;
+border:3px solid var(--primary-color);
+border-radius:12px;
+overflow:auto;
+}
+
+.modal-content.fullscreen-video{
+width:100vw;
+height:100vh;
+max-width:100vw;
+max-height:100vh;
+margin:0;
+background:#000;
+border:none;
+border-radius:0;
+overflow:hidden;
+}
+
+.modal-content.fullscreen-video .modal-info{
+display:none;
+}
+
+.modal-content.fullscreen-video .close{
+display:none;
+}
+
+.video-container{
+position:relative;
+width:100%;
+height:480px;
+background:#000;
+}
+
+.video-container.fullscreen-video{
+width:100vw;
+height:100vh;
+}
+
+.close{
+position:absolute;
+right:20px;
+top:20px;
+font-size:32px;
+font-weight:bold;
+color:var(--primary-color);
+cursor:pointer;
+z-index:1001;
+background:#000;
+width:40px;
+height:40px;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+border:2px solid var(--primary-color);
+}
+
+.close:hover{
+color:var(--primary-light);
+background:#1a1a1a;
+border-color:var(--primary-light);
+}
+
+.modal.fullscreen-active .close{
+right:30px;
+top:30px;
+width:50px;
+height:50px;
+font-size:36px;
+}
+
+.theme-button{
+position:fixed;
+bottom:20px;
+right:20px;
+width:50px;
+height:50px;
+background:var(--primary-color);
+border:none;
+border-radius:50%;
+color:black;
+font-size:1.5rem;
+cursor:pointer;
+z-index:999;
+display:flex;
+align-items:center;
+justify-content:center;
+transition:all 0.3s ease;
+box-shadow:0 4px 15px rgba(255,59,59,0.4);
+}
+
+.theme-button:hover{
+transform:scale(1.1);
+box-shadow:0 6px 20px rgba(255,59,59,0.6);
+}
+
+.theme-panel{
+position:fixed;
+bottom:80px;
+right:20px;
+background:#0a0a0a;
+border:2px solid var(--primary-color);
+border-radius:12px;
+padding:15px;
+z-index:999;
+display:none;
+min-width:200px;
+box-shadow:0 4px 20px rgba(0,0,0,0.8);
+}
+
+.theme-panel.active{
+display:block;
+animation:slideIn 0.3s ease;
+}
+
+@keyframes slideIn{
+from{transform:translateY(20px);opacity:0}
+to{transform:translateY(0);opacity:1}
+}
+
+.theme-option{
+padding:8px 12px;
+margin:5px 0;
+background:#1a1a1a;
+border:1px solid #333;
+border-radius:6px;
+cursor:pointer;
+font-size:0.9rem;
+transition:all 0.2s ease;
+}
+
+.theme-option:hover{
+background:var(--primary-color);
+color:black;
+border-color:var(--primary-color);
+}
+
+.subtitle-track{
+display:none;
+}
+
+::cue{
+background:rgba(0,0,0,0.8);
+color:white;
+font-size:1.1rem;
+}
+
+.chat-container{
+max-width:800px;
+height:600px;
+margin:0 auto;
+background:#0a0a0a;
+border:2px solid var(--secondary-color);
+border-radius:12px;
+display:flex;
+flex-direction:column;
+overflow:hidden;
+}
+
+.chat-messages{
+flex:1;
+overflow-y:auto;
+padding:20px;
+display:flex;
+flex-direction:column;
+gap:15px;
+}
+
+.message{
+display:flex;
+gap:10px;
+margin-bottom:10px;
+}
+
+.message.user{
+justify-content:flex-end;
+}
+
+.message.ai{
+justify-content:flex-start;
+}
+
+.message-content{
+max-width:70%;
+padding:12px 15px;
+border-radius:8px;
+word-wrap:break-word;
+}
+
+.message.user .message-content{
+background:var(--primary-color);
+color:black;
+border-bottom-right-radius:2px;
+}
+
+.message.ai .message-content{
+background:#1a1a1a;
+color:white;
+border:1px solid var(--secondary-color);
+border-bottom-left-radius:2px;
+}
+
+.chat-input-container{
+display:flex;
+gap:10px;
+padding:15px;
+border-top:2px solid var(--secondary-color);
+background:#0a0a0a;
+}
+
+.chat-input{
+flex:1;
+padding:12px 15px;
+background:#1a1a1a;
+border:1px solid var(--secondary-color);
+border-radius:8px;
+color:white;
+font-size:0.95rem;
+font-family:Segoe UI,Arial;
+}
+
+.chat-input:focus{
+outline:none;
+border-color:var(--secondary-light);
+box-shadow:0 0 10px rgba(0,191,255,0.2);
+}
+
+.chat-send-btn{
+background:var(--secondary-color);
+border:none;
+color:black;
+padding:12px 20px;
+border-radius:8px;
+cursor:pointer;
+font-weight:700;
+transition:all 0.2s ease;
+}
+
+.chat-send-btn:hover{
+background:var(--secondary-light);
+transform:scale(1.05);
+}
+
+.chat-send-btn:active{
+transform:scale(0.95);
+}
+
+video{
+width:100%;
+height:auto;
+display:block;
+}
+
+.player-controls{
+background:var(--bg-panel);
+padding:15px;
+border-top:2px solid var(--primary-color);
+display:flex;
+align-items:center;
+gap:10px;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.control-btn{
+background:var(--bg-card);
+border:1px solid var(--primary-color);
+color:var(--primary-color);
+width:40px;
+height:40px;
+border-radius:4px;
+cursor:pointer;
+font-weight:700;
+font-size:1rem;
+transition:all 0.2s ease;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.control-btn:hover{
+background:var(--primary-color);
+color:#000;
+transform:scale(1.1);
+}
+
+.control-btn:active{
+transform:scale(0.95);
+}
+
+.progress-container{
+flex:1;
+min-width:200px;
+display:flex;
+align-items:center;
+gap:8px;
+}
+
+.progress-bar{
+width:100%;
+height:6px;
+background:#333;
+border-radius:3px;
+cursor:pointer;
+position:relative;
+}
+
+.progress-bar:hover{
+height:8px;
+}
+
+.progress-fill{
+height:100%;
+background:var(--primary-color);
+border-radius:3px;
+width:0%;
+}
+
+.time-display{
+font-size:0.9rem;
+min-width:100px;
+text-align:center;
+color:var(--primary-color);
+}
+
+.modal-info{
+padding:20px;
+color:var(--text-color);
+}
+
+.modal-info h2{
+color:var(--primary-color);
+margin-top:0;
+}
+
+.episode-list{
+max-width:700px;
+margin:20px auto;
+background:#0a0a0a;
+padding:20px;
+border-radius:12px;
+border:2px solid #00bfff;
+}
+
+.tv-show-container{
+max-width:900px;
+margin:0 auto;
+}
+
+.show-header{
+display:flex;
+gap:20px;
+align-items:center;
+margin-bottom:30px;
+background:#0a0a0a;
+padding:20px;
+border-radius:12px;
+border:2px solid #00bfff;
+}
+
+.show-poster{
+width:150px;
+height:220px;
+object-fit:cover;
+border-radius:8px;
+border:2px solid #00bfff;
+flex-shrink:0;
+}
+
+.show-info{
+flex:1;
+}
+
+.show-info h3{
+margin:0 0 10px 0;
+font-size:1.8rem;
+color:var(--secondary-color);
+}
+
+.show-info p{
+margin:0;
+color:#888;
+font-size:1rem;
+}
+
+.season-title{
+font-size:1.2rem;
+font-weight:700;
+color:var(--secondary-color);
+padding-bottom:15px;
+margin-bottom:15px;
+border-bottom:2px solid var(--secondary-color);
+}
+
+.episode-item{
+padding:12px 15px;
+margin:8px 0;
+background:#1a1a2a;
+border-left:4px solid var(--secondary-color);
+border-radius:4px;
+cursor:pointer;
+transition:all 0.2s ease;
+font-size:0.95rem;
+}
+
+.episode-item:hover{
+background:#2a2a3a;
+transform:translateX(5px);
+box-shadow:0 4px 12px rgba(0,191,255,0.2);
+}
+
+.show-wrapper{
+margin-bottom:28px;
+}
+
+.show-card-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+  gap:20px;
+  margin-top:20px;
+}
+
+.show-card{
+  background:linear-gradient(180deg,var(--bg-card),#111827);
+  border:2px solid var(--secondary-color);
+  border-radius:16px;
+  overflow:hidden;
+  transition:all 0.3s ease;
+  cursor:pointer;
+  box-shadow:0 10px 24px rgba(0,191,255,0.12);
+}
+
+.show-card:hover{
+  transform:translateY(-6px);
+  box-shadow:0 16px 28px rgba(0,191,255,0.24);
+  border-color:var(--secondary-light);
+}
+
+.show-card-poster{
+  width:100%;
+  height:250px;
+  object-fit:cover;
+  display:block;
+  border-bottom:2px solid var(--secondary-color);
+}
+
+.show-card-fallback{
+  width:100%;
+  height:250px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:linear-gradient(135deg,var(--secondary-light),var(--bg-dark));
+  color:white;
+  font-weight:900;
+  font-size:3rem;
+  border-bottom:2px solid var(--secondary-color);
+}
+
+.show-card-body{
+  padding:14px 14px 12px;
+}
+
+.show-card-title{
+  font-size:1.15rem;
+  font-weight:800;
+  color:var(--secondary-color);
+  margin:0 0 8px;
+  line-height:1.3;
+}
+
+.show-card-meta{
+  color:var(--muted-color);
+  font-size:0.85rem;
+  margin-bottom:10px;
+}
+
+.show-card-episodes{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+}
+
+.show-card-episode{
+  background:#1e2a38;
+  border:1px solid rgba(0,191,255,0.35);
+  color:#d7f6ff;
+  border-radius:999px;
+  padding:5px 8px;
+  font-size:0.72rem;
+  font-weight:600;
+}
+
+.show-list-grid{
+  display:flex;
+  flex-direction:column;
+  gap:18px;
+  margin-top:20px;
+}
+
+.show-list-card{
+  background:linear-gradient(180deg, rgba(17,24,39,0.96), rgba(19,26,38,0.96));
+  border:1px solid rgba(120,138,255,0.35);
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 10px 24px rgba(0,0,0,0.22);
+}
+
+.show-list-card summary::-webkit-details-marker {
+  display:none;
+}
+
+.show-summary {
+  list-style:none;
+  cursor:pointer;
+  padding:14px 16px;
+  background:linear-gradient(180deg, rgba(88,96,192,0.18), rgba(45,52,84,0.18));
+}
+
+.show-summary-main {
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+
+.show-summary-poster {
+  width:78px;
+  height:110px;
+  object-fit:cover;
+  border-radius:10px;
+  flex-shrink:0;
+  border:1px solid rgba(255,255,255,0.2);
+}
+
+.show-summary-text {
+  flex:1;
+  min-width:0;
+}
+
+.show-summary-title {
+  margin:0;
+  font-size:1.1rem;
+  font-weight:800;
+  color:#f2f4ff;
+}
+
+.show-summary-meta {
+  margin:6px 0 0;
+  color:#b9bfd3;
+  font-size:0.86rem;
+}
+
+.show-season-list {
+  padding:0 16px 16px;
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+}
+
+.show-season-box {
+  background:rgba(29,36,52,0.75);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:12px;
+  overflow:hidden;
+}
+
+.show-season-header {
+  padding:10px 12px;
+  background:rgba(167,139,250,0.18);
+  color:#f3f4ff;
+  font-weight:700;
+}
+
+.show-episode-list {
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+  padding:10px 10px 12px;
+}
+
+.show-episode-row {
+  display:block;
+  width:100%;
+  text-align:left;
+  background:rgba(255,255,255,0.02);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:10px;
+  color:#eef2ff;
+  padding:10px 12px;
+  cursor:pointer;
+  font-size:0.95rem;
+  transition:all 0.2s ease;
+}
+
+.show-episode-row:hover {
+  background:rgba(98,132,255,0.18);
+  border-color:rgba(98,132,255,0.4);
+  transform:translateX(2px);
+}
+
+.empty-state{
+text-align:center;
+color:var(--muted-color);
+padding:30px 20px;
+background:rgba(255,255,255,0.03);
+border:1px solid rgba(255,255,255,0.08);
+border-radius:12px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1 id="mainBrand">
+  <img id="brandLogo" class="brand-logo" src="" alt="BaconSite logo" style="display:none;">
+  <span id="brandWord" class="brand-word">BaconSite</span>
+</h1>
+</header>
+
+<div class="theme-panel" id="themePanel">
+<div class="theme-option" onclick="setTheme('red')">🔴 Red (Default)</div>
+<div class="theme-option" onclick="setTheme('blue')">🔵 Blue</div>
+<div class="theme-option" onclick="setTheme('green')">🟢 Green</div>
+<div class="theme-option" onclick="setTheme('purple')">🟣 Purple</div>
+<div class="theme-option" onclick="setTheme('orange')">🟠 Orange</div>
+</div>
+<button class="theme-button" onclick="toggleThemePanel()">🎨</button>
+
+<nav>
+<button onclick="showTab('kahoot')">Kahoot</button>
+<button onclick="showTab('games')">Games</button>
+<button onclick="showTab('movies')">Movies</button>
+<button onclick="showTab('tvshows')">TV Shows</button>
+</nav>
+
+<div id="kahoot" class="tab-content active">
+<h2>Kahoot Botter</h2>
+<div class="button-container">
+<button class="link-btn link-btn-kahoot" onclick="openFullscreenAboutBlank('https://baconhubkahootbotter.netlify.app/')">
+<span class="icon">🚀</span>
+<span class="label">Launch Botter</span>
+</button>
+</div>
+</div>
+
+<div id="games" class="tab-content">
+<h2>Unblocked Games</h2>
+<div class="button-container">
+<button class="link-btn link-btn-games" onclick="window.open('https://sites.google.com/view/drive-u-7-home/home', '_blank')">
+<span class="icon">🎮</span>
+<span class="label">Open Games</span>
+</button>
+</div>
+</div>
+
+<div id="movies" class="tab-content">
+<h2>🎬 Movies</h2>
+<div class="content-grid" id="moviesGrid"></div>
+</div>
+
+<div id="tvshows" class="tab-content">
+<h2>📺 TV Shows</h2>
+<div id="tvshowsGrid" class="tv-show-container"></div>
+</div>
+
+<div id="videoModal" class="modal">
+<div class="modal-content">
+<span class="close" onclick="closeVideo()">&times;</span>
+<div class="video-container">
+<video id="videoPlayer" ontimeupdate="updateProgress()">
+<track kind="subtitles" id="subtitleTrack" class="subtitle-track">
+Your browser does not support the video tag.
+</video>
+<div class="player-controls">
+<button class="control-btn" id="playPauseBtn" onclick="togglePlayPause()">▶</button>
+<button class="control-btn" onclick="skipBackward()">⏮</button>
+<button class="control-btn" onclick="skipForward()">⏭</button>
+<div class="progress-container">
+<div class="progress-bar" id="progressBar" onclick="seek(event)">
+<div class="progress-fill" id="progressFill"></div>
+</div>
+</div>
+<div class="time-display"><span id="currentTime">0:00</span> / <span id="duration">0:00</span></div>
+<button class="control-btn" id="subtitleBtn" onclick="toggleSubtitles()" style="display:none;">CC</button>
+<button class="control-btn" id="subtitleToggleBtn" onclick="toggleSubtitleDisplay()" title="Turn subtitles on or off">Sub On</button>
+<select id="subtitleLanguageSelect" style="display:none; max-width:120px; border-radius:8px; border:1px solid rgba(255,255,255,0.12); background:#111; color:var(--text-color); padding:5px 8px; font-size:0.8rem;" aria-label="Choose subtitle language"></select>
+<button class="control-btn" id="subtitleDelayDownBtn" onclick="adjustSubtitleDelay(-0.5)" title="Earlier subtitles">-0.5s</button>
+<button class="control-btn" id="subtitleDelayUpBtn" onclick="adjustSubtitleDelay(0.5)" title="Later subtitles">+0.5s</button>
+<button class="control-btn" id="loadSubtitleBtn" onclick="document.getElementById('subtitleLoader').click()" title="Load subtitle file">📂</button>
+<input type="file" id="subtitleLoader" accept=".srt,.vtt" style="display:none" onchange="loadManualSubtitle(this)">
+<div id="subtitleStatus" class="subtitle-status" style="font-size:0.75rem; color:var(--muted-color); min-width:120px; text-align:center;">No subtitles</div>
+<button class="control-btn" id="volumeBtn" onclick="toggleMute()">🔊</button>
+<input type="range" id="volumeControl" min="0" max="300" value="300" onchange="setVolume(this.value)" style="width:80px;cursor:pointer;">
+<button class="control-btn" onclick="toggleFullscreen()">⛶</button>
+</div>
+</div>
+<div class="modal-info">
+<h2 id="videoTitle">Now Playing</h2>
+<p>Press ESC or click X to close</p>
+</div>
+</div>
+</div>
+
+<script>
+
+function setTheme(theme){
+const themes={
+red:{
+'--primary-color':'#ff3b3b',
+'--primary-light':'#ff6b6b',
+'--secondary-color':'#00bfff',
+'--secondary-light':'#4dcfff',
+'--bg-dark':'#050505',
+'--bg-darker':'#1a0000',
+'--bg-panel':'#0b0b0b',
+'--bg-card':'#1a1a1a',
+'--bg-card-alt':'#2a2a2a',
+'--text-color':'#ffffff',
+'--muted-color':'#888888',
+'--accent':'#ff6b00'
+},
+blue:{
+'--primary-color':'#00bfff',
+'--primary-light':'#4dcfff',
+'--secondary-color':'#00bfff',
+'--secondary-light':'#88ddff',
+'--bg-dark':'#001a2a',
+'--bg-darker':'#0a1a2a',
+'--bg-panel':'#0c1d2a',
+'--bg-card':'#13273d',
+'--bg-card-alt':'#1c394f',
+'--text-color':'#f0fbff',
+'--muted-color':'#9ecae1',
+'--accent':'#00bfff'
+},
+green:{
+'--primary-color':'#00ff3b',
+'--primary-light':'#6bff6b',
+'--secondary-color':'#00e0a8',
+'--secondary-light':'#7cf0d0',
+'--bg-dark':'#001a05',
+'--bg-darker':'#0a1d0f',
+'--bg-panel':'#0c1d10',
+'--bg-card':'#13311c',
+'--bg-card-alt':'#1c4730',
+'--text-color':'#f2fff5',
+'--muted-color':'#a9d8b3',
+'--accent':'#00ff3b'
+},
+purple:{
+'--primary-color':'#d946ef',
+'--primary-light':'#ec4899',
+'--secondary-color':'#a855f7',
+'--secondary-light':'#d8b4fe',
+'--bg-dark':'#1a0033',
+'--bg-darker':'#2d0052',
+'--bg-panel':'#1d0d2d',
+'--bg-card':'#2b1242',
+'--bg-card-alt':'#3a1f59',
+'--text-color':'#f8ebff',
+'--muted-color':'#d4b5ea',
+'--accent':'#d946ef'
+},
+orange:{
+'--primary-color':'#ff6b00',
+'--primary-light':'#ff944d',
+'--secondary-color':'#ffb000',
+'--secondary-light':'#ffd166',
+'--bg-dark':'#1a0a00',
+'--bg-darker':'#2d1500',
+'--bg-panel':'#221106',
+'--bg-card':'#3b1d00',
+'--bg-card-alt':'#4d2600',
+'--text-color':'#fff7ef',
+'--muted-color':'#f2c59d',
+'--accent':'#ff6b00'
+}
+};
+
+const selectedTheme = themes[theme] ? theme : 'red';
+const root=document.documentElement;
+Object.keys(themes[selectedTheme]).forEach(key => {
+root.style.setProperty(key, themes[selectedTheme][key]);
+});
+
+localStorage.setItem('baconTheme', selectedTheme);
+closeThemePanel();
+}
+
+function toggleThemePanel(){
+const panel=document.getElementById('themePanel');
+panel.classList.toggle('active');
+}
+
+function closeThemePanel(){
+const panel=document.getElementById('themePanel');
+panel.classList.remove('active');
+}
+
+const subtitleState = {
+  enabled: true,
+  delaySeconds: 0,
+  candidates: [],
+  activeUrl: '',
+  activeLanguage: 'default',
+  currentFile: ''
+};
+
+function updateSubtitleStatus(message, isError = false) {
+  const statusEl = document.getElementById('subtitleStatus');
+  if (!statusEl) return;
+  statusEl.textContent = message;
+  statusEl.style.color = isError ? '#ff8b8b' : 'var(--muted-color)';
+}
+
+function setSubtitleToggleState() {
+  const subtitleBtn = document.getElementById('subtitleBtn');
+  const subtitleToggleBtn = document.getElementById('subtitleToggleBtn');
+  const subtitleLanguageSelect = document.getElementById('subtitleLanguageSelect');
+  const hasTracks = subtitleState.candidates.length > 0;
+
+  if (subtitleToggleBtn) {
+    subtitleToggleBtn.textContent = subtitleState.enabled ? 'Sub On' : 'Sub Off';
+    subtitleToggleBtn.disabled = !hasTracks;
+    subtitleToggleBtn.style.opacity = hasTracks ? '1' : '0.5';
+  }
+
+  if (subtitleBtn) {
+    subtitleBtn.style.display = hasTracks ? 'block' : 'none';
+    subtitleBtn.style.background = subtitleState.enabled ? 'var(--primary-color)' : '#1a1a1a';
+    subtitleBtn.style.color = subtitleState.enabled ? 'black' : 'var(--primary-color)';
+    subtitleBtn.textContent = subtitleState.enabled ? 'CC' : 'CC Off';
+  }
+
+  if (subtitleLanguageSelect) {
+    subtitleLanguageSelect.style.display = hasTracks > 1 ? 'inline-block' : 'none';
+  }
+}
+
+function populateSubtitleLanguageSelect(candidates) {
+  const select = document.getElementById('subtitleLanguageSelect');
+  if (!select) return;
+
+  select.innerHTML = '';
+  if (!candidates || candidates.length === 0) {
+    select.style.display = 'none';
+    return;
+  }
+
+  candidates.forEach((item, index) => {
+    const option = document.createElement('option');
+    option.value = index;
+    option.textContent = item.label;
+    if (item.lang === subtitleState.activeLanguage) {
+      option.selected = true;
+    }
+    select.appendChild(option);
+  });
+
+  select.style.display = candidates.length > 1 ? 'inline-block' : 'none';
+}
+
+function applySubtitleDelayToTrack() {
+  const subtitleTrack = document.getElementById('subtitleTrack');
+  if (!subtitleTrack || !subtitleTrack.track || !subtitleTrack.track.cues) return;
+
+  const cues = Array.from(subtitleTrack.track.cues || []);
+  cues.forEach((cue) => {
+    cue.startTime = Number(cue.startTime) + subtitleState.delaySeconds;
+    cue.endTime = Number(cue.endTime) + subtitleState.delaySeconds;
+  });
+}
+
+function adjustSubtitleDelay(amount) {
+  const subtitleTrack = document.getElementById('subtitleTrack');
+  if (!subtitleTrack || !subtitleTrack.src) {
+    updateSubtitleStatus('Load subtitles first before adjusting delay.', true);
+    return;
+  }
+
+  subtitleState.delaySeconds = Math.max(-10, Math.min(10, subtitleState.delaySeconds + amount));
+  applySubtitleDelayToTrack();
+  updateSubtitleStatus(`Subtitle delay: ${subtitleState.delaySeconds.toFixed(1)}s`);
+}
+
+function toggleSubtitleDisplay() {
+  const subtitleTrack = document.getElementById('subtitleTrack');
+  if (!subtitleTrack || !subtitleTrack.src) {
+    updateSubtitleStatus('No subtitle file is loaded yet.', true);
+    return;
+  }
+
+  subtitleState.enabled = !subtitleState.enabled;
+  if (subtitleTrack.track) {
+    subtitleTrack.track.mode = subtitleState.enabled ? 'showing' : 'hidden';
+  }
+  setSubtitleToggleState();
+  updateSubtitleStatus(subtitleState.enabled ? 'Subtitles enabled' : 'Subtitles disabled');
+}
+
+function toggleSubtitles() {
+  toggleSubtitleDisplay();
+}
+
+function resolveSubtitleCandidates(filename) {
+  const isTvEpisode = /S\d+E\d+/i.test(filename);
+  const folders = isTvEpisode ? ['Tv shows', 'subtitles'] : ['movies', 'subtitles'];
+  const baseName = filename.replace(/\.(mkv|mp4|avi|mov|webm)$/i, '');
+  const languageCodes = ['', 'en', 'es', 'fr', 'de', 'it', 'pt', 'ja', 'ko', 'zh'];
+  const fileTypes = ['srt', 'vtt'];
+  const variants = new Set();
+
+  function addVariant(value) {
+    const clean = String(value || '').trim();
+    if (clean) variants.add(clean);
+  }
+
+  const exactMatch = SUBTITLE_ALIASES[titleKey(baseName)] || SUBTITLE_ALIASES[titleKey(filename)] || null;
+  if (exactMatch) {
+    folders.forEach((folder) => {
+      variants.add(exactMatch);
+      variants.add(exactMatch.replace(/\s+/g, '.'));
+      variants.add(exactMatch.replace(/[._\s]+/g, '.'));
+      variants.add(exactMatch.replace(/\s*\(\d{4}\)/i, ''));
+    });
+  }
+
+  addVariant(baseName);
+  addVariant(baseName.replace(/[_-]+/g, ' '));
+  addVariant(baseName.replace(/[._-]+/g, ' '));
+  addVariant(baseName.replace(/[^a-z0-9]+/gi, ' '));
+  addVariant(baseName.replace(/[()]/g, ' '));
+  addVariant(baseName.replace(/\s*\(\d{4}\)/i, ''));
+  addVariant(baseName.replace(/\s+/g, '.'));
+  addVariant(baseName.replace(/[._\s]+/g, '.'));
+
+  const candidates = [];
+  const seen = new Set();
+
+  variants.forEach((variant) => {
+    const normalizedVariant = String(variant).trim();
+    folders.forEach((folder) => {
+      languageCodes.forEach((lang) => {
+        fileTypes.forEach((ext) => {
+          const candidateName = lang ? `${normalizedVariant}.${lang}.${ext}` : `${normalizedVariant}.${ext}`;
+          const url = `${folder}/${candidateName}`;
+          const key = `${folder}|${candidateName}`;
+          if (seen.has(key)) return;
+          seen.add(key);
+          const label = lang ? `${lang.toUpperCase()} ${ext.toUpperCase()}` : `Default ${ext.toUpperCase()}`;
+          candidates.push({ label, url, lang: lang || 'default', format: ext });
+        });
+      });
+    });
+  });
+
+  if (exactMatch) {
+    const directFolder = folders[0] || 'subtitles';
+    candidates.unshift({ label: 'Exact match', url: `${directFolder}/${exactMatch}`, lang: 'default', format: 'srt' });
+  }
+
+  return candidates;
+}
+
+async function applySubtitleSource(filename) {
+  const subtitleTrack = document.getElementById('subtitleTrack');
+  const subtitleBtn = document.getElementById('subtitleBtn');
+  subtitleState.currentFile = filename;
+  subtitleState.delaySeconds = 0;
+  subtitleState.candidates = [];
+
+  const discovered = resolveSubtitleCandidates(filename);
+  const found = [];
+
+  if (window.location.protocol === 'file:') {
+    const direct = discovered.find(candidate => candidate.url.startsWith('subtitles/')) || discovered[0];
+    if (direct) {
+      subtitleState.candidates = [direct];
+      subtitleTrack.src = direct.url;
+      subtitleTrack.kind = 'subtitles';
+      subtitleTrack.default = false;
+      subtitleTrack.srclang = 'en';
+      subtitleTrack.label = direct.label;
+      subtitleTrack.track.mode = 'showing';
+      subtitleState.enabled = true;
+      subtitleState.activeUrl = direct.url;
+      subtitleState.activeLanguage = direct.lang;
+      setSubtitleToggleState();
+      updateSubtitleStatus(`Loaded subtitles: ${direct.label}`);
+      return;
+    }
+
+    subtitleTrack.src = '';
+    subtitleState.activeUrl = '';
+    subtitleState.enabled = true;
+    setSubtitleToggleState();
+    updateSubtitleStatus('Open this site through a local web server to auto-load subtitles.', true);
+    if (subtitleBtn) subtitleBtn.style.display = 'none';
+    return;
+  }
+
+  for (const candidate of discovered) {
+    try {
+      const response = await fetch(candidate.url, { method: 'HEAD' });
+      if (response.ok) {
+        found.push(candidate);
+      }
+    } catch (error) {
+      // Ignore missing files and continue checking alternatives.
+    }
+  }
+
+  subtitleState.candidates = found;
+  subtitleTrack.src = '';
+  subtitleTrack.track.mode = 'hidden';
+  subtitleState.activeUrl = '';
+
+  if (found.length === 0) {
+    subtitleState.enabled = false;
+    setSubtitleToggleState();
+    updateSubtitleStatus('No subtitle files were found for this video.', true);
+    return;
+  }
+
+  subtitleState.activeLanguage = found[0].lang;
+  subtitleState.activeUrl = found[0].url;
+  populateSubtitleLanguageSelect(found);
+  subtitleTrack.src = found[0].url;
+  subtitleTrack.kind = 'subtitles';
+  subtitleTrack.default = false;
+  subtitleTrack.srclang = found[0].lang === 'default' ? 'en' : found[0].lang;
+  subtitleTrack.label = found[0].label;
+  subtitleTrack.track.mode = subtitleState.enabled ? 'showing' : 'hidden';
+  setSubtitleToggleState();
+  updateSubtitleStatus(`Loaded subtitles: ${found[0].label}`);
+}
+
+function loadManualSubtitle(input) {
+  const file = input.files && input.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = function (event) {
+    const subtitleTrack = document.getElementById('subtitleTrack');
+    const content = event.target.result;
+    const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+
+    subtitleState.candidates = [{ label: 'Manual', url, lang: 'manual', format: file.name.endsWith('.vtt') ? 'vtt' : 'srt' }];
+    subtitleState.activeUrl = url;
+    subtitleState.activeLanguage = 'manual';
+    subtitleState.enabled = true;
+    subtitleState.delaySeconds = 0;
+    populateSubtitleLanguageSelect(subtitleState.candidates);
+    subtitleTrack.src = url;
+    subtitleTrack.kind = 'subtitles';
+    subtitleTrack.default = false;
+    subtitleTrack.srclang = 'en';
+    subtitleTrack.label = 'Manual';
+    subtitleTrack.track.mode = 'showing';
+    setSubtitleToggleState();
+    updateSubtitleStatus('Manual subtitle file loaded');
+  };
+  reader.readAsText(file, 'utf-8');
+}
+
+function selectSubtitleLanguage(index) {
+  const subtitleTrack = document.getElementById('subtitleTrack');
+  const selected = subtitleState.candidates[Number(index)];
+  if (!selected) return;
+
+  subtitleTrack.src = selected.url;
+  subtitleState.activeLanguage = selected.lang;
+  subtitleState.activeUrl = selected.url;
+  subtitleState.delaySeconds = 0;
+  subtitleTrack.srclang = selected.lang === 'default' ? 'en' : selected.lang;
+  subtitleTrack.label = selected.label;
+  subtitleTrack.track.mode = subtitleState.enabled ? 'showing' : 'hidden';
+  updateSubtitleStatus(`Loaded subtitles: ${selected.label}`);
+}
+
+const subtitleLanguageSelect = document.getElementById('subtitleLanguageSelect');
+if (subtitleLanguageSelect) {
+  subtitleLanguageSelect.addEventListener('change', function () {
+    selectSubtitleLanguage(this.value);
+  });
+}
+
+const subtitleTrack = document.getElementById('subtitleTrack');
+if (subtitleTrack) {
+  subtitleTrack.addEventListener('load', function () {
+    applySubtitleDelayToTrack();
+    setSubtitleToggleState();
+    if (subtitleState.enabled) {
+      subtitleTrack.track.mode = 'showing';
+    }
+  });
+  subtitleTrack.addEventListener('error', function () {
+    updateSubtitleStatus('Subtitle file failed to load.', true);
+  });
+}
+
+async function resolveMediaUrl(folder, filename) {
+  const variants = new Set();
+  const base = String(filename || '').trim();
+  const withoutExt = base.replace(/\.(mkv|mp4|avi|mov|webm)$/i, '');
+
+  [base, withoutExt].forEach((value) => {
+    if (!value) return;
+    variants.add(value);
+    variants.add(value.replace(/[_-]+/g, ' '));
+    variants.add(value.replace(/[._-]+/g, ' '));
+    variants.add(value.replace(/[^a-z0-9]+/gi, ' '));
+    variants.add(value.replace(/\s*\(\d{4}\)/i, ''));
+  });
+
+  const knownFiles = folder === 'Tv shows' ? TV_FILES : MOVIE_FILES;
+  knownFiles.forEach((known) => {
+    const knownBase = known.replace(/\.(mkv|mp4|avi|mov|webm)$/i, '');
+    const normalizedKnown = knownBase.replace(/[_-]+/g, ' ').replace(/[._]+/g, ' ').replace(/\s+/g, ' ').trim().toLowerCase();
+    const normalizedBase = withoutExt.replace(/[_-]+/g, ' ').replace(/[._]+/g, ' ').replace(/\s+/g, ' ').trim().toLowerCase();
+    if (normalizedKnown === normalizedBase) {
+      variants.add(known);
+      variants.add(knownBase);
+    }
+  });
+
+  const extensions = ['.mkv', '.mp4', '.avi', '.mov', '.webm'];
+  const candidates = [];
+  const seen = new Set();
+
+  variants.forEach((variant) => {
+    const trimmed = String(variant || '').trim();
+    if (!trimmed) return;
+    const hasExt = /\.(mkv|mp4|avi|mov|webm)$/i.test(trimmed);
+    const cleanVariant = trimmed.replace(/\s+/g, ' ');
+    candidates.push(`${folder}/${cleanVariant}`);
+    if (!hasExt) {
+      extensions.forEach((ext) => candidates.push(`${folder}/${cleanVariant}${ext}`));
+    }
+  });
+
+  for (const candidate of candidates) {
+    if (seen.has(candidate)) continue;
+    seen.add(candidate);
+    try {
+      const response = await fetch(candidate, { method: 'HEAD' });
+      if (response.ok) {
+        return candidate;
+      }
+    } catch (error) {
+      // Ignore unavailable candidates and continue checking others.
+    }
+  }
+
+  return `${folder}/${filename}`;
+}
+
+async function playMovie(filename){
+const modal=document.getElementById("videoModal");
+const video=document.getElementById("videoPlayer");
+const title=document.getElementById("videoTitle");
+const playPauseBtn=document.getElementById("playPauseBtn");
+const subtitleBtn=document.getElementById("subtitleBtn");
+const isTvEpisode=/S\d+E\d+/i.test(filename);
+const mediaFolder=isTvEpisode ? "Tv shows" : "movies";
+const videoExtensions=/\.(mkv|mp4|webm|avi|mov)$/i;
+
+const cleanTitle=filename.replace(videoExtensions,'');
+title.textContent=cleanTitle;
+
+const subtitleTrack=document.getElementById('subtitleTrack');
+const resolvedPath = await resolveMediaUrl(mediaFolder, filename);
+video.src = resolvedPath;
+
+subtitleTrack.src='';
+subtitleState.enabled = true;
+subtitleState.delaySeconds = 0;
+subtitleBtn.style.display='none';
+subtitleTrack.kind='subtitles';
+subtitleTrack.track.mode='hidden';
+
+modal.style.display="block";
+video.play();
+playPauseBtn.textContent="⏸";
+
+video.onloadedmetadata=function(){
+document.getElementById("duration").textContent=formatTime(video.duration);
+};
+
+if (window.location.protocol === 'file:') {
+  updateSubtitleStatus('Open this site through a local web server to auto-load subtitles.', true);
+  subtitleBtn.style.display = 'none';
+  return;
+}
+
+applySubtitleSource(filename).catch(() => {
+  updateSubtitleStatus('No subtitle files were found for this video.', true);
+});
+}
+
+function toggleSubtitles(){
+const subtitleTrack=document.getElementById('subtitleTrack');
+const btn=document.getElementById('subtitleBtn');
+if (!subtitleTrack.src) {
+  btn.style.display = 'none';
+  return;
+}
+if (subtitleTrack.track.mode === 'hidden' || subtitleTrack.track.mode === '') {
+subtitleTrack.track.mode='showing';
+btn.style.background='var(--primary-color)';
+btn.style.color='black';
+}else{
+subtitleTrack.track.mode='hidden';
+btn.style.background='#1a1a1a';
+btn.style.color='var(--primary-color)';
+}
+}
+
+function showTab(id){
+document.querySelectorAll(".tab-content").forEach(tab=>{
+tab.style.display="none"
+})
+document.getElementById(id).style.display="block"
+}
+
+function togglePlayPause(){
+const video=document.getElementById("videoPlayer");
+const btn=document.getElementById("playPauseBtn");
+if(video.paused){
+video.play();
+btn.textContent="⏸";
+}else{
+video.pause();
+btn.textContent="▶";
+}
+}
+
+function skipForward(){
+const video=document.getElementById("videoPlayer");
+video.currentTime+=10;
+}
+
+function skipBackward(){
+const video=document.getElementById("videoPlayer");
+video.currentTime-=10;
+}
+
+function updateProgress(){
+const video=document.getElementById("videoPlayer");
+const progress=document.getElementById("progressFill");
+const currentTimeEl=document.getElementById("currentTime");
+const percent=(video.currentTime/video.duration)*100;
+progress.style.width=percent+"%";
+currentTimeEl.textContent=formatTime(video.currentTime);
+}
+
+function seek(event){
+const video=document.getElementById("videoPlayer");
+const progressBar=document.getElementById("progressBar");
+const rect=progressBar.getBoundingClientRect();
+const percent=(event.clientX-rect.left)/rect.width;
+video.currentTime=percent*video.duration;
+}
+
+function setVolume(value){
+const video=document.getElementById("videoPlayer");
+const safeValue=Math.min(300, Math.max(0, Number(value) || 0));
+video.volume=safeValue / 300;
+}
+
+function toggleMute(){
+const video=document.getElementById("videoPlayer");
+const btn=document.getElementById("volumeBtn");
+const volumeControl=document.getElementById("volumeControl");
+if(video.muted){
+video.muted=false;
+btn.textContent="🔊";
+volumeControl.value=Math.round(video.volume * 300);
+}else{
+video.muted=true;
+btn.textContent="🔇";
+}
+}
+
+function toggleFullscreen(){
+const modal=document.getElementById("videoModal");
+const modalContent=document.querySelector(".modal-content");
+const videoContainer=document.querySelector(".video-container");
+const video=document.getElementById("videoPlayer");
+
+if(!document.fullscreenElement && !modal.classList.contains("fullscreen-active")){
+const requestFullscreen = (el) => {
+if(el && typeof el.requestFullscreen === 'function'){
+return el.requestFullscreen().catch(() => {});
+}
+if(el && typeof el.webkitRequestFullscreen === 'function'){
+return el.webkitRequestFullscreen();
+}
+if(el && typeof el.mozRequestFullScreen === 'function'){
+return el.mozRequestFullScreen();
+}
+if(el && typeof el.msRequestFullscreen === 'function'){
+return el.msRequestFullscreen();
+}
+return Promise.resolve();
+};
+
+requestFullscreen(video).then(() => {
+modal.classList.add("fullscreen-active");
+modalContent.classList.add("fullscreen-video");
+videoContainer.classList.add("fullscreen-video");
+document.body.style.overflow="hidden";
+}).catch(() => {
+requestFullscreen(modalContent).then(() => {
+modal.classList.add("fullscreen-active");
+modalContent.classList.add("fullscreen-video");
+videoContainer.classList.add("fullscreen-video");
+document.body.style.overflow="hidden";
+});
+});
+return;
+}
+
+if(document.fullscreenElement){
+if(document.exitFullscreen){
+document.exitFullscreen();
+}else if(document.webkitExitFullscreen){
+document.webkitExitFullscreen();
+}else if(document.mozCancelFullScreen){
+document.mozCancelFullScreen();
+}else if(document.msExitFullscreen){
+document.msExitFullscreen();
+}
+}
+
+modal.classList.remove("fullscreen-active");
+modalContent.classList.remove("fullscreen-video");
+videoContainer.classList.remove("fullscreen-video");
+document.body.style.overflow="auto";
+}
+
+function formatTime(seconds){
+if(!seconds||isNaN(seconds))return "0:00";
+const mins=Math.floor(seconds/60);
+const secs=Math.floor(seconds%60);
+return mins+":"+(secs<10?"0":"")+secs;
+}
+
+function closeVideo(){
+const modal=document.getElementById("videoModal");
+const modalContent=document.querySelector(".modal-content");
+const videoContainer=document.querySelector(".video-container");
+const video=document.getElementById("videoPlayer");
+
+if(modal.classList.contains("fullscreen-active")){
+if(document.exitFullscreen){
+document.exitFullscreen();
+}else if(document.webkitExitFullscreen){
+document.webkitExitFullscreen();
+}else if(document.mozCancelFullScreen){
+document.mozCancelFullScreen();
+}else if(document.msExitFullscreen){
+document.msExitFullscreen();
+}
+}
+
+modal.classList.remove("fullscreen-active");
+modalContent.classList.remove("fullscreen-video");
+videoContainer.classList.remove("fullscreen-video");
+document.body.style.overflow="auto";
+
+video.pause();
+video.currentTime=0;
+modal.style.display="none";
+}
+
+document.addEventListener('fullscreenchange',()=>{
+if(!document.fullscreenElement){
+const modal=document.getElementById("videoModal");
+const modalContent=document.querySelector(".modal-content");
+const videoContainer=document.querySelector(".video-container");
+modal.classList.remove("fullscreen-active");
+modalContent.classList.remove("fullscreen-video");
+videoContainer.classList.remove("fullscreen-video");
+document.body.style.overflow="auto";
+}
+});
+
+window.onclick=function(event){
+const modal=document.getElementById("videoModal");
+if(event.target==modal){
+closeVideo();
+}
+const themePanel=document.getElementById('themePanel');
+if(themePanel.classList.contains('active')&&!event.target.closest('.theme-button')&&!event.target.closest('.theme-panel')){
+closeThemePanel();
+}
+}
+
+document.addEventListener('keydown',function(event){
+if(event.key==="Escape"){
+const modal=document.getElementById("videoModal");
+const video=document.getElementById("videoPlayer");
+
+if(document.fullscreenElement && (modal.style.display === 'block' || modal.classList.contains('fullscreen-active'))){
+if(document.exitFullscreen){
+document.exitFullscreen();
+}else if(document.webkitExitFullscreen){
+document.webkitExitFullscreen();
+}else if(document.mozCancelFullScreen){
+document.mozCancelFullScreen();
+}else if(document.msExitFullscreen){
+document.msExitFullscreen();
+}
+return;
+}
+
+if(video && !video.paused){
+closeVideo();
+return;
+}
+
+closeVideo();
+}
+});
+
+const MOVIE_FILES = [
+  '21 Jump Street (2012).mkv',
+  '22 Jump Street (2014).mkv',
+  'Bad Boys (1995).mkv',
+  'Bad Boys for Life (2020).mkv',
+  'Bad Boys II (2003).mkv',
+  'Bad Boys Ride or Die (2024).mkv',
+  'Code 8 (2019).mkv',
+  'Code 8 Part II (2024).mkv',
+  'Coyote vs. Acme.mkv',
+  'Deadpool (2016).mkv',
+  'Deadpool 2 (2018).mkv',
+  'Deadpool & Wolverine (2024).mkv',
+  'Grand Theft Auto VI_ An Extended Look (2026).mkv',
+  'Insidious (2010).mkv',
+  'Insidious Chapter 2 (2013).mkv',
+  'Insidious Chapter 3 (2015).mkv',
+  'Insidious The Last Key (2018).mkv',
+  'Insidious The Red Door (2023).mkv',
+  'Insidious_ Out of the Further (2026).mp4',
+  'Kick-Ass (2010).mkv',
+  'Kick-Ass 2 (2013).mkv',
+  'Minions  Monsters (2026).mkv',
+  'Moana (2026).mp4',
+  'Obsession (2026).mkv',
+  'Once Upon a Deadpool (2018).mp4',
+  'Scary Movie (2000).mkv',
+  'Spider-Man_ No Way Home (2021).mp4',
+  'Scary Movie (2026).mkv',
+  'Scary Movie 3 (2003).mkv',
+  'Ted (2012).mkv',
+  'Ted 2 (2015).mkv',
+  'The Whisper Man (2026).mkv',
+  'Trap House (2025).mkv',
+  'Venom (2018).mkv',
+  'Venom Let There Be Carnage (2021).mkv',
+  'Venom The Last Dance (2024).mkv',
+  'X-Men Origins Wolverine (2009).mkv'
+];
+
+const TV_FILES = [
+  'INVINCIBLE (2021) S1E1.mkv',
+  'INVINCIBLE (2021) S1E2.mkv',
+  'INVINCIBLE (2021) S1E3.mkv',
+  'INVINCIBLE (2021) S1E4.mkv',
+  'INVINCIBLE (2021) S1E5.mkv',
+  'INVINCIBLE (2021) S1E6.mkv',
+  'INVINCIBLE (2021) S1E7.mkv',
+  'INVINCIBLE (2021) S1E8.mkv',
+  'INVINCIBLE (2021) S2E1.mkv',
+  'INVINCIBLE (2021) S2E2.mkv',
+  'INVINCIBLE (2021) S2E3.mkv',
+  'INVINCIBLE (2021) S2E4.mkv',
+  'INVINCIBLE (2021) S2E5.mkv',
+  'INVINCIBLE (2021) S2E6.mkv',
+  'INVINCIBLE (2021) S2E7.mkv',
+  'INVINCIBLE (2021) S2E8.mkv',
+  'INVINCIBLE (2021) S3E1.mkv',
+  'INVINCIBLE (2021) S3E2.mp4',
+  'INVINCIBLE (2021) S3E3.mp4',
+  'INVINCIBLE (2021) S3E4.mkv',
+  'INVINCIBLE (2021) S3E5.mp4',
+  'INVINCIBLE (2021) S3E6.mp4',
+  'INVINCIBLE (2021) S3E7.mkv',
+  'INVINCIBLE (2021) S3E8.mkv',
+  'INVINCIBLE (2021) S4E1.mp4',
+  'INVINCIBLE (2021) S4E2.mkv',
+  'INVINCIBLE (2021) S4E3.mkv',
+  'INVINCIBLE (2021) S4E4.mkv',
+  'INVINCIBLE (2021) S4E5.mkv',
+  'INVINCIBLE (2021) S4E6.mkv',
+  'INVINCIBLE (2021) S4E7.mkv',
+  'INVINCIBLE (2021) S4E8.mkv',
+  'Rick and Morty (2013) S1E1.mkv',
+  'Rick and Morty (2013) S1E2.mkv',
+  'Rick and Morty (2013) S1E3.mkv',
+  'Rick and Morty (2013) S1E4.mkv',
+  'Rick and Morty (2013) S1E5.mkv',
+  'Rick and Morty (2013) S1E6.mkv',
+  'Rick and Morty (2013) S1E7.mkv',
+  'Rick and Morty (2013) S1E8.mkv',
+  'Rick and Morty (2013) S1E9.mkv',
+  'Rick and Morty (2013) S1E10.mkv',
+  'Rick and Morty (2013) S1E11.mkv',
+  'Rick and Morty (2013) S2E1.mkv',
+  'Rick and Morty (2013) S2E2.mkv',
+  'Rick and Morty (2013) S2E3.mkv',
+  'Rick and Morty (2013) S2E4.mkv',
+  'Rick and Morty (2013) S2E5.mkv',
+  'Rick and Morty (2013) S2E6.mkv',
+  'Rick and Morty (2013) S2E7.mkv',
+  'Rick and Morty (2013) S2E8.mkv',
+  'Rick and Morty (2013) S2E9.mkv',
+  'Rick and Morty (2013) S2E10.mkv',
+  'Rick and Morty (2013) S3E1.mp4',
+  'Rick and Morty (2013) S3E2.mp4',
+  'Rick and Morty (2013) S3E3.mp4',
+  'Rick and Morty (2013) S3E4.mp4',
+  'Rick and Morty (2013) S3E5.mkv',
+  'Rick and Morty (2013) S3E6.mp4',
+  'Rick and Morty (2013) S3E7.mkv',
+  'Rick and Morty (2013) S3E8.mkv',
+  'Rick and Morty (2013) S3E9.mp4',
+  'Rick and Morty (2013) S3E10.mp4',
+  'Rick and Morty (2013) S4E1.mkv',
+  'Rick and Morty (2013) S4E2.mp4',
+  'Rick and Morty (2013) S4E5.mp4',
+  'Rick and Morty (2013) S5E2.mp4',
+  'Rick and Morty (2013) S5E7.mp4',
+  'Rick and Morty (2013) S5E8.mp4',
+  'Rick and Morty (2013) S5E9.mp4',
+  'Rick and Morty (2013) S5E10.mp4',
+  'Rick and Morty (2013) S6E2.mp4',
+  'Rick and Morty (2013) S6E3.mp4',
+  'Rick and Morty (2013) S6E4.mp4',
+  'Rick and Morty (2013) S6E6.mp4',
+  'Rick and Morty (2013) S6E8.mp4',
+  'Rick and Morty (2013) S6E9.mp4',
+  'Rick and Morty (2013) S6E10.mp4',
+  'Rick and Morty (2013) S7E1.mkv',
+  'Rick and Morty (2013) S7E2.mkv',
+  'Rick and Morty (2013) S7E4.mkv',
+  'Rick and Morty (2013) S7E5.mkv',
+  'Rick and Morty (2013) S7E6.mkv',
+  'Rick and Morty (2013) S7E7.mp4',
+  'Rick and Morty (2013) S7E8.mp4',
+  'Rick and Morty (2013) S7E9.mkv',
+  'Rick and Morty (2013) S7E10.mkv',
+  'Rick and Morty (2013) S8E1.mkv',
+  'Rick and Morty (2013) S8E2.mp4',
+  'Rick and Morty (2013) S8E3.mkv',
+  'Rick and Morty (2013) S8E4.mkv',
+  'Rick and Morty (2013) S8E5.mkv',
+  'Rick and Morty (2013) S8E6.mkv',
+  'Rick and Morty (2013) S8E7.mkv',
+  'Rick and Morty (2013) S8E8.mkv',
+  'Rick and Morty (2013) S8E9.mkv',
+  'Rick and Morty (2013) S8E10.mkv',
+  'Rick and Morty (2013) S9E1.mkv',
+  'Rick and Morty (2013) S9E2.mkv',
+  'Rick and Morty (2013) S9E3.mkv',
+  'Rick and Morty (2013) S9E4.mkv',
+  'Rick and Morty (2013) S9E5.mkv',
+  'Rick and Morty (2013) S9E6.mkv',
+  'Rick and Morty (2013) S9E7.mkv',
+  'Rick and Morty (2013) S9E8.mkv',
+  'Rick and Morty (2013) S9E9.mkv',
+  'Rick and Morty (2013) S9E10.mkv',
+  'ted (2024) S1E1.mkv',
+  'ted (2024) S1E2.mkv',
+  'ted (2024) S1E3.mkv',
+  'ted (2024) S1E4.mkv',
+  'Ted (2024) S1E5.mkv',
+  'ted (2024) S1E6.mkv',
+  'Ted (2024) S1E7.mkv',
+  'ted (2024) S2E1.mkv',
+  'ted (2024) S2E2.mkv',
+  'ted (2024) S2E3.mp4',
+  'ted (2024) S2E4.mkv',
+  'ted (2024) S2E5.mkv',
+  'ted (2024) S2E6.mkv',
+  'ted (2024) S2E7.mkv',
+  'ted (2024) S2E8.mkv'
+];
+
+const COVER_ALIASES = {
+  '21 jump street (2012)': '21 Jump Street (2012).jfif',
+  '22 jump street (2014)': '22 Jump Street (2014).jfif',
+  'bad boys (1995)': 'Bad Boys (1995).jfif',
+  'bad boys for life (2020)': 'Bad Boys for Life (2020).jfif',
+  'bad boys ii (2003)': 'Bad Boys II (2003).jfif',
+  'bad boys ride or die (2024)': 'Bad Boys Ride or Die (2024).jfif',
+  'code 8 (2019)': 'Code 8 (2019).webp',
+  'code 8 part ii (2024)': 'Code 8 Part II (2024).webp',
+  'coyote vs. acme': 'Coyote vs. Acme.webp',
+  'coyote vs acme': 'Coyote vs. Acme.webp',
+  'deadpool (2016)': 'Deadpool (2016).jfif',
+  'deadpool 2 (2018)': 'Deadpool 2 (2018).webp',
+  'deadpool & wolverine (2024)': 'Deadpool & Wolverine (2024).webp',
+  'grand theft auto vi an extended look (2026)': 'Grand Theft Auto VI_ An Extended Look (2026).jfif',
+  'insidious (2010)': 'Insidious (2010).jfif',
+  'insidious chapter 2 (2013)': 'Insidious Chapter 2 (2013).jfif',
+  'insidious chapter 3 (2015)': 'Insidious Chapter 3 (2015).jfif',
+  'insidious the last key (2018)': 'Insidious The Last Key (2018).jfif',
+  'insidious the red door (2023)': 'Insidious The Red Door (2023).jfif',
+  'insidious out of the further (2026)': 'Insidious_ Out of the Further (2026).jfif',
+  'kick ass (2010)': 'Kick-Ass (2010).webp',
+  'kick ass 2 (2013)': 'Kick-Ass 2 (2013).webp',
+  'minions monsters (2026)': 'Minions & Monsters (2026).webp',
+  'moana (2026)': 'Moana (2026).png',
+  'obsession (2026)': 'Obsession (2026).jfif',
+  'once upon a deadpool (2018)': 'Once Upon a Deadpool (2018).webp',
+  'scary movie (2000)': 'Scary Movie (2000).jfif',
+  'spider man no way home (2021)': 'Spider-Man No Way Home (2021).webp',
+  'scary movie (2026)': 'Scary Movie (2026).jfif',
+  'scary movie 3 (2003)': 'Scary Movie 3 (2003).jfif',
+  'ted (2012)': 'Ted (2012).jfif',
+  'ted 2 (2015)': 'Ted 2 (2015).jfif',
+  'the whisper man (2026)': 'The Whisper Man (2026).jfif',
+  'trap house (2025)': 'Trap House (2025).webp',
+  'venom (2018)': 'Venom (2018).webp',
+  'venom let there be carnage (2021)': 'Venom Let There Be Carnage (2021).webp',
+  'venom the last dance (2024)': 'Venom The Last Dance (2024).png',
+  'x men origins wolverine (2009)': 'X-Men Origins Wolverine (2009).webp'
+};
+
+const TV_COVER_ALIASES = {
+  'invincible': 'INVINCIBLE (2021).webp',
+  'invincible (2021)': 'INVINCIBLE (2021).webp',
+  'rick and morty': 'Rick and Morty.webp',
+  'rick and morty (2013)': 'Rick and Morty.webp',
+  'ted': 'Ted.jfif',
+  'ted (2024)': 'Ted.jfif'
+};
+
+function normalizeMediaName(fileName) {
+  return fileName
+    .replace(/\.(mkv|mp4|avi|mov|webm|srt)$/i, '')
+    .replace(/[_-]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function titleKey(name) {
+  return normalizeMediaName(name).toLowerCase();
+}
+
+function resolvePosterPath(fileName, folder) {
+  const key = titleKey(fileName);
+
+  if (folder === 'Tv shows') {
+    const showName = fileName.replace(/\s*S\d+E\d+\.[^.]+$/i, '').trim();
+    return TV_COVER_ALIASES[titleKey(showName)] || null;
+  }
+
+  return COVER_ALIASES[key] || null;
+}
+
+function buildMovieCards() {
+  const moviesGrid = document.getElementById('moviesGrid');
+  if (!moviesGrid) return;
+
+  const files = Array.from(new Set(MOVIE_FILES)).sort((a, b) => a.localeCompare(b));
+  moviesGrid.innerHTML = '';
+
+  files.forEach(file => {
+    const card = document.createElement('div');
+    card.className = 'movie-card';
+    card.onclick = () => playMovie(file);
+
+    const coverFile = resolvePosterPath(file, 'movies');
+    const title = document.createElement('div');
+    title.className = 'movie-title';
+    title.textContent = normalizeMediaName(file);
+
+    if (coverFile) {
+      const img = document.createElement('img');
+      img.className = 'movie-poster';
+      img.alt = normalizeMediaName(file);
+      img.src = `covers/${coverFile}`;
+      img.onerror = function() {
+        this.style.display = 'none';
+        const fallback = document.createElement('div');
+        fallback.className = 'movie-cover';
+        fallback.textContent = normalizeMediaName(file).slice(0, 1).toUpperCase();
+        card.insertBefore(fallback, title);
+      };
+      card.appendChild(img);
+    } else {
+      const fallback = document.createElement('div');
+      fallback.className = 'movie-cover';
+      fallback.textContent = normalizeMediaName(file).slice(0, 1).toUpperCase();
+      card.appendChild(fallback);
+    }
+
+    card.appendChild(title);
+    moviesGrid.appendChild(card);
+  });
+}
+
+function buildTvShowCards() {
+  const grid = document.getElementById('tvshowsGrid');
+  if (!grid) return;
+
+  const uniqueFiles = Array.from(new Set(TV_FILES.map(file => file.toLowerCase()))).map(lower => TV_FILES.find(file => file.toLowerCase() === lower));
+  const episodesByShow = new Map();
+
+  uniqueFiles.forEach(file => {
+    if (!file) return;
+    const match = file.match(/^(.*?)(?:\s*\((\d{4})\))?\s*S(\d+)E(\d+)\.(mkv|mp4|avi|mov|webm)$/i);
+    if (!match) return;
+
+    const showBaseName = match[1].trim();
+    const year = match[2] ? ` (${match[2]})` : '';
+    const showName = `${showBaseName}${year}`.trim();
+    const season = Number(match[3]);
+    const episode = Number(match[4]);
+    const key = showName.toLowerCase();
+
+    if (!episodesByShow.has(key)) {
+      episodesByShow.set(key, { title: showName, seasons: new Map() });
+    }
+
+    const showData = episodesByShow.get(key);
+    const seasonKey = `S${season}`;
+    if (!showData.seasons.has(seasonKey)) {
+      showData.seasons.set(seasonKey, new Map());
+    }
+    showData.seasons.get(seasonKey).set(episode, file);
+  });
+
+  const showGrid = document.createElement('div');
+  showGrid.className = 'show-list-grid';
+  grid.innerHTML = '';
+
+  const showOrder = Array.from(episodesByShow.keys()).sort();
+  showOrder.forEach((showKey, index) => {
+    const showData = episodesByShow.get(showKey);
+    const seasonKeys = Array.from(showData.seasons.keys()).sort((a, b) => Number(a.slice(1)) - Number(b.slice(1)));
+
+    const details = document.createElement('details');
+    details.className = 'show-list-card';
+    details.open = index === 0;
+
+    const summary = document.createElement('summary');
+    summary.className = 'show-summary';
+
+    const posterFile = resolvePosterPath(showData.title, 'Tv shows');
+    const titleWrap = document.createElement('div');
+    titleWrap.className = 'show-summary-main';
+
+    if (posterFile) {
+      const poster = document.createElement('img');
+      poster.className = 'show-summary-poster';
+      poster.src = `covers/${posterFile}`;
+      poster.alt = showData.title;
+      poster.onerror = function() {
+        this.style.display = 'none';
+      };
+      titleWrap.appendChild(poster);
+    }
+
+    const textWrap = document.createElement('div');
+    textWrap.className = 'show-summary-text';
+
+    const title = document.createElement('h3');
+    title.className = 'show-summary-title';
+    title.textContent = showData.title;
+
+    let totalEpisodes = 0;
+    showData.seasons.forEach(seasonMap => totalEpisodes += seasonMap.size);
+
+    const meta = document.createElement('p');
+    meta.className = 'show-summary-meta';
+    meta.textContent = `${totalEpisodes} episodes • ${seasonKeys.length} seasons`;
+
+    textWrap.appendChild(title);
+    textWrap.appendChild(meta);
+    titleWrap.appendChild(textWrap);
+    summary.appendChild(titleWrap);
+    details.appendChild(summary);
+
+    const seasonWrap = document.createElement('div');
+    seasonWrap.className = 'show-season-list';
+
+    seasonKeys.forEach(seasonKey => {
+      const seasonBox = document.createElement('div');
+      seasonBox.className = 'show-season-box';
+
+      const seasonHeader = document.createElement('div');
+      seasonHeader.className = 'show-season-header';
+      seasonHeader.textContent = `${seasonKey} (${showData.seasons.get(seasonKey).size} eps)`;
+
+      const episodeList = document.createElement('div');
+      episodeList.className = 'show-episode-list';
+
+      Array.from(showData.seasons.get(seasonKey).entries())
+        .sort((a, b) => a[0] - b[0])
+        .forEach(([episodeNumber, fileName]) => {
+          const row = document.createElement('button');
+          row.type = 'button';
+          row.className = 'show-episode-row';
+          row.textContent = `E${episodeNumber} • ${normalizeMediaName(fileName).replace(/^.*?S\d+E\d+\s*/i, '').trim() || 'Episode ' + episodeNumber}`;
+          row.onclick = () => playMovie(fileName);
+          episodeList.appendChild(row);
+        });
+
+      seasonBox.appendChild(seasonHeader);
+      seasonBox.appendChild(episodeList);
+      seasonWrap.appendChild(seasonBox);
+    });
+
+    details.appendChild(seasonWrap);
+    showGrid.appendChild(details);
+  });
+
+  grid.appendChild(showGrid);
+
+  if (!showGrid.children.length) {
+    grid.innerHTML = '<p class="empty-state">No TV episodes detected. Check the folder names and try again.</p>';
+  }
+}
+
+window.addEventListener('load',function(){
+  const savedTheme=localStorage.getItem('baconTheme')||'red';
+  setTheme(savedTheme);
+  const brandLogo = document.getElementById('brandLogo');
+  const brandWord = document.getElementById('brandWord');
+  if (brandWord) brandWord.textContent = 'BaconSite';
+  if (brandLogo) {
+    brandLogo.src = '';
+    brandLogo.style.display = 'none';
+  }
+  buildMovieCards();
+  buildTvShowCards();
+});
+
+function openFullscreenAboutBlank(url) {
+  if (!url) return;
+
+  const newWindow = window.open('about:blank', '_blank');
+
+  if (!newWindow) {
+    alert('Pop-up blocked! Please allow pop-ups for this site to use this feature.');
+    return;
+  }
+
+  const doc = newWindow.document;
+  doc.body.style.margin = '0';
+  doc.body.style.padding = '0';
+  doc.body.style.overflow = 'hidden';
+  doc.title = 'New Tab';
+
+  const iframe = doc.createElement('iframe');
+  iframe.src = url;
+  iframe.style.width = '100vw';
+  iframe.style.height = '100vh';
+  iframe.style.border = 'none';
+  iframe.style.margin = '0';
+  iframe.style.padding = '0';
+  iframe.style.display = 'block';
+
+  doc.body.appendChild(iframe);
+}
+
+</script>
+</body>
+</html>
